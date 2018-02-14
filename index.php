@@ -82,7 +82,7 @@
 			  	</li>
 				  <li>won stuff  🏆
 					  <ul>
-					  	<li>a scholarship to attend Apple’s WWDC 2013</li>
+					  	<li>a scholarship to attend Apple’s WWDC 2013 (built an <a href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about myself)</li>
 					  	<li>a scholarship to attend Facebook’s F8 2015</li>
 					  	<li>NewAge 2016 Social Good Hackathon (built a mental health app)</li>
 				  	</ul>
