@@ -35,7 +35,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>building things 👨‍💻</li>
-				  <li>reading, writing, walking, conversing, hanging out, traveling, and thinking about life 📙</li>
+				  <li>reading, writing, walking, conversing, hanging out, traveling, exploring, and thinking about life 🔎🌎</li>
 				  <li>punk rock and punk culture 🤘</li>
 				  <li>skating (when i’m not eating shit... 💩)</li>
 				</ul>
@@ -98,9 +98,9 @@
 				</ul>
 			</div>
 
-			<p class="header">_I ENJOYED READING_</p>
+			<p class="header">_I ENJOYED READING_ 📙</p>
 			<div class="textbody" id="reading">
-				<ul>
+
 				  <li>Principles</li>
 				  <li>Sapiens</li>
 				  <li>Homo Deus</li>
