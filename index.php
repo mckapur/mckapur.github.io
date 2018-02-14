@@ -63,11 +63,12 @@
 			<p class="header">_I'M PROUD THAT I_</p>
 			<div class="textbody">
 				<ul>
-				  <li>built apps  🛠️
+				  <li>built stuff  🛠️
 				  	<ul>
 				  		<li><a href="http://GetContra.com">Contra</a>, a debate tool featured as a “Best New App”; raised $30k, grew to ~10k users</li>
 				  		<li><a href="http://TravelogApp.com">Travelog</a>, a travel app featured by Apple in “20 Under 20”</li>
 				  		<li>an app for <a href="http://ibo.org">IB’s</a> 2012 conference, at their request</li>
+				  		<li>random weekend hacks (iOS, web, Arduino, Leap Motion, Google Glass, etc. etc.)... some on my <a href="http://GitHub.com/MCKapur">GitHub</a>, some not!</li>
 				  		<li>an independent iOS consulting operation I ran from 12-15 y/o, with 4 clients</li>
 				  	</ul>
 			  	</li>
