@@ -45,7 +45,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>studying at Stanford University 🎄</li>
-				  <li>running two crypto businesses to optimize for personal autonomy 🇺🇸</li>
+				  <li>running a few Internet businesses to optimize for personal autonomy 🇺🇸</li>
 				  <li>doing the things that I love 😍</li>
 				</ul>
 			</div>
