@@ -100,7 +100,7 @@
 
 			<p class="header">_I ENJOYED READING_ 📙</p>
 			<div class="textbody" id="reading">
-
+					<br>
 				  <li>Principles</li>
 				  <li>Sapiens</li>
 				  <li>Homo Deus</li>
