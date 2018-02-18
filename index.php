@@ -13,7 +13,7 @@
 			<img src="propic.png" alt="Me!" width="300px">
 
 			<h2>Hi! My name is Rohan.</h2>
-			<p id="tagline">> I’m an 18 year old striving to<br>maximize long-term personal<br>fulfillment.</p>
+			<p id="tagline">> I’m a 19 year old striving to<br>maximize long-term personal<br>fulfillment.</p>
 
 			<p class="header">_ABOUT_</p>
 			<div class="textbody">
