@@ -90,10 +90,10 @@
 			  	</li>
 				  <li>did cool, valuable things  👍
 					  <ul>
+					  	<li>coded for <a href="http://grab.com">Grab</a> (2016), <a href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda (2015)</a>, and <a href="https://www.singpost.com/">Singapore Post</a> (2014)</li>
 					  	<li>started a dev community in my school, incl. <a href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a>: a youth-centric hackathon</li>
 					  	<li><a href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">performed</a> "Jesus of Suburbia" by Green Day in front of 400+ people  🎸</li>
 					  	<li><a href="https://imgur.com/a/3koMH">lost ~50 lbs</a> on the Keto diet from Feb - Sep 2017  🍖</li>
-					  	<li>worked for <a href="http://grab.com">Grab</a> (2016) and <a href="https://www.singpost.com/">Singapore Post</a> (2014)</li>
 				  	</ul>
 				  </li>
 				</ul>
