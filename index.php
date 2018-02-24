@@ -84,7 +84,8 @@
 					  <ul>
 					  	<li>a scholarship to attend Apple’s WWDC 2013 (built an <a href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about myself)</li>
 					  	<li>a scholarship to attend Facebook’s F8 2015</li>
-					  	<li>NewAge 2016 Social Good Hackathon (built a mental health app)</li>
+					  	<li>The <a href="https://www.hackathon.com/event/newage-hackathon-20-24949401331">NewAge Social Good Hackathon</a> (built a mental health app)</li>
+					  	<li>The Computer Science/IT award every single year at my <a href="http://uwcsea.edu.sg">high school</a></li>
 				  	</ul>
 			  	</li>
 				  <li>did cool, valuable things  👍
