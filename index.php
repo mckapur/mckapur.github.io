@@ -112,7 +112,7 @@
 		</div>
 
 		<br>
-		<p id="footer" style="color: #eb4d4b; font-weight: bold;">⬆️<br>❤️ from Rohan Kapur</p>
+		<p id="footer" style="color: #eb4d4b; font-weight: bold;">⬆️ ❤️</p>
 		<br>
 
 	</body>
