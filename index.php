@@ -13,20 +13,20 @@
 			<img src="propic.png" alt="Me!" width="300px">
 
 			<h2>Hi! My name is Rohan.</h2>
-			<p id="tagline">> I’m a 19 year old striving to<br>maximize long-term personal<br>fulfillment.</p>
+			<p id="tagline">> I’m a 19 year old<br>human being.</p>
 
 			<p class="header">_ABOUT_</p>
 			<div class="textbody">
 				<p>I was born and raised in Melbourne, spent my teen years in Singapore, and am now based in the Bay Area. 🇦🇺🇸🇬🇺🇸</p>
 				<p>Early on, I was infatuated with Green Day (I still am.) To get my constant <i>American Idiot</i> fix I bought an iPod, initiating me into the Apple cult. One day I stumbled upon Xcode, an app you could use to... create other apps! From then on, I became student by day, iOS dev by night.</p>
 				<p>When I was 14, I won a scholarship to attend Apple's WWDC 2013. It was the most significant week of my life. I joined a global community of young developers seeking to do great things, from which I have come close to some of the most ambitious and impactful young people in the world. I am eternally grateful to Apple for these platforms and opportunities.</p>
-				<p>In high school, I made lots of things: products, businesses, code, music, articles, etc., most of the time with <a href="http://lenny.io">Lenny Khazan</a>. I also took a philosophy class, which I now reflect upon as being absolutely pivotal for my current mindset, goals, and path going forward.</p>
-				<p>In 2016, I was admitted to Stanford University. Since arriving, I've been influenced by a few students/alumni who've offered invaluable advice for developing and pursuing my goals. During freshman fall, I engaged in 3 months of reading and self-reflection. My aim was to take a step back and figure things out, short and long-term, from first principles. I'm proud of the final outcome: a <a href="https://mckapur.quip.com/OQPOArha0i3K">plan</a> that defines myself and my path going forward.</p>
+				<p>In high school, I made lots of things: products, businesses, code, music, articles, etc., most of the time with <a href="http://lenny.io">Lenny Khazan</a>. I also took a philosophy class, which I now reflect upon as being absolutely pivotal for my current mindset/outlook on life, goals, and path going forward.</p>
+				<p>In 2016, I was admitted to Stanford University. Since arriving, I've been influenced by a few students/alumni who've offered invaluable advice for developing and pursuing my goals. During freshman fall, I engaged in 3 months of reading and self-reflection. My aim was to take a step back and figure things out, short and long-term, from first principles. I'm proud of the final outcome: a <a href="https://mckapur.quip.com/OQPOArha0i3K">collection of thoughts</a> that helps me begin to define who I currently am, who I ideally want to be, and how to begin bridging that gap.</p>
 			</div>
 
 			<p class="header">_GET IN TOUCH_</p>
 			<div class="textbody">
-				<p>I am now executing this plan. If you would like updates, follow me on <a href="http://twitter.com/mckapur" style="color: #1DA1F2">Twitter</a>, add me on <a href="http://facebook.com/mckapur" style="color: #3B5998">Facebook</a>, ask me stuff on <a href="https://stackoverflow.com/users/1260708/mckapur" style="color: #f48024">StackOverflow</a>, and check out my <a href="http://github.com/mckapur" style="color: #2ecc71">GitHub</a>.</p>
+				<p>If you would like updates on my endeavors, follow me on <a href="http://twitter.com/mckapur" style="color: #1DA1F2">Twitter</a>, add me on <a href="http://facebook.com/mckapur" style="color: #3B5998">Facebook</a>, ask me stuff on <a href="https://stackoverflow.com/users/1260708/mckapur" style="color: #f48024">StackOverflow</a>, and check out my <a href="http://github.com/mckapur" style="color: #2ecc71">GitHub</a>.</p>
 				<p>Or, ya know, just <a href="mailto:me@rohankapur.com" style="color: black">email me</a>. That’s cool too.<br>Especially if you’re in the Bay Area and want to chat :)</p>
 				<p>If you feel like learning more, read on. Otherwise, check out my <a href="http://rohankapur.com/blog">blog</a>, where I step out of my comfort zone to share personal thoughts with the world. 😱</p>
 			</div>
