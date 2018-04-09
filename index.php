@@ -53,7 +53,7 @@
 			<p class="header">_I WANT TO_</p>
 			<div class="textbody">
 				<ul>
-				  <li>build the future — a.k.a. do cool shit, a la Elon Musk 😎</li>
+				  <li>build the future — a.k.a. do cool shit 😎</li>
 				  <li>focus on the problem of designing better individuals (via education/learning, smart tools to empower people, eradicating certain social stigmas, etc.)</li>
 				  <li>scale self-actualization to a vastly greater % of humanity</li>
 				  <li>contribute to the mind-body problem, consciousness, and our pursuit of the truth 🚀</li>
