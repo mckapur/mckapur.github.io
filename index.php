@@ -28,7 +28,6 @@
 			<div class="textbody">
 				<p>If you would like updates on my endeavors, follow me on <a href="http://twitter.com/mckapur" style="color: #1DA1F2">Twitter</a>, add me on <a href="http://facebook.com/mckapur" style="color: #3B5998">Facebook</a>, ask me stuff on <a href="https://stackoverflow.com/users/1260708/mckapur" style="color: #f48024">StackOverflow</a>, and check out my <a href="http://github.com/mckapur" style="color: #2ecc71">GitHub</a>.</p>
 				<p>Or, ya know, just <a href="mailto:me@rohankapur.com" style="color: black">email me</a>. That’s cool too.<br>Especially if you’re in the Bay Area and want to chat :)</p>
-				<p>If you feel like learning more, read on. Otherwise, check out my <a href="http://rohankapur.com/blog">blog</a>, where I step out of my comfort zone to share personal thoughts with the world. 😱</p>
 			</div>
 
 			<p class="header">_I LOVE_</p>
@@ -37,7 +36,7 @@
 				  <li>building things 👨‍💻</li>
 				  <li>reading, writing, walking, conversing, hanging out, traveling, exploring, and thinking about life 🔎🌎</li>
 				  <li>punk rock and punk culture 🤘</li>
-				  <li>skating (when i’m not eating shit... 💩)</li>
+				  <li>skating (when i’m not eating shit 💩)</li>
 				</ul>
 			</div>
 
@@ -53,10 +52,9 @@
 			<p class="header">_I WANT TO_</p>
 			<div class="textbody">
 				<ul>
-				  <li>build the future — a.k.a. do cool shit 😎</li>
+				  <li>contribute to real problems, not "a startup" 🙅‍</li>
 				  <li>focus on the problem of designing better individuals (via education/learning, smart tools to empower people, eradicating certain social stigmas, etc.)</li>
-				  <li>scale self-actualization to a vastly greater % of humanity</li>
-				  <li>contribute to the mind-body problem, consciousness, and our pursuit of the truth 🚀</li>
+				  <li>explore the mind-body problem, consciousness, and our pursuit of the truth 🚀</li>
 				</ul>
 			</div>
 
