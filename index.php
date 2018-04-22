@@ -53,7 +53,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>contribute to real problems, not "a startup" 🙅‍</li>
-				  <li>focus on the problem of individualism (via redesigned education/learning, smart tools to empower people, eradicating certain social stigmas, redefining our relationship with technology, etc.)</li>
+				  <li>create more individualism (via redesigned education/learning, smart tools to empower people, eradicating certain social stigmas, redefining our relationship with technology, etc.) 😎</li>
 				  <li>explore the mind-body problem, consciousness, and our pursuit of the truth 🚀</li>
 				</ul>
 			</div>
