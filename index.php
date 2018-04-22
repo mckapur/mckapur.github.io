@@ -43,7 +43,7 @@
 			<p class="header">_RIGHT NOW, I'M_</p>
 			<div class="textbody">
 				<ul>
-				  <li>studying at Stanford University 🎄</li>
+				  <li>studying philosophy at Stanford University 🎄</li>
 				  <li>running a few Internet businesses to optimize for personal autonomy 🇺🇸</li>
 				  <li>doing the things that I love 😍</li>
 				</ul>
@@ -53,7 +53,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>contribute to real problems, not "a startup" 🙅‍</li>
-				  <li>focus on the problem of designing better individuals (via education/learning, smart tools to empower people, eradicating certain social stigmas, etc.)</li>
+				  <li>focus on the problem of individualism (via redesigned education/learning, smart tools to empower people, eradicating certain social stigmas, redefining our relationship with technology, etc.)</li>
 				  <li>explore the mind-body problem, consciousness, and our pursuit of the truth 🚀</li>
 				</ul>
 			</div>
