@@ -58,7 +58,7 @@
 				<ul>
 				  <li>studying philosophy at Stanford University 🎄</li>
 				  <li>running a few Internet businesses to optimize for personal autonomy 🇺🇸</li>
-				  <li>doing the things that I love 😍</li>
+				  <li>doing the things that I love ✔️✔✔</li>
 				</ul>
 			</div>
 
