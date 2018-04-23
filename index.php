@@ -27,7 +27,10 @@
 			<p class="header">_GET IN TOUCH_</p>
 			<div class="textbody">
 				<p>If you would like updates on my endeavors, follow me on <a href="http://twitter.com/mckapur" style="color: #1DA1F2">Twitter</a>, add me on <a href="http://facebook.com/mckapur" style="color: #3B5998">Facebook</a>, ask me stuff on <a href="https://stackoverflow.com/users/1260708/mckapur" style="color: #f48024">StackOverflow</a>, and check out my <a href="http://github.com/mckapur" style="color: #2ecc71">GitHub</a>.</p>
-				<p>Or, ya know, just <a href="mailto:me@rohankapur.com" style="color: black">email me</a>. That’s cool too.<br>Especially if you’re in the Bay Area and want to chat :)</p>
+				<p>Or, ya know, just <a href="mailto:me@rohankapur.com" style="color: black">email me</a>. That’s cool too.<br>Especially if you’re in the Bay Area and want to chat!</p>
+				<br/>
+				<br/>
+				<p>You can learn a bit more about me below, before you reach out :)</p>
 			</div>
 
 			<p class="header">_I LOVE_</p>
