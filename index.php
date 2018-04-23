@@ -13,15 +13,15 @@
 			<img src="propic.png" alt="Me!" width="300px">
 
 			<h2>Hi! My name is Rohan.</h2>
-			<p id="tagline">> I’m a 19 year old<br>individual.</p>
+			<p id="tagline">> I’m a 19 year old<br>individualist.</p>
 
 			<p class="header">_ABOUT_</p>
 			<div class="textbody">
 				<p>I was born and raised in Melbourne, spent my teen years in Singapore, and am now based in the Bay Area. 🇦🇺🇸🇬🇺🇸</p>
 				<p>Early on, I was infatuated with Green Day (I still am.) To get my constant <i>American Idiot</i> fix I bought an iPod, initiating me into the Apple cult. One day I stumbled upon Xcode, an app you could use to... create other apps! From then on, I became student by day, iOS dev by night.</p>
 				<p>When I was 14, I won a scholarship to attend Apple's WWDC 2013. It was the most significant week of my life. I joined a global community of young developers seeking to do great things, from which I have come close to some of the most ambitious and impactful young people in the world. I am eternally grateful to Apple for these platforms and opportunities.</p>
-				<p>In high school, I made lots of things: products, businesses, code, music, articles, etc., most of the time with <a href="http://lenny.io">Lenny Khazan</a>. I also took a philosophy class, which I now reflect upon as being absolutely pivotal for my current mindset/outlook on life, goals, and path going forward.</p>
-				<p>In 2016, I was admitted to Stanford University. Since arriving, I've been influenced by a few students/alumni who've offered invaluable advice for developing and pursuing my goals. During freshman fall, I engaged in 3 months of reading and self-reflection. My aim was to take a step back and figure things out, short and long-term, from first principles. I'm proud of the final outcome: a <a href="">collection of thoughts</a> that helps me begin to define who I currently am, who I ideally want to be, and how to begin bridging that gap.</p>
+				<p>In high school, I made lots of things: products, businesses, code, music, articles, etc., most of the time with <a href="http://lenny.io">Lenny Khazan</a>. I also took a two-year high school philosophy course. I now reflect upon these two things as being absolutely pivotal for my current mindset/outlook on life, goals, and direction going forward.</p>
+				<p>In 2016, I was admitted to Stanford University. Since arriving, I've been influenced by a few students, alumni, and faculty who've offered invaluable advice for pursuing my goals, and who've shaped many of my perspectivep. During freshman fall, I engaged in 4 months of reading and self-reflection. My aim was to take a step back and figure things out, short and long-term, from first principles. Shortly thereafter, I decided to revamp my personal website.</p>
 			</div>
 
 			<p class="header">_GET IN TOUCH_</p>
@@ -40,21 +40,22 @@
 				</ul>
 			</div>
 
+			<p class="header">_I WANT TO_</p>
+			<div class="textbody">
+				<ul>
+				  <li>create more individualism in society (via redesigned learning, fixing our relationship with technology, smart tools to empower people, eradicating certain social stigmas, etc.) 🙂</li>
+				  <li>contribute to real problems, not "a startup" 🙅‍</li>
+				  <li>explore the mind-body problem, consciousness, and our pursuit of the truth 🚀</li>
+				  <li>always be doing the things that I love 😍</li>
+				</ul>
+			</div>
+
 			<p class="header">_RIGHT NOW, I'M_</p>
 			<div class="textbody">
 				<ul>
 				  <li>studying philosophy at Stanford University 🎄</li>
 				  <li>running a few Internet businesses to optimize for personal autonomy 🇺🇸</li>
 				  <li>doing the things that I love 😍</li>
-				</ul>
-			</div>
-
-			<p class="header">_I WANT TO_</p>
-			<div class="textbody">
-				<ul>
-				  <li>contribute to real problems, not "a startup" 🙅‍</li>
-				  <li>create more individualism (via redesigned education/learning, smart tools to empower people, eradicating certain social stigmas, redefining our relationship with technology, etc.) 😎</li>
-				  <li>explore the mind-body problem, consciousness, and our pursuit of the truth 🚀</li>
 				</ul>
 			</div>
 
