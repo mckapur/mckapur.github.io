@@ -54,9 +54,9 @@
 			<p class="header">_RIGHT NOW, I'M_</p>
 			<div class="textbody">
 				<ul>
-				  <li>studying philosophy at Stanford University 🎄</li>
+				  <li>studying philosophy & having fun at Stanford University 🎄</li>
 				  <li>running a few Internet businesses to optimize for personal autonomy 🇺🇸</li>
-				  <li>doing the things that I love ✔</li>
+				  <li>thinking about what's next 💭</li>
 				</ul>
 			</div>
 
