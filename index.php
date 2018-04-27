@@ -107,6 +107,7 @@
 				  <li>Homo Deus</li>
 				  <li>Win Bigly</li>
 				  <li>The Origins of Happiness</li>
+				  <li>Industrial Society and Its Future</li>
 				</ul>
 			</div>
 		</div>
