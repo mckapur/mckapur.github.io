@@ -13,7 +13,7 @@
 			<img src="propic.png" alt="Me!" width="300px">
 
 			<h2>Hi! My name is Rohan.</h2>
-			<p id="tagline">> I’m a 19 year old<br>individualist.</p>
+			<p id="tagline">> I’m a 19 year old<br>individual.</p>
 
 			<p class="header">_ABOUT_</p>
 			<div class="textbody">
