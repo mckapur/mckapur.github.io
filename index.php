@@ -65,7 +65,7 @@
 				<ul>
 				  <li>built stuff  🛠️
 				  	<ul>
-				  		<li><a href="http://GetContra.com">Contra</a>, a debate tool featured as a “Best New App”; raised $30k, grew to ~10k users</li>
+				  		<li><a href="http://GetContra.com">Contra</a>, a debate tool featured as a “Best New App”; raised $30k, grew to ~10k users. A lot of young people used the app to express their voices, where they couldn't otherwise.</li>
 				  		<li><a href="http://TravelogApp.com">Travelog</a>, a travel app featured by Apple's “20 Under 20” promotion</li>
 				  		<li>an app for <a href="http://ibo.org">IB’s</a> 2012 conference, at their request</li>
 				  		<li>random weekend hacks (iOS, web, Arduino, Leap Motion, Google Glass, etc. etc.)... some on my <a href="http://GitHub.com/MCKapur">GitHub</a>, some not!</li>
@@ -74,7 +74,7 @@
 			  	</li>
 				  <li>explored my interest in AI  🤖
 					  <ul>
-					  	<li>In 2016 I created <a href="http://AYearOfAI.com">AYearOfAI.com</a>, a popular AI blog featured by A16Z</li>
+					  	<li>In 2016 I created <a href="http://AYearOfAI.com">AYearOfAI.com</a>, a popular AI blog featured by A16Z. The goal was to simplify complex ML topics, and present them in a fun, quirky way, while retaining the technicalities (I love writing!) A lot of people praised the blog for helping them easily understand AI stuff where they could't otherwise.</li>
 					  	<li>gave two talks at GeekCamp.SG: in 2015 on <a href="https://docs.google.com/presentation/d/1hXe1wemi605l0-27d4KMqOPaQraz_GUpz5svF61DFBo/edit?usp=sharing">self-driving cars</a> and 2014 on <a href="https://www.youtube.com/watch?v=DjBkkGRHaIM">app dev</a></li>
 					  	<li>Wrote a <a href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini paper</a> comparing optimization methods for my IB diploma</li>
 					  	<li>Co-directed three AI courses/talks for the <a href="https://scholar.stanford.edu/#!/page/home">Stanford Scholar Initiative</a></li>
