@@ -35,7 +35,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>building things 👨‍💻</li>
-				  <li>reading, writing, walking, great conversations, hanging out, traveling, exploring, going crazy, and thinking about life 🔎🌎😝</li>
+				  <li>reading, writing, walking, great conversations, hanging out, traveling, exploring, being weird, and thinking about life 🔎🌎😝</li>
 				  <li>punk rock and punk ideals 🤘</li>
 				  <li>skating (when i’m not eating shit 💩)</li>
 				</ul>
