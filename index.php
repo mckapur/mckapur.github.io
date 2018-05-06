@@ -74,18 +74,18 @@
 			  	</li>
 				  <li>explored my interest in AI  🤖
 					  <ul>
-					  	<li>In 2016 I created <a href="http://AYearOfAI.com">AYearOfAI.com</a>, a popular AI blog featured by A16Z. The goal was to simplify complex ML topics, and present them in a fun, quirky way, while retaining the technicalities (I love writing!) A lot of people praised the blog for helping them easily understand AI stuff where they could't otherwise.</li>
+					  	<li>in 2016 I created <a href="http://AYearOfAI.com">AYearOfAI.com</a>, a popular AI blog featured by A16Z. The goal was to simplify complex ML topics, and present them in a fun, quirky way, while retaining the technicalities (I love writing!) A lot of people praised the blog for helping them easily understand AI stuff where they could't otherwise.</li>
 					  	<li>gave two talks at GeekCamp.SG: in 2015 on <a href="https://docs.google.com/presentation/d/1hXe1wemi605l0-27d4KMqOPaQraz_GUpz5svF61DFBo/edit?usp=sharing">self-driving cars</a> and 2014 on <a href="https://www.youtube.com/watch?v=DjBkkGRHaIM">app dev</a></li>
-					  	<li>Wrote a <a href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini paper</a> comparing optimization methods for my IB diploma</li>
-					  	<li>Co-directed three AI courses/talks for the <a href="https://scholar.stanford.edu/#!/page/home">Stanford Scholar Initiative</a></li>
+					  	<li>wrote a <a href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini paper</a> comparing optimization methods for my IB diploma</li>
+					  	<li>co-directed three AI courses/talks for the <a href="https://scholar.stanford.edu/#!/page/home">Stanford Scholar Initiative</a></li>
 				  	</ul>
 			  	</li>
 				  <li>won stuff  🏆
 					  <ul>
 					  	<li>a scholarship to attend Apple’s WWDC 2013 (built an <a href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about myself)</li>
 					  	<li>a scholarship to attend Facebook’s F8 2015</li>
-					  	<li>The <a href="https://www.hackathon.com/event/newage-hackathon-20-24949401331">NewAge Social Good Hackathon</a> (built a mental health app)</li>
-					  	<li>The Computer Science/IT award every single year at my <a href="https://www.uwcsea.edu.sg/">high school</a></li>
+					  	<li>the <a href="https://www.hackathon.com/event/newage-hackathon-20-24949401331">NewAge Social Good Hackathon</a> (built a mental health app)</li>
+					  	<li>the Computer Science/IT award every single year at my <a href="https://www.uwcsea.edu.sg/">high school</a></li>
 				  	</ul>
 			  	</li>
 				  <li>did cool, valuable things  👍
