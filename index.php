@@ -44,8 +44,8 @@
 			<p class="header">_I WANT TO_</p>
 			<div class="textbody">
 				<ul>
-				  <li>create more individualism in society (via redesigned learning, fixing our relationship with technology, smart tools to empower people, eradicating certain social stigmas, etc.) 🙂</li>
-				  <li>contribute to real problems, not "a startup" 🙅‍</li>
+				  <li>create more individualism in society (via redesigned education, fixing our relationship with technology, smart tools to empower people, eradicating certain social stigmas, etc.) 🙂</li>
+				  <li>contribute to real problems I care about — and not worry about profit $$$ (not "startups" 🙅)‍</li>
 				  <li>explore the mind-body problem, consciousness, and our pursuit of the truth 🚀</li>
 				  <li>always be doing the things that I love 😍</li>
 				</ul>
