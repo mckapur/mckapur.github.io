@@ -66,7 +66,7 @@
 				<ul>
 				  <li>built stuff  🛠️
 				  	<ul>
-				  		<li><a href="http://GetContra.com">Contra</a>, a debate tool featured as a “Best New App”; raised $30k, grew to ~10k users. A lot of young people used the app to express their voices, where they couldn't otherwise.</li>
+				  		<li><a href="http://GetContra.com">Contra</a>, a debate tool featured as a “Best New App”; raised $30k, grew to ~10k users. A lot of young people used the app to voice their opinions, where they didn't feel comfortable otherwise.</li>
 				  		<li><a href="http://TravelogApp.com">Travelog</a>, a travel app featured by Apple's “20 Under 20” promotion</li>
 				  		<li>an app for <a href="http://ibo.org">IB’s</a> 2012 conference, at their request</li>
 				  		<li>random weekend hacks (iOS, web, Arduino, Leap Motion, Google Glass, etc. etc.)... some on my <a href="http://GitHub.com/MCKapur">GitHub</a>, some not!</li>
