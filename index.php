@@ -113,6 +113,7 @@
 				  <li>Technopoly: The Surrender of Culture to Technology</li>
 				  <li>12 Rules For Life</li>
 				  <li>The End of Education</li>
+				  <li>In Defense of a Liberal Education</li>
 				</ul>
 			</div>
 		</div>
