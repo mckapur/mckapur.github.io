@@ -114,6 +114,7 @@
 				  <li>12 Rules For Life</li>
 				  <li>The End of Education</li>
 				  <li>In Defense of a Liberal Education</li>
+				  <li>Encountering Naturalism: A Worldview and Its Uses</li>
 				</ul>
 			</div>
 		</div>
