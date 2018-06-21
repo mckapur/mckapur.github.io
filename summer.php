@@ -1,8 +1,7 @@
 <body style="font-family: 'Avenir Next'">
 
 	<h1>Summer navigator</h1>
-	<h2>A summer of experimentation and doing cool shit. No structure.</h2>
-	<br>
+	<h3>A summer of experimentation and doing cool shit. No structure.</h3>
 	<br>
 	<p>Goals:</p>
 	<ol>
