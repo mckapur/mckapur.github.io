@@ -45,9 +45,8 @@
 			<p class="header">_I WANT TO_</p>
 			<div class="textbody">
 				<ul>
-				  <li>create more individualism in society (via redesigned education, fixing our relationship with technology, smart tools to empower people, eradicating certain social stigmas, etc.) 🙂</li>
-				  <li>contribute to real problems I care about — and not worry about profit $$$ (not "startups" 🙅)‍</li>
-				  <li>explore the mind-body problem, consciousness, and our pursuit of the truth 🚀</li>
+				  <li>solve real problems I care about (not "tech startup" 🙅)‍ — and long-term not worry about profit $$$</li>
+				  <li>specifically contribute to: more individualism in society, education reform, and the consciousness problem 🚀</li>
 				  <li>always be doing the things that I love 😍</li>
 				</ul>
 			</div>
@@ -55,9 +54,9 @@
 			<p class="header">_RIGHT NOW, I'M_</p>
 			<div class="textbody">
 				<ul>
-				  <li>studying philosophy & having fun at Stanford University 🎄</li>
+				  <li>studying & having fun at Stanford University 🎄</li>
 				  <li>running a few Internet businesses to optimize for personal autonomy 🇺🇸</li>
-				  <li>thinking about what's next 💭</li>
+				  <li>thinking about & working toward what's next 💭</li>
 				</ul>
 			</div>
 
