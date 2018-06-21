@@ -2,7 +2,6 @@
 
 	<h1>Summer navigator</h1>
 	<h3>A summer of experimentation and doing cool shit. No structure.</h3>
-	<br>
 	<p>Goals:</p>
 	<ol>
 	<li>“Sort myself out” — Peterson style. Take inspiration from Nick. This means being more disciplined, do tasks I don’t feel like doing just because they’re menial, more motivated, doing things that I set out for myself, less fooling around / bumming around, more upfront to reality with myself. Live more independently.</li>
