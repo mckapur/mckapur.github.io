@@ -2,6 +2,52 @@
 
 	<h1>Summer navigator</h1>
 	<h3>A summer of experimentation and doing cool shit. No structure.</h3>
+	
+	<p>Plans — late June 2018
+Things are a bit confusing right now.
+
+I have a lot on my plate, and I’m not exactly sure how to go about the O-1 sponsorship or go about them in general.
+
+Work related things on my plate:
+* Contra v3
+* AdParty
+* NUGGS
+* Bill stuff (skills platform, SVIA)
+* News business with Nick
+* Potential contract work from Pulse
+* CryptoBets
+* Side projects (other projects, articles, music stuff, meeting people/companies, etc.)
+
+The path to O-1 is becoming less clear because I feel reluctant to move to NYC to work with Ben. And, on top of that, the O-1 to EB-1A path isn’t guaranteed either — so doing O-1 for a company I’m not passionate about or super set on long-term seems subpar.
+
+On top of that, my O-1 case is not the strongest right now. It could use being stronger. Definitely. Things like Contra, NUGGS, AdParty, Bill’s stuff (eg. recommendation letters), side projects, etc. could help strengthen it for sure.
+
+However, the surest fire way for an O-1 right now is Ben. He’s got the O-1. He’s down to sponsor it. His lawyer knows it. Not many companies are willing to sponsor it like that.
+
+It also doesn’t help that I don’t know/won’t know about my student status (potential suspension…!?) If I’m put on provisional registration, it definitely eases things quite a bit. If I’m not, I should probably go ahead and apply for the visa and work with Ben under some sort of visa (eg. J-1 or something).
+
+Thus: my goal for the summer should be to *build/strengthen* my O-1 case and path towards green card. And, at the end of the summer (end of August), figure out how to apply for the O-1 and where to apply for it and who to apply it under and when to apply for it. Perhaps I decide to wait another year, and then I could bulk it up even more eg. by applying for the Thiel Fellowship or for YC or something.
+
+By the end of August, I should have answers to these yet to be clarified questions. In these next 2 months, it’s all about *doing shit* to make sure I have those answers.
+
+I’ll need to convince Ben to continue letting me do remote work, but give him the option of me flying down to NYC on demand when really important/urgent shit goes down… all the way until end of August. 
+
+---
+
+What about plans separate to the visa?
+
+The next step is not to work for a typical company, even if I feel I align with the mission. It’s to start a business, where I could exit for a good amount of $$$ and start to build personal capital for myself.
+
+I think this could easily be Nick’s news idea. And it could be other businesses with Nick following that or on the side.
+
+Ideally I have a green card and could have multiple potential sources of personal capital (different companies/apps, investments, etc.).
+
+I can also then start to build presence/brand for myself through being 100% transparent about my intentions and motives, especially through writing.
+
+That will then lead into what I want to work on, afterwards, with Nick: a problem solving studio. Prior to this, I could perhaps work around (eg. at Open Philanthropy Project) to learn important things relevant to working on that.
+
+Longer-term, I want to transition into focusing on education as a problem. I think that’s doable with immense personal capital and influence/respect. But I think, ultimately, it’s the most important problem to tackle, simply because it’s literally how we design future generations of individuals… and it’s broken!</p>
+
 	<p>Goals:</p>
 	<ol>
 	<li>“Sort myself out” — Peterson style. Take inspiration from Nick. This means being more disciplined, do tasks I don’t feel like doing just because they’re menial, more motivated, doing things that I set out for myself, less fooling around / bumming around, more upfront to reality with myself. Live more independently.</li>
