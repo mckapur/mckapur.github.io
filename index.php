@@ -45,7 +45,7 @@
 			<p class="header">_I WANT TO_</p>
 			<div class="textbody">
 				<ul>
-				  <li>solve real problems I care about (not "tech startup" 🙅)‍ — and long-term not worry about profit $$$</li>
+				  <li>solve real problems I care about</li>
 				  <li>specifically contribute to: more individualism in society, education reform, and the consciousness problem 🚀</li>
 				  <li>always be doing the things that I love 😍</li>
 				</ul>
