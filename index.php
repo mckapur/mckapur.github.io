@@ -46,7 +46,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>solve real problems I care about</li>
-				  <li>specifically contribute to: more individualism in society, education reform, and the consciousness problem 🚀</li>
+				  <li>specifically contribute to more individualism in society, especially via education reform🚀</li>
 				  <li>always be doing the things that I love 😍</li>
 				</ul>
 			</div>
