@@ -67,7 +67,7 @@
 				  	<ul>
 				  		<li><a href="https://CryptoBets.cc">CryptoBets</a>, a decentralized betting platform built on Ethereum smart contracts. Transacted 22 ETH for the Super Bowl LII.</li>
 				  		<li><a href="http://GetContra.com">Contra</a>, a debate tool featured as a “Best New App”; raised $30k, grew to ~10k users. A lot of young people used the app to voice their opinions, where they didn't feel comfortable otherwise.</li>
-				  		<li><a href="http://TravelogApp.com">Travelog</a>, a travel app featured by Apple's “20 Under 20” promotion</li>
+				  		<li><a href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a>, a travel app featured by Apple's “20 Under 20” promotion</li>
 				  		<li>an app for <a href="http://ibo.org">IB’s</a> 2012 conference, at their request</li>
 				  		<li>random weekend hacks (iOS, web, Arduino, Leap Motion, Google Glass, etc. etc.)... some on my <a href="http://GitHub.com/MCKapur">GitHub</a>, some not!</li>
 				  		<li>an independent iOS consulting operation I ran from 12-15 y/o, with 4 clients</li>
