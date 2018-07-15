@@ -65,7 +65,7 @@
 				<ul>
 				  <li>built stuff  🛠️
 				  	<ul>
-				  		<li><a href="https://CryptoBets.cc">CryptoBets</a>, a decentralized betting platform built on Ethereum smart contracts. Transacted ~22 ETH for the Super Bowl LII, and ~18 ETH for the FIFA World Cup final. Featured on CCN <a href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum/">two</a> <a href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum/">times</a>.</li>
+				  		<li><a href="https://CryptoBets.cc">CryptoBets</a>, a decentralized betting platform built on Ethereum smart contracts. Transacted ~22 ETH for the Super Bowl LII, and ~18 ETH for the FIFA World Cup final. Featured on CCN <a href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum/">two</a> different <a href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum/">times</a>.</li>
 				  		<li><a href="http://GetContra.com">Contra</a>, a debate tool featured as a “Best New App”; raised $30k, grew to ~10k users. A lot of young people used the app to voice their opinions, where they didn't feel comfortable otherwise.</li>
 				  		<li><a href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a>, a travel app featured by Apple's “20 Under 20” promotion</li>
 				  		<li>an app for <a href="http://ibo.org">IB’s</a> 2012 conference, at their request</li>
