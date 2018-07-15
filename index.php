@@ -66,7 +66,7 @@
 				  <li>built stuff  🛠️
 				  	<ul>
 				  		<li><a href="https://CryptoBets.cc">CryptoBets</a>, a decentralized betting platform built on Ethereum smart contracts. Transacted ~22 ETH for the Super Bowl LII, and ~18 ETH for the FIFA World Cup final. Featured on CCN <a href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum/">two</a> different <a href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum/">times</a>.</li>
-				  		<li><a href="http://GetContra.com">Contra</a>, a debate tool featured as a “Best New App”; raised $30k, grew to ~10k users. A lot of young people used the app to voice their opinions, where they didn't feel comfortable otherwise.</li>
+				  		<li><a href="http://GetContra.com">Contra</a>, a debate tool featured as a “Best New App” and in the "20 Under 20" promotion; raised $30k, grew to ~10k users with >20k opinions. A lot of young people used the app to voice their opinions, where they didn't feel comfortable otherwise.</li>
 				  		<li><a href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a>, a travel app featured by Apple's “20 Under 20” promotion</li>
 				  		<li>an app for <a href="http://ibo.org">IB’s</a> 2012 conference, at their request</li>
 				  		<li>random weekend hacks (iOS, web, Arduino, Leap Motion, Google Glass, etc. etc.)... some on my <a href="http://GitHub.com/MCKapur">GitHub</a>, some not!</li>
@@ -83,6 +83,7 @@
 			  	</li>
 				  <li>won stuff  🏆
 					  <ul>
+					  	<li>featured as one of the top 20 Apple developers under 20 y/o</li>
 					  	<li>a scholarship to attend Apple’s WWDC 2013 (built an <a href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about myself)</li>
 					  	<li>a scholarship to attend Facebook’s F8 2015</li>
 					  	<li>the <a href="https://www.hackathon.com/event/newage-hackathon-20-24949401331">NewAge Social Good Hackathon</a> (built a mental health app)</li>
