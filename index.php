@@ -46,7 +46,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>solve real problems I care about</li>
-				  <li>specifically contribute to more individualism in society, especially via education reform🚀</li>
+				  <li>specifically contribute to more individualism in society, especially via education reform 🚀</li>
 				  <li>always be doing the things that I love 😍</li>
 				</ul>
 			</div>
@@ -83,7 +83,7 @@
 			  	</li>
 				  <li>won stuff  🏆
 					  <ul>
-					  	<li>featured as one of the top 20 Apple developers under 20 y/o</li>
+					  	<li>featured as one of the top 20 Apple developers under age 20</li>
 					  	<li>a scholarship to attend Apple’s WWDC 2013 (built an <a href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about myself)</li>
 					  	<li>a scholarship to attend Facebook’s F8 2015</li>
 					  	<li>the <a href="https://www.hackathon.com/event/newage-hackathon-20-24949401331">NewAge Social Good Hackathon</a> (built a mental health app)</li>
@@ -93,7 +93,7 @@
 				  <li>did cool, valuable things  👍
 					  <ul>
 					  	<li>coded for <a href="http://grab.com">Grab</a> (2016), <a href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a> (2015), and <a href="https://www.singpost.com/">Singapore Post</a> (2014)</li>
-					  	<li>started a dev community in my school, incl. <a href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a>: a youth-centric hackathon</li>
+					  	<li>started a dev community in my high school, incl. <a href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a>: a youth-centric hackathon</li>
 					  	<li><a href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">performed</a> "Jesus of Suburbia" by Green Day in front of 400+ people  🎸</li>
 					  	<li><a href="https://imgur.com/a/3koMH">lost ~60 lbs</a> on the Keto diet from Feb - Sep 2017  🍖</li>
 				  	</ul>
