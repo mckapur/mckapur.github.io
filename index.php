@@ -75,7 +75,7 @@
 			  	</li>
 				  <li>explored my interest in AI  🤖
 					  <ul>
-					  	<li>in 2016 I created <a href="http://AYearOfAI.com">AYearOfAI.com</a>, a highly praised and popular (100k+) AI blog featured by A16Z and referenced in research papers + books. The goal was to simplify complex ML topics and present them in a fun, quirky way, while retaining all the technicalities (I have a knack for writing!)</li>
+					  	<li>in 2016 I created <a href="http://AYearOfAI.com">AYearOfAI.com</a>, a highly praised and popular (~100k reads) AI blog featured by A16Z and referenced in research papers + books. The goal was to simplify complex ML topics and present them in a fun, quirky way, while retaining all the technicalities (I have a knack for writing!)</li>
 					  	<li>gave two talks at GeekCamp.SG: in 2015 on <a href="https://docs.google.com/presentation/d/1hXe1wemi605l0-27d4KMqOPaQraz_GUpz5svF61DFBo/edit?usp=sharing">self-driving cars</a> and 2014 on <a href="https://www.youtube.com/watch?v=DjBkkGRHaIM">app dev</a></li>
 					  	<li>wrote a <a href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini research paper</a> comparing machine learning optimization methods for my IB diploma</li>
 					  	<li>co-directed three AI courses/talks for the <a href="https://scholar.stanford.edu/#!/page/home">Stanford Scholar Initiative</a></li>
