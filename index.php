@@ -66,8 +66,8 @@
 				  <li>built stuff  🛠️
 				  	<ul>
 				  		<li><a href="https://CryptoBets.cc">CryptoBets</a>, a decentralized betting platform built on Ethereum smart contracts. Transacted ~22 ETH for the Super Bowl LII, and ~18 ETH for the FIFA World Cup final. Featured on CCN <a href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum/">two</a> different <a href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum/">times</a>.</li>
-				  		<li><a href="http://GetContra.com">Contra</a>, a debate tool featured as a “Best New App” and in the "20 Under 20" promotion; raised $30k, grew to ~10k users with >20k opinions. A lot of young people used the app to voice their opinions, where they didn't feel comfortable otherwise.</li>
-				  		<li><a href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a>, a travel app featured by Apple's “20 Under 20” promotion</li>
+				  		<li><a href="http://GetContra.com">Contra</a>, a debate tool featured as a “Best New App” and in the <a href="https://www.usatoday.com/story/tech/2015/06/01/young-developers-create-apple-apps/28302657/">20 Under 20</a> promotion; raised $30k, grew to ~10k users with >20k opinions. A lot of young people used the app to voice their opinions, where they didn't feel comfortable otherwise.</li>
+				  		<li><a href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a>, a travel app featured by Apple's 20 Under 20 promotion</li>
 				  		<li>an iPhone app for the <a href="http://ibo.org">International Baccalaureate's</a> conference in 2012 — awarded a Certificate of Appreciation by Director-General Jeffrey Beard</li>
 				  		<li>random weekend hacks (iOS, web, Arduino, Leap Motion, Google Glass, etc. etc.)... some on my <a href="http://GitHub.com/MCKapur">GitHub</a>, some not!</li>
 				  		<li>an independent iOS consulting operation I ran from 12-15 y/o, with 5 clients</li>
@@ -83,7 +83,7 @@
 			  	</li>
 				  <li>won stuff  🏆
 					  <ul>
-					  	<li>featured as one of the <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewFeature?id=994424570&mt=8&ls=1">top 20</a> Apple developers under age 20</li>
+					  	<li>featured as one of the <a href="https://www.usatoday.com/story/tech/2015/06/01/young-developers-create-apple-apps/28302657/">top 20</a> Apple developers under age 20</li>
 					  	<li>a scholarship to attend Apple’s WWDC 2013 (built an <a href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about myself)</li>
 					  	<li>a scholarship to attend Facebook’s F8 2015</li>
 					  	<li>the <a href="https://www.hackathon.com/event/newage-hackathon-20-24949401331">NewAge Social Good Hackathon</a> (built a mental health app)</li>
