@@ -22,7 +22,7 @@
 				<p>Early on, I was infatuated with Green Day (I still am.) To get my constant <i>American Idiot</i> fix I bought an iPod, initiating me into the Apple cult. One day I stumbled upon Xcode, an app you could use to... create other apps! From then on, I became student by day, iOS dev by night.</p>
 				<p>When I was 14, I won a scholarship to attend Apple's WWDC 2013. It was the most significant week of my life. I joined a global community of young developers seeking to do great things, from which I have come close to some of the most ambitious and impactful young people in the world. I am eternally grateful to Apple for these platforms and opportunities.</p>
 				<p>In high school, I made lots of things: products, businesses, code, music, articles, etc., most of the time with <a href="http://lenny.io">Lenny Khazan</a>. I also took a two-year high school philosophy course. I now reflect upon these experiences as being absolutely pivotal for my current mindset/outlook on life, goals, and direction going forward.</p>
-				<p>In 2016, I was admitted to Stanford University. Since arriving, I've been influenced by a few students, alumni, and faculty who've offered invaluable advice for pursuing my goals, and who've shaped many of my perspectives. During freshman fall, I engaged in 4 months of reading and self-reflection. My aim was to take a step back and figure things out, short and long-term, from first principles. I may have failed a couple classes, but those were the most value-adding 4 months of my life.</p>
+				<p>In 2016, I was admitted to Stanford University. Since arriving, I've been influenced by a few students, alumni, and faculty who've offered invaluable advice for pursuing my goals, and who've shaped many of my perspectives. During freshman fall, I engaged in 4 months of reading and self-reflection. My aim was to take a step back and figure things out, short and long-term, from first principles. I may have failed a couple classes, but those were the most value-adding four months of my life.</p>
 			</div>
 
 			<p class="header">_GET IN TOUCH_</p>
@@ -46,7 +46,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>solve real problems I care about</li>
-				  <li>specifically contribute to more individualism in society, especially via education reform 🚀</li>
+				  <li>specifically promote individualism in society, via education reform 🚀</li>
 				  <li>always be doing the things that I love 😍</li>
 				</ul>
 			</div>
@@ -68,7 +68,7 @@
 				  		<li><a href="https://CryptoBets.cc">CryptoBets</a>, a decentralized betting platform built on Ethereum smart contracts. Transacted ~22 ETH for the Super Bowl LII, and ~18 ETH for the FIFA World Cup final. Featured on CCN <a href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum/">two</a> different <a href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum/">times</a>.</li>
 				  		<li><a href="http://GetContra.com">Contra</a>, a debate tool featured as a “Best New App” and in the "20 Under 20" promotion; raised $30k, grew to ~10k users with >20k opinions. A lot of young people used the app to voice their opinions, where they didn't feel comfortable otherwise.</li>
 				  		<li><a href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a>, a travel app featured by Apple's “20 Under 20” promotion</li>
-				  		<li>an app for <a href="http://ibo.org">IB’s</a> 2012 conference, at their request</li>
+				  		<li>an iPhone app for the <a href="http://ibo.org">International Baccalaureate's</a> conference in 2012 — awarded a Certificate of Appreciation by Director-General Jeffrey Beard</li>
 				  		<li>random weekend hacks (iOS, web, Arduino, Leap Motion, Google Glass, etc. etc.)... some on my <a href="http://GitHub.com/MCKapur">GitHub</a>, some not!</li>
 				  		<li>an independent iOS consulting operation I ran from 12-15 y/o, with 5 clients</li>
 				  	</ul>
