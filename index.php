@@ -45,7 +45,7 @@
 			<p class="header">_I WANT TO_</p>
 			<div class="textbody">
 				<ul>
-				  <li>solve real problems I care about</li>
+				  <li>work on real, hard problems I care about</li>
 				  <li>specifically promote individualism in society, via education reform 🚀</li>
 				  <li>always be doing the things that I love 😍</li>
 				</ul>
