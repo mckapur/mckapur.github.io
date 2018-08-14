@@ -70,7 +70,7 @@
 				  		<li><a href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a>, a multi-purpose business travel tool featured by Apple's 20 Under 20 promotion</li>
 				  		<li>an iPhone app for the <a href="http://ibo.org">International Baccalaureate's</a> conference in 2012 — awarded a Certificate of Appreciation by Director-General Jeffrey Beard</li>
 				  		<li>random weekend hacks (iOS, web, Arduino, Leap Motion, Google Glass, etc. etc.)... some on my <a href="http://GitHub.com/MCKapur">GitHub</a>, some not!</li>
-				  		<li>an independent iOS consulting operation I ran from 12-15 y/o, with 5 clients</li>
+				  		<li>"Rohan Pro Studios": an independent iOS consulting operation I ran from 12-15 y/o, with 5 clients</li>
 				  	</ul>
 			  	</li>
 				  <li>explored my interest in AI  🤖
