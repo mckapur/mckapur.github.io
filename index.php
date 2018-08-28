@@ -13,8 +13,15 @@
 			<img src="propic.png" alt="Me!" width="300px">
 
 			<div class="textbody">
-				<p>Follow me on <a href="http://twitter.com/mckapur" style="color: #1DA1F2">Twitter</a>, ask me stuff on <a href="https://stackoverflow.com/users/1260708/mckapur" style="color: #f48024">StackOverflow</a>, check out my <a href="http://github.com/mckapur" style="color: #2ecc71">GitHub</a>, or just <a href="mailto:me@rohankapur.com" style="color: black">email me :)</a></p>
-</p>
+				<p>
+					<a href="http://twitter.com/mckapur" style="color: #1DA1F2">Twitter</a>
+					<br>
+					<a href="https://stackoverflow.com/users/1260708/mckapur" style="color: #f48024">StackOverflow</a>
+					<br>
+					<a href="http://github.com/mckapur" style="color: #2ecc71">GitHub</a>
+					<br>
+					<a href="mailto:me@rohankapur.com" style="color: black">Email</a>
+				</p>
 			</div>
 
 			<p class="header">_ABOUT_</p>
