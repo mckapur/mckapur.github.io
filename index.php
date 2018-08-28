@@ -46,7 +46,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>work on real, hard problems I care about</li>
-				  <li>long-term? promote individualism in society, via education reform 🚀</li>
+				  <li>long-term: promote individualism via education reform 🚀</li>
 				  <li>always be doing the things I love 😍</li>
 				</ul>
 			</div>
