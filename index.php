@@ -25,6 +25,8 @@
 				</p>
 			</div>
 
+			<p id="tagline">> Rohan Kapur.</p>
+
 			<p class="header">_ABOUT_</p>
 			<div class="textbody">
 				<p>I was born in Melbourne, finished high school in Singapore, and am now in the Bay Area.<br>🇦🇺🇸🇬🇺🇸</p>
