@@ -56,7 +56,7 @@
 				<ul>
 				  <li>hanging out at Stanford University 🎄</li>
 				  <li>running a few Internet businesses for personal autonomy 🇺🇸</li>
-				  <li>working towards what's next... 💭</li>
+				  <li>working towards what's next...</li>
 				</ul>
 			</div>
 
