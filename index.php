@@ -11,6 +11,8 @@
 	<body>
 		<div id="container">
 			<img src="propic.png" alt="Me!" width="300px">
+			<p id="tagline">> Rohan Kapur</p>
+
 			<br>
 			<br>
 			<div class="textbody">
@@ -24,8 +26,6 @@
 					<a href="mailto:me@rohankapur.com" style="color: black" target="_blank">Email</a>
 				</p>
 			</div>
-
-			<p id="tagline">> Rohan Kapur.</p>
 
 			<p class="header">_ABOUT_</p>
 			<div class="textbody">
