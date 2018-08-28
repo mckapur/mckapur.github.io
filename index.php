@@ -36,8 +36,8 @@
 			<p class="header">_I LOVE_</p>
 			<div class="textbody">
 				<ul>
-				  <li>building things... mostly Internet products 👨‍💻</li>
-				  <li>reading, writing, conversing, exploring, and reflecting 🔎🌎</li>
+				  <li>building things... mostly Internet products 💻</li>
+				  <li>reading, writing, conversing, exploring, and reflecting</li>
 				  <li>punk rock and punk ideals 🤘</li>
 				</ul>
 			</div>
@@ -46,7 +46,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>work on real, hard problems I care about</li>
-				  <li>long-term: promote individualism via education reform 🚀</li>
+				  <li>long-term: promote individualism via education reform</li>
 				  <li>always be doing the things I love 😍</li>
 				</ul>
 			</div>
@@ -55,8 +55,8 @@
 			<div class="textbody">
 				<ul>
 				  <li>hanging out at Stanford University 🎄</li>
-				  <li>running a few Internet businesses for personal autonomy 🇺🇸</li>
-				  <li>working towards what's next...</li>
+				  <li>running a few Internet businesses for personal autonomy</li>
+				  <li>working towards what's next... 🚀</li>
 				</ul>
 			</div>
 
