@@ -18,7 +18,7 @@
 
 			<p class="header">_ABOUT_</p>
 			<div class="textbody">
-				<p>I was born and raised in Melbourne, spent my teen years in Singapore, and am now based in the Bay Area. 🇦🇺🇸🇬🇺🇸</p>
+				<p>I was born in Melbourne, did high school in Singapore, and am now based in the Bay Area. 🇦🇺🇸🇬🇺🇸</p>
 				<p>Early on, I was infatuated with Green Day (I still am.) To get my constant <i>American Idiot</i> fix I bought an iPod, initiating me into the Apple cult. One day I stumbled upon Xcode, an app you could use to... create other apps! From then on, I became student by day, iOS dev by night.</p>
 				<p>When I was 14, I won a scholarship to attend Apple's WWDC 2013. It was the most significant week of my life. I joined a global community of young developers seeking to do great things, from which I have come close to some of the most ambitious and impactful young people in the world. I am eternally grateful to Apple for these platforms and opportunities.</p>
 				<p>In high school, I made lots of things: products, businesses, code, music, articles, etc., most of the time with <a href="http://lenny.io">Lenny Khazan</a>. I also took a two-year high school philosophy course. I now reflect upon these experiences as being absolutely pivotal for my current mindset/outlook on life, goals, and direction going forward.</p>
@@ -27,7 +27,7 @@
 
 			<p class="header">_GET IN TOUCH_</p>
 			<div class="textbody">
-				<p>If you would like updates on my endeavors, follow me on <a href="http://twitter.com/mckapur" style="color: #1DA1F2">Twitter</a>, add me on <a href="http://facebook.com/mckapur" style="color: #3B5998">Facebook</a>, ask me stuff on <a href="https://stackoverflow.com/users/1260708/mckapur" style="color: #f48024">StackOverflow</a>, and check out my <a href="http://github.com/mckapur" style="color: #2ecc71">GitHub</a>.</p>
+				<p>Follow me on <a href="http://twitter.com/mckapur" style="color: #1DA1F2">Twitter</a>, add me on <a href="http://facebook.com/mckapur" style="color: #3B5998">Facebook</a>, ask me stuff on <a href="https://stackoverflow.com/users/1260708/mckapur" style="color: #f48024">StackOverflow</a>, and check out my <a href="http://github.com/mckapur" style="color: #2ecc71">GitHub</a>.</p>
 				<p>Or, ya know, just <a href="mailto:me@rohankapur.com" style="color: black">email me</a>. That’s cool too.<br>Especially if you’re in the Bay Area and want to chat!</p>
 				<p>You can learn a bit more about me below, before you reach out :)</p>
 			</div>
@@ -35,10 +35,9 @@
 			<p class="header">_I LOVE_</p>
 			<div class="textbody">
 				<ul>
-				  <li>building things 👨‍💻</li>
-				  <li>reading, writing, walking, great conversations, hanging out, traveling, exploring, being weird, and thinking about life 🔎🌎😝</li>
+				  <li>building things... mostly Internet products 👨‍💻</li>
+				  <li>reading, writing, conversing, exploring, and reflecting 🔎🌎</li>
 				  <li>punk rock and punk ideals 🤘</li>
-				  <li>skating (when i’m not eating shit 💩)</li>
 				</ul>
 			</div>
 
@@ -46,17 +45,17 @@
 			<div class="textbody">
 				<ul>
 				  <li>work on real, hard problems I care about</li>
-				  <li>specifically promote individualism in society, via education reform 🚀</li>
-				  <li>always be doing the things that I love 😍</li>
+				  <li>long-term? promote individualism in society, via education reform 🚀</li>
+				  <li>always be doing the things I love 😍</li>
 				</ul>
 			</div>
 
 			<p class="header">_RIGHT NOW, I'M_</p>
 			<div class="textbody">
 				<ul>
-				  <li>studying & having fun at Stanford University 🎄</li>
-				  <li>running a few Internet businesses to optimize for personal autonomy 🇺🇸</li>
-				  <li>thinking about & working toward what's next 💭</li>
+				  <li>hanging out at Stanford University 🎄</li>
+				  <li>running a few Internet businesses for personal autonomy 🇺🇸</li>
+				  <li>working towards what's next... 💭</li>
 				</ul>
 			</div>
 
@@ -65,7 +64,7 @@
 				<ul>
 				  <li>built stuff  🛠️
 				  	<ul>
-				  		<li><a href="https://CryptoBets.cc">CryptoBets</a>, a decentralized betting platform built on Ethereum smart contracts. Transacted ~22 ETH for the Super Bowl LII, and ~18 ETH for the FIFA World Cup final. Featured on CCN <a href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum/">two</a> different <a href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum/">times</a></li>
+				  		<li><a href="https://CryptoBets.cc">CryptoBets</a>, a next-generation betting experience built on Ethereum smart contracts. Transacted ~22 ETH for the Super Bowl LII, and ~18 ETH for the FIFA World Cup final. Featured on CCN <a href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum/">two</a> different <a href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum/">times</a></li>
 				  		<li><a href="http://GetContra.com">Contra</a>, a social opinions platform featured as a “Best New App” and in the <a href="https://www.usatoday.com/story/tech/2015/06/01/young-developers-create-apple-apps/28302657/">20 Under 20</a> promotion; raised $30k, grew to ~10k users with >30k opinions. A lot of young people used the app to voice their opinions, where they didn't feel comfortable otherwise.</li>
 				  		<li><a href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a>, a multi-purpose business travel tool featured by Apple's 20 Under 20 promotion</li>
 				  		<li>an iPhone app for the <a href="http://ibo.org">International Baccalaureate's</a> conference in 2012 — awarded a Certificate of Appreciation by Director-General Jeffrey Beard</li>
