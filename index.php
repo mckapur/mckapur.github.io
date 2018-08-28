@@ -11,8 +11,6 @@
 	<body>
 		<div id="container">
 			<img src="propic.png" alt="Me!" width="300px">
-			<p id="tagline">> Rohan Kapur</p>
-
 			<br>
 			<br>
 			<div class="textbody">
