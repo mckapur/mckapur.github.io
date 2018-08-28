@@ -90,7 +90,7 @@
 					  	<li>the Computer Science/IT award every single year at my <a href="https://www.uwcsea.edu.sg/">high school</a></li>
 				  	</ul>
 			  	</li>
-				  <li>did cool, valuable things  👍
+				  <li>did cool things  👍
 					  <ul>
 					  	<li>coded for <a href="http://grab.com">Grab</a> (2016), <a href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a> (2015), and <a href="https://www.singpost.com/">Singapore Post</a> (2014)</li>
 					  	<li>started a dev community in my high school, including <a href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a>: a youth-centric all age hackathon</li>
