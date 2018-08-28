@@ -37,7 +37,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>building things... mostly Internet products 💻</li>
-				  <li>reading, writing, conversing, exploring, and reflecting</li>
+				  <li>reading, writing, skateboarding, jamming, exploring, great conversations, and reflecting</li>
 				  <li>punk rock and punk ideals 🤘</li>
 				</ul>
 			</div>
