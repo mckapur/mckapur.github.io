@@ -12,6 +12,11 @@
 		<div id="container">
 			<img src="propic.png" alt="Me!" width="300px">
 
+			<div class="textbody">
+				<p>Follow me on <a href="http://twitter.com/mckapur" style="color: #1DA1F2">Twitter</a>, add me on <a href="http://facebook.com/mckapur" style="color: #3B5998">Facebook</a>, ask me stuff on <a href="https://stackoverflow.com/users/1260708/mckapur" style="color: #f48024">StackOverflow</a>, and check out my <a href="http://github.com/mckapur" style="color: #2ecc71">GitHub</a>.</p>
+				<p>Or, you can just <a href="mailto:me@rohankapur.com" style="color: black">email me</a>!</p>
+			</div>
+
 			<p class="header">_ABOUT_</p>
 			<div class="textbody">
 				<p>I was born in Melbourne, did high school in Singapore, and am now based in the Bay Area.<br>🇦🇺🇸🇬🇺🇸</p>
@@ -19,12 +24,6 @@
 				<p>When I was 14, I won a scholarship to attend Apple's WWDC 2013. It was the most significant week of my life. I joined a global community of young developers seeking to do great things, from which I have come close to some of the most ambitious and impactful young people in the world. I am eternally grateful to Apple for these platforms and opportunities.</p>
 				<p>In high school, I made lots of things: products, businesses, code, music, articles, etc., most of the time with <a href="http://lenny.io">Lenny Khazan</a>. I also took a two-year high school philosophy course. I now reflect upon these experiences as being absolutely pivotal for my current mindset/outlook on life, goals, and direction going forward.</p>
 				<p>In 2016, I was admitted to Stanford University. Since arriving, I've been influenced by a few students, alumni, and faculty who've offered invaluable advice for pursuing my goals, and who've shaped many of my perspectives. During freshman fall, I engaged in 4 months of reading and self-reflection. My aim was to take a step back and figure things out, short and long-term, from first principles. I may have failed a couple classes, but those were the most value-adding four months of my life.</p>
-			</div>
-
-			<p class="header">_GET IN TOUCH_</p>
-			<div class="textbody">
-				<p>Follow me on <a href="http://twitter.com/mckapur" style="color: #1DA1F2">Twitter</a>, add me on <a href="http://facebook.com/mckapur" style="color: #3B5998">Facebook</a>, ask me stuff on <a href="https://stackoverflow.com/users/1260708/mckapur" style="color: #f48024">StackOverflow</a>, and check out my <a href="http://github.com/mckapur" style="color: #2ecc71">GitHub</a>.</p>
-				<p>Or, you can just <a href="mailto:me@rohankapur.com" style="color: black">email me</a>!</p>
 			</div>
 
 			<p class="header">_I LOVE_</p>
