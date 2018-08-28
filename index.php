@@ -12,8 +12,6 @@
 		<div id="container">
 			<img src="propic.png" alt="Me!" width="300px">
 
-			<h2>Hi! My name is Rohan.</h2>
-
 			<p class="header">_ABOUT_</p>
 			<div class="textbody">
 				<p>I was born in Melbourne, did high school in Singapore, and am now based in the Bay Area.<br>🇦🇺🇸🇬🇺🇸</p>
