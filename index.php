@@ -27,9 +27,9 @@
 
 			<p class="header">_ABOUT_</p>
 			<div class="textbody">
-				<p>I was born in Melbourne, finished high school in Singapore, and am now in the Bay Area.<br>🇦🇺🇸🇬🇺🇸</p>
+				<p>I was born in Melbourne, did high school in Singapore, and now live in the Bay Area. 🇦🇺🇸🇬🇺🇸</p>
 				<p>Early on, I was infatuated with Green Day (I still am.) To get my constant <i>American Idiot</i> fix I bought an iPod, initiating me into the Apple cult. One day I stumbled upon Xcode, an app you could use to... create other apps! From then on, I became student by day, iOS dev by night.</p>
-				<p>When I was 14, I won a scholarship to attend Apple's WWDC 2013. It was the most significant week of my life. I joined a global community of young developers seeking to do great things, from which I have come close to some of the most ambitious and impactful young people in the world. I am eternally grateful to Apple for these platforms and opportunities.</p>
+				<p>When I was 14, I won a scholarship to attend Apple's WWDC 2013. It was the most significant week of my life. I joined a global community of teen developers seeking to do great things, from which I have come close to some of the most ambitious and impactful young people in the world. I am eternally grateful to Apple for these opportunities.</p>
 				<p>In high school, I made lots of things: products, businesses, code, music, articles, etc., most of the time with <a href="http://lenny.io">Lenny Khazan</a>. I also took a two-year high school philosophy course. I now reflect upon these experiences as being absolutely pivotal for my current mindset/outlook on life, goals, and direction going forward.</p>
 				<p>In 2016, I was admitted to Stanford University. Since arriving, I've been influenced by a few students, alumni, and faculty who've offered invaluable advice for pursuing my goals, and who've shaped many of my perspectives. During freshman fall, I engaged in 4 months of reading and self-reflection. My aim was to take a step back and figure things out, short and long-term, from first principles. I may have failed a couple classes, but those were the most value-adding four months of my life.</p>
 			</div>
