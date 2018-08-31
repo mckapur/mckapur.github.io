@@ -56,8 +56,8 @@
 			<div class="textbody">
 				<ul>
 				  <li>hanging out at Stanford University 🎄</li>
-				  <li>running a few Internet businesses for personal autonomy</li>
-				  <li>working towards what's next... 🚀</li>
+				  <li>maintaining a few side Internet businesses</li>
+				  <li>working on the next thing... 🚀</li>
 				</ul>
 			</div>
 
