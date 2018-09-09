@@ -37,8 +37,8 @@
 			<p class="header">_I LOVE_</p>
 			<div class="textbody">
 				<ul>
-				  <li>building things... especially Internet products 👨‍💻</li>
-				  <li>reading, writing, skateboarding, jamming, design, exploring, conversing, and reflecting</li>
+				  <li>making things... especially Internet products 👨‍💻</li>
+				  <li>reading, writing, skateboarding, jamming, designing, exploring, conversing, and reflecting</li>
 				  <li>punk rock and punk ideals 🤘</li>
 				</ul>
 			</div>
@@ -46,9 +46,9 @@
 			<p class="header">_I WANT TO_</p>
 			<div class="textbody">
 				<ul>
-				  <li>work on real, hard problems I care about</li>
-				  <li>long-term: promote individualism via education reform</li>
-				  <li>always be doing the things I love 😍</li>
+				  <li>work on hard problems. long-term? education.</li>
+				  <li>become a rockstar... (for real)</li>
+				  <li>always be making things 😍</li>
 				</ul>
 			</div>
 
@@ -66,7 +66,7 @@
 				<ul>
 				  <li>built stuff  🛠️
 				  	<ul>
-				  		<li><a href="https://CryptoBets.cc">CryptoBets</a>, a next-generation betting experience built on Ethereum smart contracts. Transacted ~22 ETH for the Super Bowl LII, and ~18 ETH for the FIFA World Cup final. Featured on CCN <a href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum/">two</a> different <a href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum/">times</a>.</li>
+				  		<li><a href="https://CryptoBets.cc">CryptoBets</a>, a fully automated, decentralized betting experience built on Ethereum smart contracts. Not a "crypto thing". More a "next-gen betting thing". I'm not a crypto believer. Transacted ~22 ETH for the Super Bowl LII, and ~18 ETH for the FIFA World Cup final. Featured on CCN <a href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum/">two</a> <a href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum/">times</a>.</li>
 				  		<li><a href="http://GetContra.com">Contra</a>, a social opinions platform featured as a “Best New App” and in the <a href="https://www.usatoday.com/story/tech/2015/06/01/young-developers-create-apple-apps/28302657/">20 Under 20</a> promotion; raised $30k, grew to ~10k users with >30k opinions. A lot of young people used the app to voice their opinions, where they didn't feel comfortable otherwise.</li>
 				  		<li><a href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a>, a multi-purpose business travel tool featured by Apple's 20 Under 20 promotion</li>
 				  		<li>an iPhone app for the <a href="http://ibo.org">International Baccalaureate's</a> conference in 2012 — awarded a Certificate of Appreciation by Director-General Jeffrey Beard</li>
