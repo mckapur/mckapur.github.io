@@ -47,8 +47,8 @@
 			<div class="textbody">
 				<ul>
 				  <li>work on hard problems. long-term? education.</li>
-				  <li>become a rockstar... (for real)</li>
-				  <li>always be making things 😍</li>
+				  <li>become a rockstar... (for real) 👨‍🎤</li>
+				  <li>always be making things</li>
 				</ul>
 			</div>
 
