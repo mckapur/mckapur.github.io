@@ -38,7 +38,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>making things... especially Internet products 👨‍💻</li>
-				  <li>reading, writing, skateboarding, jamming, designing, exploring, conversing, and reflecting</li>
+				  <li>reading, writing, skateboarding, singing, jamming, designing, exploring, cooking, conversing, and reflecting</li>
 				  <li>punk rock and punk ideals 🤘</li>
 				</ul>
 			</div>
@@ -46,7 +46,7 @@
 			<p class="header">_I WANT TO_</p>
 			<div class="textbody">
 				<ul>
-				  <li>work on hard problems. long-term? education.</li>
+				  <li>work on hard problems. long-term? education reform.</li>
 				  <li>become a rockstar... (for real) 👨‍🎤</li>
 				  <li>always be making things</li>
 				</ul>
