@@ -31,7 +31,7 @@
 				<p>Early on, I was infatuated with Green Day (I still am.) To get my constant <i>American Idiot</i> fix I bought an iPod, initiating me into the Apple cult. One day I stumbled upon Xcode, an app you could use to... create other apps! From then on, I became student by day, iOS dev by night.</p>
 				<p>When I was 14, I won a scholarship to attend Apple's WWDC 2013. It was the most significant week of my life. I joined a global community of teen developers seeking to do great things, from which I have come close to some of the most ambitious and impactful young people in the world. I am eternally grateful to Apple for these opportunities.</p>
 				<p>In high school, I made lots of things: products, businesses, code, music, articles, etc., most of the time with <a href="http://lenny.io">Lenny Khazan</a>. I also took a two-year high school philosophy course. I now reflect upon these experiences as being absolutely pivotal for my current mindset/outlook on life, goals, and direction going forward.</p>
-				<p>In 2016, I was admitted to Stanford University. Since arriving, I've been influenced by a few students, alumni, and faculty who've offered invaluable advice for pursuing my goals, and who've shaped many of my perspectives. During freshman fall, I engaged in 4 months of reading and self-reflection. My aim was to take a step back and figure things out, short and long-term, from first principles. I may have failed a couple classes, but those were the most value-adding four months of my life.</p>
+				<p>In 2016, I was admitted to Stanford University. Since arriving, I've been influenced by a few students, alumni, and faculty who've offered invaluable advice for pursuing my goals, and who've shaped many of my perspectives. During freshman fall, I engaged in 4 months of reading and self-reflection. My aim was to take a step back and figure things out — personal values, long-term goals, narrative identity — from first principles. I may have failed a couple classes, but those were the most value-adding four months of my life.</p>
 			</div>
 
 			<p class="header">_I LOVE_</p>
@@ -48,7 +48,7 @@
 				<ul>
 				  <li>work on hard problems. long-term? education reform.</li>
 				  <li>become a rockstar... (for real) 👨‍🎤</li>
-				  <li>always be making things</li>
+				  <li>always be making cool things 😎 esp. things that impact people!</li>
 				</ul>
 			</div>
 
