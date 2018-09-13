@@ -66,14 +66,23 @@
 				<ul>
 				  <li>built stuff  🛠️
 				  	<ul>
-				  		<li><a href="https://CryptoBets.cc">CryptoBets</a>, a fully automated, decentralized betting experience built on Ethereum smart contracts. Not a "crypto thing". More a "next-gen betting thing". I'm not a crypto believer. Transacted ~20k USD for the Super Bowl LII, and ~15k USD for the FIFA World Cup final. Featured on CCN <a href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum/">two</a> <a href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum/">times</a>.</li>
+				  		<li><a href="https://CryptoBets.cc">CryptoBets</a>, a fully automated, decentralized betting experience built on Ethereum smart contracts. Not a "crypto thing" (I'm a crypto skeptic). More a "next-gen betting thing". Transacted ~20k USD for the Super Bowl LII, and ~15k USD for the FIFA World Cup final, and now maintain an active community of betting enthusiasts. Featured on CCN <a href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum/">two</a> <a href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum/">times</a>.</li>
 				  		<li><a href="http://GetContra.com">Contra</a>, a social opinions platform featured as a “Best New App” and in the <a href="https://www.usatoday.com/story/tech/2015/06/01/young-developers-create-apple-apps/28302657/">20 Under 20</a> promotion; raised $30k, grew to ~10k users with >30k opinions. A lot of young people used the app to voice their opinions, where they didn't feel comfortable otherwise.</li>
-				  		<li><a href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a>, a multi-purpose business travel tool featured by Apple's 20 Under 20 promotion</li>
+				  		<li><a href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a>, a businessman's travel tool featured by Apple's 20 Under 20 promotion. I wrote a long reflection piece on it... <a href="https://medium.com/@mckapur/shipping-travelog-875914b05f8f">take a look!</a></li>
 				  		<li>an iPhone app for the <a href="http://ibo.org">International Baccalaureate's</a> conference in 2012 — awarded a Certificate of Appreciation by Director-General Jeffrey Beard</li>
 				  		<li>random weekend hacks (iOS, web, Arduino, Leap Motion, Google Glass, etc. etc.)... some on my <a href="http://GitHub.com/MCKapur">GitHub</a>, some not!</li>
 				  		<li>"Rohan Pro Studios" — an independent iOS consulting operation I ran from 12-15 y/o, with 5 clients. I'm still open to full stack freelance work and have done various gigs over the past few years. Please reach out to me if you have a project. My rate is generally $100-120/hr USD.</li>
 				  	</ul>
 			  	</li>
+			  	<li>did other, cool things  👍
+					  <ul>
+					  	<li>wrote a very comprehensive set of <a href="https://medium.com/@mckapur/how-i-got-into-stanford-594f2cf7fa96">thoughts</a> on Stanford admission</li>
+					  	<li>coded for <a href="http://grab.com">Grab</a> (2016), <a href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a> (2015), and <a href="https://www.singpost.com/">Singapore Post</a> (2014)</li>
+					  	<li>started a dev community in my high school, including <a href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a>: a youth-centric all age hackathon</li>
+					  	<li><a href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">performed</a> "Jesus of Suburbia" by Green Day in front of 400+ people  🎸</li>
+					  	<li><a href="https://imgur.com/a/3koMH">lost ~60 lbs</a> on the Keto diet from Feb - Sep 2017  🍖</li>
+				  	</ul>
+				  </li>
 				  <li>explored my (now defunct) interest in AI  🤖
 					  <ul>
 					  	<li>in 2016 I created <a href="http://AYearOfAI.com">AYearOfAI.com</a>, a highly praised and popular (~100k reads) AI blog featured by A16Z and referenced in research papers + books. The goal was to simplify complex ML topics and present them in a fun, quirky way, while retaining all the technicalities (I have a knack for writing!)</li>
@@ -91,14 +100,6 @@
 					  	<li>the Computer Science/IT award every single year at my <a href="https://www.uwcsea.edu.sg/">high school</a></li>
 				  	</ul>
 			  	</li>
-				  <li>did cool things  👍
-					  <ul>
-					  	<li>coded for <a href="http://grab.com">Grab</a> (2016), <a href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a> (2015), and <a href="https://www.singpost.com/">Singapore Post</a> (2014)</li>
-					  	<li>started a dev community in my high school, including <a href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a>: a youth-centric all age hackathon</li>
-					  	<li><a href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">performed</a> "Jesus of Suburbia" by Green Day in front of 400+ people  🎸</li>
-					  	<li><a href="https://imgur.com/a/3koMH">lost ~60 lbs</a> on the Keto diet from Feb - Sep 2017  🍖</li>
-				  	</ul>
-				  </li>
 				</ul>
 			</div>
 
