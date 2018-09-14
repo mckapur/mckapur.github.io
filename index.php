@@ -17,6 +17,8 @@
 				<p>
 					<a href="http://twitter.com/mckapur" style="color: #1DA1F2" target="_blank">Twitter</a>
 					<br>
+					<a href="https://www.instagram.com/mckapur/" style="color: #9D2EB7" target="_blank">Instagram</a>
+					<br>
 					<a href="https://stackoverflow.com/users/1260708/mckapur" style="color: #f48024" target="_blank">StackOverflow</a>
 					<br>
 					<a href="http://github.com/mckapur" style="color: #2ecc71" target="_blank">GitHub</a>
