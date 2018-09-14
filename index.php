@@ -78,7 +78,7 @@
 			  	</li>
 			  	<li>did other, cool things  👍
 					  <ul>
-					  	<li>wrote a <i>very</i> comprehensive personal <a href="https://medium.com/@mckapur/how-i-got-into-stanford-594f2cf7fa96">primer</a> on Stanford admission</li>
+					  	<li>wrote a <i>very</i> comprehensive personal <a href="https://medium.com/@mckapur/how-i-got-into-stanford-594f2cf7fa96">primer</a> on Stanford admission (designed for young developer friends)</li>
 					  	<li><a href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">performed</a> "Jesus of Suburbia" by Green Day in front of 400+ people  🎸</li>
 					  	<li><a href="https://imgur.com/a/3koMH">lost ~60 lbs</a> on the Keto diet from Feb - Sep 2017  🍖</li>
 					  	<li>coded for <a href="http://grab.com">Grab</a> (2016), <a href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a> (2015), and <a href="https://www.singpost.com/">Singapore Post</a> (2014)</li>
