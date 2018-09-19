@@ -49,8 +49,8 @@
 			<div class="textbody">
 				<ul>
 				  <li>work on hard problems. long-term? education reform.</li>
-				  <li>become a rockstar... (for real) 👨‍🎤</li>
-				  <li>always be making cool things 😎 esp. things that impact people!</li>
+				  <li>be a rockstar... (for real) 👨‍🎤</li>
+				  <li>always be making cool, or high impact, things</li>
 				</ul>
 			</div>
 
