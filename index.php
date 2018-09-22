@@ -82,7 +82,7 @@
 					  	<li><a class="tag" href="https://imgur.com/a/3koMH">lost ~60 lbs</a> on the Keto diet from Feb - Sep 2017  🍖</li>
 					  	<li>drafted a narrative identity <a class="tag" href="https://mckapur.quip.com/a97YA7st1HU7">document</a> that outlines my personal goals, values, and life direction</li>
 					  	<li>wrote a very comprehensive personal <a class="tag" href="https://medium.com/@mckapur/how-i-got-into-stanford-594f2cf7fa96">primer</a> on Stanford admission, aimed towards young devs</li>
-					  	<li>gave a conf talk in 2014 on being a young <a class="tag" href="https://www.youtube.com/watch?v=DjBkkGRHaIM">app dev</a></li>
+					  	<li>gave a conf talk in 2014 on being a <a class="tag" href="https://www.youtube.com/watch?v=DjBkkGRHaIM">young app dev</a></li>
 					  	<li>started a dev community in my high school, including <a class="tag" href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a>: a youth-centric, all age hackathon</li>
 				  	</ul>
 				  </li>
