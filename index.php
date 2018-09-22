@@ -41,16 +41,16 @@
 				<ul>
 				  <li>making things... especially Internet products 👨‍💻</li>
 				  <li>reading, writing, skateboarding, singing, jamming, designing, exploring, cooking, conversing, and reflecting</li>
-				  <li>punk rock and ideals 🤘 — made this <a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">playlist</a></li>
+				  <li>punk rock and punk ideals 🤘 — check this <a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">playlist</a></li>
 				</ul>
 			</div>
 
 			<p class="header">_I WANT TO_</p>
 			<div class="textbody">
 				<ul>
-				  <li>identify problems & build solutions (long-term: education reform)</li>
+				  <li>work on hard/fun problems (long-term: education reform)</li>
 				  <li>be a rockstar... for real 👨‍🎤</li>
-				  <li>live a chaotic, weird, interesting, story-filled life</li>
+				  <li>live a weird, interesting & story-filled life</li>
 				</ul>
 			</div>
 
