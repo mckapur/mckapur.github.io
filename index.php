@@ -48,7 +48,7 @@
 			<p class="header">_I WANT TO_</p>
 			<div class="textbody">
 				<ul>
-				  <li>work on hard/fun problems (long-term: education reform)</li>
+				  <li>work on cool/fun problems (long-term: education reform)</li>
 				  <li>be a rockstar... for real 👨‍🎤</li>
 				  <li>live a weird, interesting & story-filled life</li>
 				</ul>
