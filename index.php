@@ -88,7 +88,7 @@
 				  </li>
 				  <li>explored AI in high school 🤖
 					  <ul>
-					  	<li>created <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>, a popular informative, funny, and simple AI blog — ~100k reads, featured in A16Z's <a href="http://aiplaybook.a16z.com/">AI Playbook</a>, referenced in papers + books.</li>
+					  	<li>created <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>, a popular informative, funny, and simple AI blog — ~100k reads, featured in A16Z's AI Playbook, referenced in papers + books.</li>
 					  	<li>gave a conf talk on creating <a class="tag" href="https://docs.google.com/presentation/d/1hXe1wemi605l0-27d4KMqOPaQraz_GUpz5svF61DFBo/edit?usp=sharing">virtual self-driving cars</a></li>
 					  	<li>wrote a <a class="tag" href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini paper</a> comparing machine learning optimization methods</li>
 					  	<li>made AI courses/talks for the <a class="tag" href="https://scholar.stanford.edu/#!/page/home">Stanford Scholar Initiative</a></li>
