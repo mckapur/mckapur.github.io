@@ -40,8 +40,8 @@
 			<div class="textbody">
 				<ul>
 				  <li>making things... esp Internet products 👨‍💻</li>
-				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">punk rock</a>: ideals, music, culture 🤘</li>
-				  <li>jamming, singing, performing, reading, writing, reflecting, skateboarding, designing, exploring, cooking, conversing</li>
+				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">punk rock:</a> ideals, music, culture 🤘</li>
+				  <li>jamming with my baby guitars! singing. performing. reading. writing. reflecting. skateboarding. designing. exploring. cooking sometimes. conversing.</li>
 				</ul>
 			</div>
 
@@ -69,7 +69,7 @@
 				  <li>built stuff  🛠️
 				  	<ul>
 				  		<li><a class="tag" href="https://CryptoBets.cc">CryptoBets</a>, an automated + decentralized betting platform. Transacted ~20k USD for the Super Bowl LII (see <a class="tag" href="https://CryptoBowl.co">CryptoBowl</a>), ~15k USD for the FIFA World Cup final, and now maintain an active community of bettors. Cool articles <a class="tag" href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum/">#1</a> <a class="tag" href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum/">#2</a>.</li>
-				  		<li><a class="tag" href="http://GetContra.com">Contra</a>, a social opinions platform featured in “Best New Apps” and the <a class="tag" href="https://www.usatoday.com/story/tech/2015/06/01/young-developers-create-apple-apps/28302657/">20 Under 20</a> promotion; raised $30k, grew to ~10k users with >30k opinions. A lot of young people used the app to voice their opinions, where they didn't feel comfortable otherwise. Now heavily used by debaters.</li>
+				  		<li><a class="tag" href="http://GetContra.com">Contra</a>, a social opinions platform featured in “Best New Apps” and the <a class="tag" href="https://www.usatoday.com/story/tech/2015/06/01/young-developers-create-apple-apps/28302657/">20 Under 20</a> promotion; raised $30k, grew to ~10k users with >40k opinions. A lot of young people used the app to voice their opinions, where they didn't feel comfortable otherwise. Now heavily used by debaters.</li>
 				  		<li><a class="tag" href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a>, a businessman's travel tool featured in Apple's 20 Under 20 promotion. My first real app; check this <a class="tag" href="https://medium.com/@mckapur/shipping-travelog-875914b05f8f">short reflection</a> I wrote on it.</li>
 				  		<li>an app for the <a class="tag" href="http://ibo.org">IBO's</a> 2012 conf — awarded a Certificate of Appreciation by Director-General Jeffrey Beard</li>
 				  		<li>random weekend hacks (iOS, web, Arduino, Leap Motion, Google Glass, etc.) on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub</a></li>
@@ -88,7 +88,7 @@
 				  </li>
 				  <li>explored AI in high school 🤖
 					  <ul>
-					  	<li>created <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>, an informative, yet funny and simple AI blog — ~100k reads, featured by A16Z, referenced in papers + books.</li>
+					  	<li>created <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>, a popular informative, funny, and simple AI blog — ~100k reads, featured in A16Z's <a href="http://aiplaybook.a16z.com/">AI Playbook</a>, referenced in papers + books.</li>
 					  	<li>gave a conf talk on creating <a class="tag" href="https://docs.google.com/presentation/d/1hXe1wemi605l0-27d4KMqOPaQraz_GUpz5svF61DFBo/edit?usp=sharing">virtual self-driving cars</a></li>
 					  	<li>wrote a <a class="tag" href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini paper</a> comparing machine learning optimization methods</li>
 					  	<li>made AI courses/talks for the <a class="tag" href="https://scholar.stanford.edu/#!/page/home">Stanford Scholar Initiative</a></li>
