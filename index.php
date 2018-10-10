@@ -40,7 +40,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>making things... esp Internet products 👨‍💻</li>
-				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">punk rock:</a> ideals, music, culture 🤘</li>
+				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">punk rock</a> — ideals, music, culture 🤘</li>
 				  <li>jamming with my baby guitars! singing. performing. reading. writing. reflecting. skateboarding. designing. exploring. cooking sometimes. conversing.</li>
 				</ul>
 			</div>
