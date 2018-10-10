@@ -39,9 +39,9 @@
 			<p class="header">_I LOVE_</p>
 			<div class="textbody">
 				<ul>
-				  <li>making things... especially Internet products 👨‍💻</li>
-				  <li>reading, writing, skateboarding, singing, jamming, designing, exploring, cooking, conversing, and reflecting</li>
-				  <li>punk rock and punk ideals 🤘 — check this <a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">playlist</a></li>
+				  <li>making things... esp Internet products 👨‍💻</li>
+				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">punk rock</a>: ideals, music, culture 🤘</li>
+				  <li>jamming, singing, performing, reading, writing, reflecting, skateboarding, designing, exploring, cooking, conversing</li>
 				</ul>
 			</div>
 
