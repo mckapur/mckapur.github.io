@@ -73,7 +73,7 @@
 				  		<li><a class="tag" href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a>, a businessman's travel tool featured in Apple's 20 Under 20 promotion. My first real app; check this <a class="tag" href="https://medium.com/@mckapur/shipping-travelog-875914b05f8f">short reflection</a> I wrote on it.</li>
 				  		<li>an app for the <a class="tag" href="http://ibo.org">IBO's</a> 2012 conf — awarded a Certificate of Appreciation by Director-General Jeffrey Beard</li>
 				  		<li>random weekend hacks (iOS, web, Arduino, Leap Motion, Google Glass, etc.) on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub</a></li>
-					  	<li>coded for <a class="tag" href="http://grab.com">Grab</a> (2016), <a class="tag" href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a> (2015), <a class="tag" href="https://www.singpost.com/">SingPost</a> (2014), and iOS contract work since 12 y/o — my rate is $120/hr USD.</li>
+					  	<li>coded for <a class="tag" href="http://grab.com">Grab</a> (2016), <a class="tag" href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a> (2015), <a class="tag" href="https://www.singpost.com/">SingPost</a> (2014), and iOS/web/backend contract work since 12 y/o — my rate is $120/hr USD.</li>
 				  	</ul>
 			  	</li>
 			  	<li>did other, cool things  👍
