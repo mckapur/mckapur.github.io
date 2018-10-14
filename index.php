@@ -118,18 +118,18 @@
 			<p class="header">_I LAST READ_ 📙</p>
 			<div class="textbody" id="reading">
 					<br>
-				  <li>Encountering Naturalism: A Worldview and Its Uses 👍👍👍</li>
-				  <li>In Defense of a Liberal Education 👍👍</li>
-				  <li>The End of Education 👍👍</li>
- 				  <li>Technopoly: The Surrender of Culture to Technology 👍👍</li>
-				  <li>Industrial Society and Its Future 💯</li>
-				  <li>The Present Age: On the Death of Rebellion 👍</li>
-				  <li>The Origins of Happiness 👍</li>
-				  <li>Win Bigly 👎</li>
-				  <li>Sapiens 👍👍</li>
-				  <li>Homo Deus 👍</li>
-				  <li>Principles 👍</li>
-				  <li>12 Rules For Life 👎</li>
+				  <li>Encountering Naturalism: A Worldview and Its Uses &nbsp;👍👍👍</li>
+				  <li>In Defense of a Liberal Education  &nbsp;👍👍</li>
+				  <li>The End of Education  &nbsp;👍👍</li>
+ 				  <li>Technopoly: The Surrender of Culture to Technology  &nbsp;👍👍</li>
+				  <li>Industrial Society and Its Future &nbsp;💯</li>
+				  <li>The Present Age: On the Death of Rebellion &nbsp;👍</li>
+				  <li>The Origins of Happiness &nbsp;👍</li>
+				  <li>Win Bigly &nbsp;👎</li>
+				  <li>Sapiens &nbsp;👍👍</li>
+				  <li>Homo Deus &nbsp;👍</li>
+				  <li>Principles &nbsp;👍</li>
+				  <li>12 Rules For Life &nbsp;👎</li>
 				</ul>
 			</div>
 		</div>
