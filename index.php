@@ -96,11 +96,10 @@
 			  	</li>
 				  <li>won stuff  🏆
 					  <ul>
+					  	<li>a scholarship to attend Apple’s WWDC 2013 at 14 y/o (built an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about me)</li>
 					  	<li>featured as a <a class="tag" href="https://www.usatoday.com/story/tech/2015/06/01/young-developers-create-apple-apps/28302657/">top 20</a> Apple dev under 20 y/o</li>
-					  	<li>a scholarship to attend Apple’s WWDC 2013 (built an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about myself)</li>
 					  	<li>a scholarship to attend Facebook’s F8 2015</li>
-					  	<li>the <a class="tag" href="https://www.hackathon.com/event/newage-hackathon-20-24949401331">NewAge Hackathon</a> (prototyped a mental health tool)</li>
-					  	<li>the Computer Science/IT award every single year at my <a class="tag" href="https://www.uwcsea.edu.sg/">high school</a></li>
+					  	<li><a class="tag" href="https://www.hackathon.com/event/newage-hackathon-20-24949401331">NewAge 2.0</a>: a mental health hackathon in Singapore</li>
 				  	</ul>
 			  	</li>
 				</ul>
