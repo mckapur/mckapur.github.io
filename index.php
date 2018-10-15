@@ -58,9 +58,9 @@
 			<p class="header">_I WANT TO_</p>
 			<div class="textbody">
 				<ul>
-				  <li>work on cool/fun problems (long-term: education reform)</li>
-				  <li>be a rockstar... for real 👨‍🎤</li>
-				  <li>live a weird, interesting & story-filled life</li>
+				  <li>work on cool problems (long-term: education reform)</li>
+				  <li>keep punk alive 👨‍🎤</li>
+				  <li>live a story-filled life</li>
 				</ul>
 			</div>
 
