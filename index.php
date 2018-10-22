@@ -51,7 +51,7 @@
 				<ul>
 				  <li>making things... esp Internet products 👨‍💻</li>
 				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">punk rock</a> — ideals, music, culture 🤘</li>
-				  <li>jamming with my beloved guitars! singing. performing. reading. writing. reflecting. skateboarding. designing. exploring. conversing. cooking, sometimes.</li>
+				  <li>jamming with my guitars! singing. performing. reading. writing. reflecting. skateboarding. designing. exploring. conversing. cooking, sometimes.</li>
 				</ul>
 			</div>
 
@@ -60,7 +60,7 @@
 				<ul>
 				  <li>work on cool problems (long-term: education reform)</li>
 				  <li>keep punk alive 👨‍🎤</li>
-				  <li>live a story-filled life</li>
+				  <li>live a life full of projects, experiments, and stories</li>
 				</ul>
 			</div>
 
