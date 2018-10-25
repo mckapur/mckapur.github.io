@@ -89,7 +89,7 @@
 			  	</li>
 			  	<li>did other, cool things  👍
 					  <ul>
-					  	<li>performed my anthem <a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">Jesus of Suburbia</a> by Green Day in front of 400+ people  🎸</li>
+					  	<li>performed my anthem Jesus of Suburbia by Green Day <a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">in front of</a> 400+ people  🎸</li>
 					  	<li><a class="tag" href="https://imgur.com/a/3koMH">lost ~60 lbs</a> on the Keto diet from Feb - Sep 2017  🍖</li>
 					  	<li>drafted a narrative identity <a class="tag" href="https://mckapur.quip.com/a97YA7st1HU7">document</a> that outlines my personal goals, values, and life direction</li>
 					  	<li>wrote a very comprehensive personal <a class="tag" href="https://medium.com/@mckapur/how-i-got-into-stanford-594f2cf7fa96">primer</a> on Stanford admission, aimed towards young devs</li>
