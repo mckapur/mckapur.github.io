@@ -67,7 +67,7 @@
 			<p class="header">_RIGHT NOW, I'M_</p>
 			<div class="textbody">
 				<ul>
-				  <li>hanging out at Stanford University 🎄</li>
+				  <li>studying American Studies at Stanford University 🎄</li>
 				  <li>maintaining a few side Internet businesses</li>
 				  <li>working on the next thing... 🚀</li>
 				</ul>
