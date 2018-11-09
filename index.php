@@ -83,7 +83,7 @@
 				  		<li><a class="tag" href="http://GetContra.com">Contra</a> a discussion tool featured in Apple's Best New Apps and 20 Under 20 promotions. Raised $50k and grew to ~10k users with >40k opinions. In 2015 a lot of teens used the app as an outlet for self-expression.</li>
 				  		<li><a class="tag" href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a> a businessman's travel tool (and my first real app). Also featured in Apple's 20 Under 20 promotion.</li>
 				  		<li>an app for the <a class="tag" href="http://ibo.org">IBO's</a> 2012 conference. Awarded a Certificate of Appreciation by Director-General Jeffrey Beard.</li>
-					  	<li>coded for <a class="tag" href="http://grab.com">Grab</a> (2016), <a class="tag" href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a> (2015), <a class="tag" href="https://www.singpost.com/">SingPost</a> (2014), and did iOS/web/backend contract jobs since 12 y/o. Current rate for iOS is $120/hr USD.</li>
+					  	<li>coded for <a class="tag" href="http://grab.com">Grab</a> (2016), <a class="tag" href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a> (2015), <a class="tag" href="https://www.singpost.com/">SingPost</a> (2014), and did iOS/web/backend contract jobs since 12 y/o.</li>
 				  		<li>random weekend hacks (iOS, web, Arduino, Leap Motion, Google Glass, etc.) on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub.</a></li>
 				  	</ul>
 			  	</li>
