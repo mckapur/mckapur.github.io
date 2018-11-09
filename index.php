@@ -111,7 +111,7 @@
 					  	<li>a scholarship to attend Apple’s WWDC 2013 at 14 y/o (built an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about me)</li>
 					  	<li>a scholarship to attend Facebook’s F8 2015</li>
 					  	<li>the CS award every year at my high school</li>
-					  	<li>grand prize at <a class="tag" href="https://www.hackathon.com/event/newage-hackathon-20-24949401331">NewAge 2.0</a>: a mental health hackathon in Singapore</li>
+					  	<li>the grand prize at <a class="tag" href="https://www.hackathon.com/event/newage-hackathon-20-24949401331">NewAge 2.0</a>: a mental health hackathon in Singapore</li>
 				  	</ul>
 			  	</li>
 				</ul>
