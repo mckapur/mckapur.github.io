@@ -68,7 +68,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>studying counterculture at Stanford (major: American Studies, minor: Music Tech) 🎄</li>
-				  <li>having fun and making music 🎶</li>
+				  <li>having fun and makin' music 🎶</li>
 				  <li>working on the ......next thing...... 🚀</li>
 				</ul>
 			</div>
@@ -137,7 +137,7 @@
 		</div>
 
 		<br>
-		<p id="footer" style="color: #eb4d4b; font-weight: bold; font-size: 20px;">❤️</p>
+		<p id="footer" style="color: #eb4d4b; font-weight: bold; font-size: 20px;">🤘</p>
 		<br>
 
 	</body>
