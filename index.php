@@ -87,7 +87,7 @@
 				  		<li>random weekend hacks (iOS, web, Arduino, Leap Motion, Google Glass, etc.) on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub</a></li>
 				  	</ul>
 			  	</li>
-			  	<li>did cool things 😎
+			  	<li>did cool things  😎
 					  <ul>
 					  	<li>performed my anthem Jesus of Suburbia by Green Day <a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">in front of</a> 400+ people  🎸</li>
 					  	<li><a class="tag" href="https://imgur.com/a/3koMH">lost ~60 lbs</a> on the Keto diet from Feb - Sep 2017  🍖</li>
@@ -96,7 +96,7 @@
 					  	<li>gave a talk in 2015 on creating <a class="tag" href="https://docs.google.com/presentation/d/1hXe1wemi605l0-27d4KMqOPaQraz_GUpz5svF61DFBo/edit?usp=sharing">virtual self-driving cars</a></li>
 				  	</ul>
 				  </li>
-			  	<li>wrote a lot 🖊️
+			  	<li>wrote a lot  🖊️
 			  		<ul>
 					  	<li>a narrative identity <a class="tag" href="https://mckapur.quip.com/a97YA7st1HU7">document</a> that outlines my personal goals, values, and life direction</li>
 					  	<li>many articles for <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>, a popular informative, funny, and simple AI blog — ~100k reads, featured in A16Z's AI Playbook, referenced in papers + books.</li>
@@ -106,7 +106,7 @@
 					  	<li>a <a class="tag" href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini paper</a> comparing machine learning optimization methods</li>
 			  		</ul>
 			  	</li>
-				  <li>won stuff  🏆
+				  <li>won stuff   🏆
 					  <ul>
 					  	<li>a scholarship to attend Apple’s WWDC 2013 at 14 y/o (built an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about me)</li>
 					  	<li>a scholarship to attend Facebook’s F8 2015</li>
