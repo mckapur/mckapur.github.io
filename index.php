@@ -68,7 +68,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>studying counterculture at Stanford (major: American Studies, minor: Music Tech) 🎄</li>
-				  <li>having fun and makin' music   🎶</li>
+				  <li>having fun and makin' music  &nbsp;🎶</li>
 				  <li>working on the ......next thing...... 🚀</li>
 				</ul>
 			</div>
