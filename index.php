@@ -106,7 +106,7 @@
 					  	<li>a <a class="tag" href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini paper</a> comparing machine learning optimization methods</li>
 			  		</ul>
 			  	</li>
-				  <li>won stuff   🏆
+				  <li>won stuff  &nbsp;🏆
 					  <ul>
 					  	<li>a scholarship to attend Apple’s WWDC 2013 at 14 y/o (built an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about me)</li>
 					  	<li>a scholarship to attend Facebook’s F8 2015</li>
