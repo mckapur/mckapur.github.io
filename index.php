@@ -78,40 +78,40 @@
 				<ul>
 				  <li>built stuff  🛠️
 				  	<ul>
-				  		<li><a class="tag" href="https://www.dmt.fyi">dmt.fyi</a> a fun educational web guide for the psychedelic drug DMT.</li>
+				  		<li><a class="tag" href="https://www.dmt.fyi">dmt.fyi</a> a fun educational web guide for the psychedelic drug DMT</li>
 				  		<li><a class="tag" href="https://CryptoBets.cc">CryptoBets</a> a decentralized blockchain betting platform, <a class="tag" href="https://CryptoBowl.co">transacted</a> ~$20k the Super Bowl & ~$15k for the FIFA World Cup Final. <a class="tag" href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum/">#1</a> <a class="tag" href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum/">#2</a></li>
 				  		<li><a class="tag" href="http://GetContra.com">Contra</a> a discussion tool featured in Apple's Best New Apps and 20 Under 20 promotions. Raised $50k and grew to ~10k users with >40k opinions. In 2015 a lot of teens used the app as an outlet for self-expression.</li>
 				  		<li><a class="tag" href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a> a businessman's travel tool (and my first real app). Also featured in Apple's 20 Under 20 promotion.</li>
 				  		<li>an app for the <a class="tag" href="http://ibo.org">IBO's</a> 2012 conference. Awarded a Certificate of Appreciation by Director-General Jeffrey Beard.</li>
-					  	<li>coded for <a class="tag" href="http://grab.com">Grab</a> (2016), <a class="tag" href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a> (2015), <a class="tag" href="https://www.singpost.com/">SingPost</a> (2014), and did iOS/web/backend contract jobs since 12 y/o.</li>
-				  		<li>random weekend hacks (iOS, web, Arduino, Leap Motion, Google Glass, etc.) on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub.</a></li>
+					  	<li>coded for <a class="tag" href="http://grab.com">Grab</a> (2016), <a class="tag" href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a> (2015), <a class="tag" href="https://www.singpost.com/">SingPost</a> (2014), and did iOS/web/backend contract jobs since 12 y/o</li>
+				  		<li>random weekend hacks (iOS, web, Arduino, Leap Motion, Google Glass, etc.) on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub</a></li>
 				  	</ul>
 			  	</li>
 			  	<li>did cool things  😎
 					  <ul>
-					  	<li>performed my anthem Jesus of Suburbia by Green Day <a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">in front of</a> 400+ people.  🎸</li>
-					  	<li><a class="tag" href="https://imgur.com/a/3koMH">lost ~60 lbs</a> on the Keto diet from Feb - Sep 2017.  🍖</li>
-					  	<li>started a young dev community in my high school, including <a class="tag" href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a> a youth-centric all age hackathon.</li>
-					  	<li>gave a talk at Geekcamp.SG in 2014 on being a <a class="tag" href="https://www.youtube.com/watch?v=DjBkkGRHaIM">kid app dev</a>.</li>
-					  	<li>gave another talk at Geekcamp in 2015 on creating <a class="tag" href="https://docs.google.com/presentation/d/1hXe1wemi605l0-27d4KMqOPaQraz_GUpz5svF61DFBo/edit?usp=sharing">virtual self-driving cars</a>.</li>
+					  	<li>performed my anthem Jesus of Suburbia by Green Day <a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">in front of</a> 400+ people  🎸</li>
+					  	<li><a class="tag" href="https://imgur.com/a/3koMH">lost ~60 lbs</a> on the Keto diet from Feb - Sep 2017  🍖</li>
+					  	<li>started a young dev community in my high school, including <a class="tag" href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a> a youth-centric all age hackathon</li>
+					  	<li>gave a talk at Geekcamp.SG in 2014 on being a <a class="tag" href="https://www.youtube.com/watch?v=DjBkkGRHaIM">kid app dev</a></li>
+					  	<li>gave another talk at Geekcamp in 2015 on creating <a class="tag" href="https://docs.google.com/presentation/d/1hXe1wemi605l0-27d4KMqOPaQraz_GUpz5svF61DFBo/edit?usp=sharing">virtual self-driving cars</a></li>
 				  	</ul>
 				  </li>
 			  	<li>wrote a lot  🖊️
 			  		<ul>
-					  	<li>a narrative identity <a class="tag" href="https://mckapur.quip.com/a97YA7st1HU7">document</a> that outlines my personal goals, values, and life direction.</li>
-					  	<li>articles for <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>, a fun AI blog I made that has ~100k reads and was referenced in A16Z's AI Playbook amongst other papers/books.</li>
-					  	<li>a very comprehensive personal <a class="tag" href="https://medium.com/@mckapur/how-i-got-into-stanford-594f2cf7fa96">primer</a> on Stanford admission, written for young developers.</li>
-					  	<li>a <a class="tag" href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini research paper</a> comparing machine learning optimization methods.</li>
-					  	<li>a small <a class="tag" href="https://medium.com/@mckapur/wanna-use-node-js-to-build-stuff-6bec2e11bc6">101 guide</a> for a couple of my friends on building backend stuff.</li>
-					  	<li>a short <a class="tag" href="https://medium.com/@mckapur/shipping-travelog-875914b05f8f">reflective piece</a> about my journey building Travelog.</li>
+					  	<li>a narrative identity <a class="tag" href="https://mckapur.quip.com/a97YA7st1HU7">document</a> that outlines my personal goals, values, and life direction</li>
+					  	<li>articles for <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>, a fun AI blog I made that has ~100k reads and was referenced in A16Z's AI Playbook amongst other papers/books</li>
+					  	<li>a very comprehensive personal <a class="tag" href="https://medium.com/@mckapur/how-i-got-into-stanford-594f2cf7fa96">primer</a> on Stanford admission, written for young developers</li>
+					  	<li>a <a class="tag" href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini research paper</a> comparing machine learning optimization methods</li>
+					  	<li>a small <a class="tag" href="https://medium.com/@mckapur/wanna-use-node-js-to-build-stuff-6bec2e11bc6">101 guide</a> for a couple of my friends on building backend stuff</li>
+					  	<li>a short <a class="tag" href="https://medium.com/@mckapur/shipping-travelog-875914b05f8f">reflective piece</a> about my journey building Travelog</li>
 			  		</ul>
 			  	</li>
 				  <li>won stuff  &nbsp;🏆
 					  <ul>
-					  	<li>a scholarship to attend Apple’s WWDC 2013 at 14 y/o: built an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about myself.</li>
-					  	<li>a scholarship to attend Facebook’s F8 2015.</li>
-					  	<li>the CS award every year at my high school.</li>
-					  	<li>the grand prize at the <a class="tag" href="https://www.hackathon.com/event/newage-hackathon-20-24949401331">NewAge 2.0</a> mental health hackathon.</li>
+					  	<li>a scholarship to attend Apple’s WWDC 2013 at 14 y/o: built an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about myself</li>
+					  	<li>a scholarship to attend Facebook’s F8 2015</li>
+					  	<li>the CS award every year at my high school</li>
+					  	<li>the grand prize at the <a class="tag" href="https://www.hackathon.com/event/newage-hackathon-20-24949401331">NewAge 2.0</a> mental health hackathon</li>
 				  	</ul>
 			  	</li>
 				</ul>
