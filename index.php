@@ -69,7 +69,7 @@
 				<ul>
 				  <li>studying counterculture at Stanford (major: American Studies, minor: Music Tech) 🎄</li>
 				  <li>having fun and makin' music  &nbsp;🎶</li>
-				  <li>working on the ......next thing...... 🚀</li>
+				  <li>working on the ......next thing(s)...... 🚀</li>
 				</ul>
 			</div>
 
@@ -79,7 +79,7 @@
 				  <li>built stuff  🛠️
 				  	<ul>
 				  		<li><a class="tag" href="https://www.dmt.fyi">DMT.FYI</a>, a harm reduction and end-to-end educational web guide for the psychedelic drug DMT.</li>
-				  		<li><a class="tag" href="https://CryptoBets.cc">CryptoBets</a>, a decentralized (blockchain) betting platform. Transacted ~20k USD for the Super Bowl LII (see <a class="tag" href="https://CryptoBowl.co">CryptoBowl</a>), ~15k USD for the FIFA World Cup final, and now maintain an active community of bettors. Cool articles <a class="tag" href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum/">#1</a> <a class="tag" href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum/">#2</a>.</li>
+				  		<li><a class="tag" href="https://CryptoBets.cc">CryptoBets</a>, a decentralized (blockchain) betting platform. Transacted ~20k USD for the Super Bowl LII — see <a class="tag" href="https://CryptoBowl.co">CryptoBowl</a> — ~15k USD for the FIFA World Cup final, and now maintain an active community of bettors. Cool articles <a class="tag" href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum/">#1</a> <a class="tag" href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum/">#2</a>.</li>
 				  		<li><a class="tag" href="http://GetContra.com">Contra</a>, a social opinions platform featured in “Best New Apps” and the <a class="tag" href="https://www.usatoday.com/story/tech/2015/06/01/young-developers-create-apple-apps/28302657/">20 Under 20</a> promotion; raised $30k, grew to ~10k users with >40k opinions. A lot of young people used the app to voice their opinions, where they didn't feel comfortable otherwise. Now heavily used by debaters.</li>
 				  		<li><a class="tag" href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a> — my first real app: a businessman's travel tool featured in Apple's 20 Under 20 promotion.</li>
 				  		<li>an app for the <a class="tag" href="http://ibo.org">IBO's</a> 2012 conf — awarded a Certificate of Appreciation by Director-General Jeffrey Beard</li>
