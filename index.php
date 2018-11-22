@@ -98,8 +98,8 @@
 				  </li>
 			  	<li>wrote a lot  🖊️
 			  		<ul>
+					  	<li>articles for <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>, a fun AI blog I made that has ~100k reads and was referenced in A16Z's AI Playbook amongst other papers/books/university lectures</li>
 					  	<li>a narrative identity <a class="tag" href="https://mckapur.quip.com/a97YA7st1HU7">document</a> that outlines my personal goals, values, and life direction</li>
-					  	<li>articles for <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>, a fun AI blog I made that has ~100k reads and was referenced in A16Z's AI Playbook amongst other papers/books</li>
 					  	<li>a very comprehensive personal <a class="tag" href="https://medium.com/@mckapur/how-i-got-into-stanford-594f2cf7fa96">primer</a> on Stanford admission, written for young developers</li>
 					  	<li>a <a class="tag" href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini research paper</a> comparing machine learning optimization methods</li>
 					  	<li>a small <a class="tag" href="https://medium.com/@mckapur/wanna-use-node-js-to-build-stuff-6bec2e11bc6">101 guide</a> for a couple of my friends on building backend stuff</li>
