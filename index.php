@@ -87,15 +87,6 @@
 				  		<li>random weekend hacks (iOS, web, Arduino, Leap Motion, Google Glass, etc.) on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub</a></li>
 				  	</ul>
 			  	</li>
-			  	<li>did cool things  😎
-					  <ul>
-					  	<li>performed my anthem Jesus of Suburbia by Green Day <a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">in front of</a> 400+ people  🎸</li>
-					  	<li><a class="tag" href="https://imgur.com/a/3koMH">lost ~60 lbs</a> on the Keto diet from Feb - Sep 2017  🍖</li>
-					  	<li>started a young dev community in my high school, including <a class="tag" href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a> a youth-centric all age hackathon</li>
-					  	<li>gave a talk at Geekcamp.SG in 2014 on being a <a class="tag" href="https://www.youtube.com/watch?v=DjBkkGRHaIM">kid app dev</a></li>
-					  	<li>gave another talk at Geekcamp in 2015 on creating <a class="tag" href="https://docs.google.com/presentation/d/1hXe1wemi605l0-27d4KMqOPaQraz_GUpz5svF61DFBo/edit?usp=sharing">virtual self-driving cars</a></li>
-				  	</ul>
-				  </li>
 			  	<li>wrote a lot  🖊️
 			  		<ul>
 					  	<li>articles for <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>, a fun AI blog I made that has ~100k reads and was referenced in A16Z's AI Playbook amongst other papers/books/university lectures</li>
@@ -106,6 +97,15 @@
 					  	<li>a short <a class="tag" href="https://medium.com/@mckapur/shipping-travelog-875914b05f8f">reflective piece</a> about my journey building Travelog</li>
 			  		</ul>
 			  	</li>
+			  	<li>did cool things  😎
+					  <ul>
+					  	<li>performed my anthem Jesus of Suburbia by Green Day <a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">in front of</a> 400+ people  🎸</li>
+					  	<li><a class="tag" href="https://imgur.com/a/3koMH">lost ~60 lbs</a> on the Keto diet from Feb - Sep 2017  🍖</li>
+					  	<li>started a young dev community in my high school, including <a class="tag" href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a> a youth-centric all age hackathon</li>
+					  	<li>gave a talk at Geekcamp.SG in 2014 on being a <a class="tag" href="https://www.youtube.com/watch?v=DjBkkGRHaIM">kid app dev</a></li>
+					  	<li>gave another talk at Geekcamp in 2015 on creating <a class="tag" href="https://docs.google.com/presentation/d/1hXe1wemi605l0-27d4KMqOPaQraz_GUpz5svF61DFBo/edit?usp=sharing">virtual self-driving cars</a></li>
+				  	</ul>
+				  </li>
 				  <li>won stuff  &nbsp;🏆
 					  <ul>
 					  	<li>a scholarship to attend Apple’s WWDC 2013 at 14 y/o: built an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about myself</li>
