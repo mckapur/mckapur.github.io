@@ -67,7 +67,7 @@
 			<p class="header">_RIGHT NOW, I'M_</p>
 			<div class="textbody">
 				<ul>
-				  <li>studying counterculture at Stanford (major: American Studies) 🎄</li>
+				  <li>studying problems in America & counterculture at Stanford (American Studies) 🎄</li>
 				  <li>having fun and makin' music  &nbsp;🎶</li>
 				  <li>working on the ......next thing...... 🚀</li>
 				</ul>
