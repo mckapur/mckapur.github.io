@@ -120,6 +120,7 @@
 			<p class="header">_I LAST READ_ 📙</p>
 			<div class="textbody" id="reading">
 					<br>
+					<li>Punk Rock: An Oral History &nbsp;💯</li>
 				  <li>Encountering Naturalism: A Worldview and Its Uses &nbsp;👍👍👍</li>
 				  <li>In Defense of a Liberal Education  &nbsp;👍👍</li>
 				  <li>The End of Education  &nbsp;👍👍</li>
