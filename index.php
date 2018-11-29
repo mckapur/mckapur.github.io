@@ -69,7 +69,7 @@
 				<ul>
 				  <li>studying counterculture at Stanford (American Studies) 🎄</li>
 				  <li>writing songs  &nbsp;🎶</li>
-				  <li>working on the ......next thing...... 🚀</li>
+				  <li>working on the next thing 🚀</li>
 				</ul>
 			</div>
 
