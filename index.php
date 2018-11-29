@@ -49,9 +49,9 @@
 			<p class="header">_I LOVE_</p>
 			<div class="textbody">
 				<ul>
-				  <li>making things... esp Internet products 👨‍💻</li>
+				  <li>making different things</li>
 				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">punk rock</a> — ideals, music, culture 🤘</li>
-				  <li>jamming with my guitars! singing. performing. reading. writing. reflecting. skateboarding. designing. exploring. conversing. cooking, sometimes.</li>
+				  <li>jamming with my guitars! singing, performing, skateboarding, reading, writing, reflecting, designing, exploring, and sitting on trains or buses.</li>
 				</ul>
 			</div>
 
@@ -59,7 +59,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>work on cool problems (long-term: education reform)</li>
-				  <li>keep punk alive 👨‍🎤</li>
+				  <li>be a rock star... for real 👨‍🎤</li>
 				  <li>live a life full of projects, experiments, and stories</li>
 				</ul>
 			</div>
@@ -67,8 +67,8 @@
 			<p class="header">_RIGHT NOW, I'M_</p>
 			<div class="textbody">
 				<ul>
-				  <li>studying problems in America & counterculture at Stanford (American Studies) 🎄</li>
-				  <li>having fun and makin' music  &nbsp;🎶</li>
+				  <li>studying counterculture at Stanford (American Studies) 🎄</li>
+				  <li>writing songs  &nbsp;🎶</li>
 				  <li>working on the ......next thing...... 🚀</li>
 				</ul>
 			</div>
