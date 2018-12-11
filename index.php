@@ -58,9 +58,8 @@
 			<p class="header">_I WANT TO_</p>
 			<div class="textbody">
 				<ul>
-				  <li>channel my skills & passions to help solve problems (across the board)</li>
-				  <li>ever increase this list of skills & passions</li>
-				  <li>be a rock star... for real 👨‍🎤</li>
+				  <li>channel my skills & passions to help solve problems in society</li>
+				  <li>become a rock star... for real 👨‍🎤</li>
 				  <li>live a life full of projects, experiments, and stories</li>
 				</ul>
 			</div>
