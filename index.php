@@ -58,7 +58,7 @@
 			<p class="header">_I WANT TO_</p>
 			<div class="textbody">
 				<ul>
-				  <li>channel my skills & passions to help solve problems in society</li>
+				  <li>contribute towards problems in society</li>
 				  <li>become a rock star... for real 👨‍🎤</li>
 				  <li>live a life full of projects, experiments, and stories</li>
 				</ul>
@@ -67,9 +67,9 @@
 			<p class="header">_RIGHT NOW, I'M_</p>
 			<div class="textbody">
 				<ul>
-				  <li>studying counterculture at Stanford (American Studies) 🎄</li>
-				  <li>writing songs  &nbsp;🎶</li>
-				  <li>working on the next thing 🚀</li>
+				  <li>studying counterculture / sociological problems / anarchy at Stanford (American Studies) 🎄</li>
+				  <li>writing lyrics, making music  &nbsp;🎶</li>
+				  <li>working on punk house inc. (coming soon) 🚀</li>
 				</ul>
 			</div>
 
