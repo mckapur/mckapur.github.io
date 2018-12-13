@@ -73,7 +73,7 @@
 				</ul>
 			</div>
 
-			<p class="header">_I'M PROUD THAT I_</p>
+			<p class="header">_I'M HAPPY THAT I_</p>
 			<div class="textbody">
 				<ul>
 				  <li>built stuff  🛠️
