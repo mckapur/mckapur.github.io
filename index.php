@@ -119,7 +119,6 @@
 
 			<p class="header">_I RECENTLY READ_ 📙</p>
 			<div class="textbody" id="reading">
-				<ul>
 					<br>
 					<li>What Is Anarchism? An Introduction &nbsp;👍👍👍</li>
 					<li>A Wild Sheep Chase &nbsp;😍</li>
@@ -136,7 +135,6 @@
 					<li>Homo Deus &nbsp;👍</li>
 					<li>Principles &nbsp;👍</li>
 					<li>12 Rules For Life &nbsp;👎</li>
-				</ul>
 			</div>
 		</div>
 
