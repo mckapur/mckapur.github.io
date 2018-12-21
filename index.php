@@ -67,9 +67,9 @@
 			<p class="header">_RIGHT NOW, I'M_</p>
 			<div class="textbody">
 				<ul>
-				  <li>studying counterculture, anarchy, & sociological problems at Stanford 🎄</li>
+				  <li>American Studies (focus on counterculture & anarchy) at Stanford 🎄</li>
 				  <li>writing lyrics, making music  &nbsp;🎶</li>
-				  <li>working on punk house inc. (coming soon) 🚀</li>
+				  <li>working on 'punk house inc. (coming soon) 🚀</li>
 				</ul>
 			</div>
 
@@ -119,22 +119,23 @@
 
 			<p class="header">_I RECENTLY READ_ 📙</p>
 			<div class="textbody" id="reading">
+				<ul>
 					<br>
 					<li>What Is Anarchism? An Introduction &nbsp;👍👍👍</li>
 					<li>A Wild Sheep Chase &nbsp;😍</li>
 					<li>Punk Rock: An Oral History &nbsp;💯</li>
-				  <li>Encountering Naturalism: A Worldview and Its Uses &nbsp;👍👍</li>
-				  <li>In Defense of a Liberal Education  &nbsp;👍👍</li>
-				  <li>The End of Education  &nbsp;👍👍</li>
- 				  <li>Technopoly: The Surrender of Culture to Technology  &nbsp;👍👍</li>
-				  <li>Industrial Society and Its Future &nbsp;💯</li>
-				  <li>The Present Age: On the Death of Rebellion &nbsp;👍</li>
-				  <li>The Origins of Happiness &nbsp;👍</li>
-				  <li>Win Bigly &nbsp;👎</li>
-				  <li>Sapiens &nbsp;👍👍</li>
-				  <li>Homo Deus &nbsp;👍</li>
-				  <li>Principles &nbsp;👍</li>
-				  <li>12 Rules For Life &nbsp;👎</li>
+					<li>Encountering Naturalism: A Worldview and Its Uses &nbsp;👍👍</li>
+					<li>In Defense of a Liberal Education  &nbsp;👍👍</li>
+					<li>The End of Education  &nbsp;👍👍</li>
+					<li>Technopoly: The Surrender of Culture to Technology  &nbsp;👍👍</li>
+					<li>Industrial Society and Its Future &nbsp;💯</li>
+					<li>The Present Age: On the Death of Rebellion &nbsp;👍</li>
+					<li>The Origins of Happiness &nbsp;👍</li>
+					<li>Win Bigly &nbsp;👎</li>
+					<li>Sapiens &nbsp;👍👍</li>
+					<li>Homo Deus &nbsp;👍</li>
+					<li>Principles &nbsp;👍</li>
+					<li>12 Rules For Life &nbsp;👎</li>
 				</ul>
 			</div>
 		</div>
