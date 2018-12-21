@@ -117,9 +117,10 @@
 				</ul>
 			</div>
 
-			<p class="header">_I LAST READ_ 📙</p>
+			<p class="header">_I RECENTLY READ_ 📙</p>
 			<div class="textbody" id="reading">
 					<br>
+					<li>What Is Anarchism? An Introduction &nbsp;👍👍👍</li>
 					<li>A Wild Sheep Chase &nbsp;😍</li>
 					<li>Punk Rock: An Oral History &nbsp;💯</li>
 				  <li>Encountering Naturalism: A Worldview and Its Uses &nbsp;👍👍</li>
