@@ -76,17 +76,19 @@
 
 			<p class="header">_READINGS THAT SHAPED ME_ 📙</p>
 			<div class="textbody" id="reading">
-				<br>
-				<li>Industrial Society and Its Future</li>
-				<li>Punk Rock: An Oral History</li>
-				<li>What Is Anarchism? An Introduction</li>
-				<li>Technopoly: The Surrender of Culture to Technology</li>
-				<li>Encountering Naturalism: A Worldview and Its Uses</li>
-				<li>The End of Education</li>
-				<li>In Defense of a Liberal Education</li>
-				<li>Sapiens: A Brief History of Humankind</li>
-				<li>Homo Deus: A Brief History of Tomorrow</li>
-				<li>Principles: Life and Work</li>
+				<ul>
+					<br>
+					<li>Industrial Society and Its Future</li>
+					<li>Punk Rock: An Oral History</li>
+					<li>What Is Anarchism? An Introduction</li>
+					<li>Technopoly: The Surrender of Culture to Technology</li>
+					<li>Encountering Naturalism: A Worldview and Its Uses</li>
+					<li>The End of Education</li>
+					<li>In Defense of a Liberal Education</li>
+					<li>Sapiens: A Brief History of Humankind</li>
+					<li>Homo Deus: A Brief History of Tomorrow</li>
+					<li>Principles: Life and Work</li>
+				</ul>
 			</div>
 
 			<p class="header">_IN THE PAST I'VE_</p>
