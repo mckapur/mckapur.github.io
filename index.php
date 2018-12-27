@@ -69,7 +69,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>working on punk house.<sup>coming soon</sup> 🚀</li>
-				  <li>studying liberal arts at Stanford University (American Studies: individualism, counterculture, anarchism, and more) 🎄</li>
+				  <li>studying liberal arts at Stanford University 🎄<br>American Studies: individualism, counterculture, anarchism, and more</li>
 				  <li>writing lyrics, making music<sup>coming sometime in the future</sup>  &nbsp;🎶</li>
 				</ul>
 			</div>
