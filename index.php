@@ -89,7 +89,7 @@
 				<li>Principles</li>
 			</div>
 
-			<p class="header">_I'M HAPPY THAT I_</p>
+			<p class="header">_IN THE PAST I'VE_</p>
 			<div class="textbody">
 				<ul>
 				  <li>built stuff  🛠️
