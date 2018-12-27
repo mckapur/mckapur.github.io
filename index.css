@@ -98,6 +98,17 @@ p {
 	letter-spacing: 0.25px;
 }
 
+.textbody li:before {
+    font-family: 'FontAwesome';
+    content: '\f067';
+    margin:0 5px 0 -15px;
+    color: #f00;
+}
+
+.textbody ul {
+	list-style:none;
+}
+
 .textbody li {
 	font-family: 'Avenir Next', sans-serif;
 	font-size: 15px;
