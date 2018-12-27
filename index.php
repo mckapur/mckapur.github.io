@@ -70,7 +70,7 @@
 				<ul>
 				  <li>working on punk house.<sup>coming soon</sup> 🚀</li>
 				  <li>studying liberal arts at Stanford University 🎄<br>American Studies: individualism, counterculture, anarchism, and more</li>
-				  <li>writing lyrics, making music<sup>TBA</sup>  &nbsp;🎶</li>
+				  <li>working on my first EP  &nbsp;🎶</li>
 				</ul>
 			</div>
 
