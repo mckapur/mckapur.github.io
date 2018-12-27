@@ -124,10 +124,10 @@
 				<li>Industrial Society and Its Future</li>
 				<li>Punk Rock: An Oral History</li>
 				<li>What Is Anarchism? An Introduction</li>
-				<li>Encountering Naturalism: A Worldview and Its Uses</li>
-				<li>In Defense of a Liberal Education</li>
-				<li>The End of Education</li>
 				<li>Technopoly: The Surrender of Culture to Technology</li>
+				<li>Encountering Naturalism: A Worldview and Its Uses</li>
+				<li>The End of Education</li>
+				<li>In Defense of a Liberal Education</li>
 				<li>Sapiens</li>
 				<li>Homo Deus</li>
 				<li>Principles</li>
