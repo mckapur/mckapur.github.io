@@ -68,7 +68,7 @@
 			<p class="header">_RIGHT NOW, I'M_</p>
 			<div class="textbody">
 				<ul>
-				  <li>Studying liberal arts at Stanford University 🎄 (specifically American Studies: social theory, individualism, counterculture, anarchism, etc.)</li>
+				  <li>studying liberal arts at Stanford University 🎄 (specifically American Studies: social theory, individualism, counterculture, anarchism, etc.)</li>
 				  <li>writing lyrics, making music  &nbsp;🎶</li>
 				  <li>working on punk house. (coming soon) 🚀</li>
 				</ul>
