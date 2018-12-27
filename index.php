@@ -49,9 +49,9 @@
 			<p class="header">_I LOVE_</p>
 			<div class="textbody">
 				<ul>
-				  <li>making different kinds of things</li>
+				  <li>making things</li>
   				  <li>radical individualism</li>
-				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">punk rock</a> — ideals, music, culture 🤘</li>
+				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">punk</a> ideals, music, culture 🤘</li>
 				  <li>jamming with my guitars, singing, performing, skateboarding, reading, biking the bay area, writing, designing, and thinking on trains or buses.</li>
 				</ul>
 			</div>
