@@ -68,9 +68,9 @@
 			<p class="header">_RIGHT NOW, I'M_</p>
 			<div class="textbody">
 				<ul>
-				  <li>studying liberal arts at Stanford University 🎄 (specifically American Studies: social theory, individualism, counterculture, anarchism, etc.)</li>
-				  <li>writing lyrics, making music  &nbsp;🎶</li>
-				  <li>working on punk house. (coming soon) 🚀</li>
+				  <li>working on punk house.<sup>coming soon</sup> 🚀</li>
+				  <li>studying liberal arts at Stanford University (American Studies: individualism, counterculture, anarchism, and more) 🎄</li>
+				  <li>writing lyrics, making music<sup>coming sometime in the future</sup>  &nbsp;🎶</li>
 				</ul>
 			</div>
 
@@ -84,9 +84,9 @@
 				<li>Encountering Naturalism: A Worldview and Its Uses</li>
 				<li>The End of Education</li>
 				<li>In Defense of a Liberal Education</li>
-				<li>Sapiens</li>
-				<li>Homo Deus</li>
-				<li>Principles</li>
+				<li>Sapiens: A Brief History of Humankind</li>
+				<li>Homo Deus: A Brief History of Tomorrow</li>
+				<li>Principles: Life and Work</li>
 			</div>
 
 			<p class="header">_IN THE PAST I'VE_</p>
