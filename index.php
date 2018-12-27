@@ -49,7 +49,8 @@
 			<p class="header">_I LOVE_</p>
 			<div class="textbody">
 				<ul>
-				  <li>making things</li>
+				  <li>making different kinds of things</li>
+  				  <li>individualism!</li>
 				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">punk rock</a> — ideals, music, culture 🤘</li>
 				  <li>jamming with my guitars, singing, performing, skateboarding, reading, biking the bay area, writing, designing, and thinking on trains or buses.</li>
 				</ul>
@@ -58,7 +59,7 @@
 			<p class="header">_I WANT TO_</p>
 			<div class="textbody">
 				<ul>
-				  <li>contribute towards problems in society</li>
+				  <li>contribute to problems in society (long-term: reinstating individualism)</li>
 				  <li>become a rock star... for real 👨‍🎤</li>
 				  <li>live a life full of projects, experiments, and stories</li>
 				</ul>
@@ -67,9 +68,9 @@
 			<p class="header">_RIGHT NOW, I'M_</p>
 			<div class="textbody">
 				<ul>
-				  <li>American Studies (focus on counterculture & anarchy) at Stanford 🎄</li>
+				  <li>American Studies (individualism, counterculture, anarchism, etc.) at Stanford 🎄</li>
 				  <li>writing lyrics, making music  &nbsp;🎶</li>
-				  <li>working on 'punk house inc. (coming soon) 🚀</li>
+				  <li>working on punk house. (coming soon) 🚀</li>
 				</ul>
 			</div>
 
@@ -119,22 +120,22 @@
 
 			<p class="header">_I RECENTLY READ_ 📙</p>
 			<div class="textbody" id="reading">
-					<br>
-					<li>What Is Anarchism? An Introduction &nbsp;👍👍👍</li>
-					<li>A Wild Sheep Chase &nbsp;😍</li>
-					<li>Punk Rock: An Oral History &nbsp;💯</li>
-					<li>Encountering Naturalism: A Worldview and Its Uses &nbsp;👍👍</li>
-					<li>In Defense of a Liberal Education  &nbsp;👍👍</li>
-					<li>The End of Education  &nbsp;👍👍</li>
-					<li>Technopoly: The Surrender of Culture to Technology  &nbsp;👍👍</li>
-					<li>Industrial Society and Its Future &nbsp;💯</li>
-					<li>The Present Age: On the Death of Rebellion &nbsp;👍</li>
-					<li>The Origins of Happiness &nbsp;👍</li>
-					<li>Win Bigly &nbsp;👎</li>
-					<li>Sapiens &nbsp;👍👍</li>
-					<li>Homo Deus &nbsp;👍</li>
-					<li>Principles &nbsp;👍</li>
-					<li>12 Rules For Life &nbsp;👎</li>
+				<br>
+				<li>What Is Anarchism? An Introduction &nbsp;👍👍👍</li>
+				<li>A Wild Sheep Chase &nbsp;😍</li>
+				<li>Punk Rock: An Oral History &nbsp;💯</li>
+				<li>Encountering Naturalism: A Worldview and Its Uses &nbsp;👍👍</li>
+				<li>In Defense of a Liberal Education  &nbsp;👍👍</li>
+				<li>The End of Education  &nbsp;👍👍</li>
+				<li>Technopoly: The Surrender of Culture to Technology  &nbsp;👍👍</li>
+				<li>Industrial Society and Its Future &nbsp;💯</li>
+				<li>The Present Age: On the Death of Rebellion &nbsp;👍</li>
+				<li>The Origins of Happiness &nbsp;👍</li>
+				<li>Win Bigly &nbsp;👎</li>
+				<li>Sapiens &nbsp;👍👍</li>
+				<li>Homo Deus &nbsp;👍</li>
+				<li>Principles &nbsp;👍</li>
+				<li>12 Rules For Life &nbsp;👎</li>
 			</div>
 		</div>
 
