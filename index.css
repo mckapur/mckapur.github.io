@@ -100,9 +100,11 @@ p {
 
 .textbody li:before {
     font-family: 'FontAwesome';
-    content: '\f067';
-    margin:0 5px 0 -15px;
-    color: #f00;
+    content: '';
+    font-size: 10px;
+    color: #2d3436;
+    margin-left: -20px;
+    margin-right: 15px;
 }
 
 .textbody ul {
