@@ -70,14 +70,13 @@
 				<ul>
 				  <li>working on punk house.<sup>coming soon</sup> 🚀</li>
 				  <li>studying liberal arts at Stanford University 🎄<br>American Studies: individualism, counterculture, anarchism, and more</li>
-				  <li>writing lyrics, making music<sup>coming sometime in the future</sup>  &nbsp;🎶</li>
+				  <li>writing lyrics, making music<sup>TBA</sup>  &nbsp;🎶</li>
 				</ul>
 			</div>
 
 			<p class="header">_READINGS THAT SHAPED ME_ 📙</p>
 			<div class="textbody" id="reading">
 				<ul>
-					<br>
 					<li>Industrial Society and Its Future</li>
 					<li>Punk Rock: An Oral History</li>
 					<li>What Is Anarchism? An Introduction</li>
