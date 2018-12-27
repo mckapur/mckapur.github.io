@@ -118,7 +118,7 @@
 				</ul>
 			</div>
 
-			<p class="header">_I RECENTLY READ_ 📙</p>
+			<p class="header">_SINCE 2018, I'VE READ_ 📙</p>
 			<div class="textbody" id="reading">
 				<br>
 				<li>What Is Anarchism? An Introduction &nbsp;👍👍👍</li>
