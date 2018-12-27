@@ -74,7 +74,7 @@
 				</ul>
 			</div>
 
-			<p class="header">_READINGS THAT CHANGED MY LIFE_ 📙</p>
+			<p class="header">_READINGS THAT SHAPED ME_ 📙</p>
 			<div class="textbody" id="reading">
 				<br>
 				<li>Industrial Society and Its Future</li>
