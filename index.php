@@ -68,7 +68,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>working on punk house. 🚀</li>
-				  <li>studying liberal arts at Stanford University 🎄<br><span class="subtag">American Studies major: concentration on counterculture</span><br><span class="subtag">Sociology minor: "Poverty, Inequality, and Policy"</span></li>
+				  <li>studying liberal arts at Stanford University 🎄<br><span class="subtag">American Studies major: concentration on counterculture</span><br><span class="subtag">Sociology minor: Poverty, Inequality, and Policy</span></li>
 				  <li>working on my first EP  &nbsp;🎶</li>
 				</ul>
 			</div>
@@ -124,7 +124,7 @@
 				  </li>
 				  <li>won awards  &nbsp;🏆
 					  <ul>
-					  	<li>a scholarship to attend Apple’s WWDC 2013 at 14 y/o: built an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about myself</li>
+					  	<li>a scholarship to attend Apple WWDC '13 at 14 y/o for building an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about myself</li>
 					  	<li>a scholarship to attend Facebook’s F8 2015</li>
 					  	<li>the CS award every year at my high school</li>
 					  	<li>the grand prize at the <a class="tag" href="https://www.hackathon.com/event/newage-hackathon-20-24949401331">NewAge 2.0</a> mental health hackathon</li>
