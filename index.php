@@ -80,7 +80,7 @@
 				<ul>
 					<li><u>Industrial Society and Its Future</u> — catalyst for my (negative) outlook on modern society & thus life goals</li>
 					<li><u>Encountering Naturalism: A Worldview and Its Uses</u> — catalyst for my moral philosophy; how I view others & myself</li>
-					<li><u>Punk Rock: An Oral History</u> — made me realize the power of ideas (over $$$) for change</li>
+					<li><u>Punk Rock: An Oral History</u> — made me realize the power of ideas (over $$$) for making change</li>
 					<li><u>What Is Anarchism? An Introduction</u> — catalyst for my personal political philosophy</li>
 					<li><u>Technopoly: The Surrender of Culture to Technology</u> — turned me away from a blind-faith in technology & gave me a framework to think about it</li>
 					<li><u>The End of Education</u> — developed perspective on issues with the existing education system</li>
