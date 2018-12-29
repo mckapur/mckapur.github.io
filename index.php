@@ -78,7 +78,7 @@
 			<p class="header">_READINGS THAT SHAPED MY LIFE & WHY_ 📙</p>
 			<div class="textbody" id="reading">
 				<ul>
-					<li><u>Industrial Society and Its Future</u> — catalyst for my (negative) outlook on modern society & thus life goals</li>
+					<li><u>Industrial Society and Its Future</u> — catalyst for my critical outlook on modern society & thus life goals</li>
 					<li><u>Encountering Naturalism: A Worldview and Its Uses</u> — catalyst for my moral philosophy; how I view others & myself</li>
 					<li><u>Punk Rock: An Oral History</u> — made me realize the power of ideas (over $$$) for making change</li>
 					<li><u>What Is Anarchism? An Introduction</u> — catalyst for my personal political philosophy</li>
