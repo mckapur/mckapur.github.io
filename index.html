@@ -70,7 +70,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>working on punk house.<sup>coming soon</sup> 🚀</li>
-				  <li>studying liberal arts at Stanford University 🎄<br> (American Studies & Sociology: policy, history, critical theory, individualism, counterculture, anarchism, and more)</li>
+				  <li>studying American Studies & Sociology at Stanford University 🎄<br>&nbsp;<i>(critical theory, individualism, counterculture, anarchism, policy, history & more)</i></li>
 				  <li>working on my first EP  &nbsp;🎶</li>
 				</ul>
 			</div>
