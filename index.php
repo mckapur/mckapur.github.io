@@ -75,7 +75,7 @@
 				</ul>
 			</div>
 
-			<p class="header">_READINGS THAT SHAPED MY LIFE & WHY_ 📙</p>
+			<p class="header">_READINGS THAT SHAPED ME & WHY_ 📙</p>
 			<div class="textbody" id="reading">
 				<ul>
 					<li><u>Industrial Society and Its Future</u> — catalyst for my critical outlook on modern society & thus life goals</li>
