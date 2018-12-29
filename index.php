@@ -1,8 +1,6 @@
 <!doctype html>
 <html>
 	<head>
-		<link href="https://fonts.googleapis.com/css?family=Avenir+Next" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
 		<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.1/css/font-awesome.css" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="index.css" media="screen"/>
 		<title>Rohan Kapur</title>
@@ -52,15 +50,15 @@
 				<ul>
 				  <li>making things</li>
   				  <li>radical individualism</li>
-				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">punk</a> ideals, music, culture 🤘</li>
-				  <li>having fun... whether it's jamming, singing, skateboarding, reading, writing, biking, exploring the bay area, or sitting on trains.</li>
+				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">punk</a> music, ideals, culture</li>
+				  <li>having fun!<br><span class="subtag">whether that's jamming, singing, skateboarding, reading, writing, biking, exploring the bay area, or taking trains.</span></li>
 				</ul>
 			</div>
 
 			<p class="header">_I WANT TO_</p>
 			<div class="textbody">
 				<ul>
-				  <li>contribute to problems in society (long-term: reinstating individualism)</li>
+				  <li>contribute to problems in society, long-term: reinstating individualism</li>
 				  <li>become a rock star... for real 👨‍🎤</li>
 				  <li>live a life full of projects, experiments, and stories</li>
 				</ul>
@@ -69,8 +67,8 @@
 			<p class="header">_RIGHT NOW, I'M_</p>
 			<div class="textbody">
 				<ul>
-				  <li>working on punk house.<sup>coming soon</sup> 🚀</li>
-				  <li>studying American Studies & Sociology at Stanford University 🎄<br>&nbsp;<i>(critical theory, individualism, counterculture, anarchism, policy, history & more)</i></li>
+				  <li>working on punk house. 🚀</li>
+				  <li>studying liberal arts at Stanford University 🎄<br><span class="subtag">American Studies major: concentration on counterculture</span><br><span class="subtag">Sociology minor: "Poverty, Inequality, and Policy"</span></li>
 				  <li>working on my first EP  &nbsp;🎶</li>
 				</ul>
 			</div>
@@ -78,16 +76,16 @@
 			<p class="header">_READINGS THAT SHAPED ME & WHY_ 📙</p>
 			<div class="textbody" id="reading">
 				<ul>
-					<li><u>Industrial Society and Its Future</u> — catalyst for my critical outlook on modern society & thus life goals</li>
-					<li><u>Encountering Naturalism: A Worldview and Its Uses</u> — catalyst for my moral philosophy; how I view others & myself</li>
-					<li><u>Punk Rock: An Oral History</u> — made me realize the power of ideas (over $$$) for making change</li>
-					<li><u>What Is Anarchism? An Introduction</u> — catalyst for my personal political philosophy</li>
-					<li><u>Technopoly: The Surrender of Culture to Technology</u> — turned me away from a blind-faith in technology & gave me a framework to think about it</li>
-					<li><u>The End of Education</u> — developed perspective on issues with the existing education system</li>
-					<li><u>In Defense of a Liberal Education</u> — 100% influenced me to study liberal arts</li>
-					<li><u>Sapiens: A Brief History of Humankind</u> — informed me on how humanity has developed thus far</li>
-					<li><u>Principles: Life and Work</u> — offered an invaluable framework for operating & thinking about my life & work</li>
-					<li><u>Homo Deus: A Brief History of Tomorrow</u> — painted a thought-provoking dystopian picture of the future under the "religion of technology"</li>
+					<li>Industrial Society and Its Future<br><span class="subtag">catalyst for my critical outlook on modern society & thus life goals</span></li>
+					<li>Encountering Naturalism: A Worldview and Its Uses<br><span class="subtag">catalyst for my moral philosophy; how I view others & myself</span></li>
+					<li>Punk Rock: An Oral History<br><span class="subtag">made me realize the power of ideas (over $$$) for making change</span></li>
+					<li>What Is Anarchism? An Introduction<br><span class="subtag">catalyst for my personal political philosophy</span></li>
+					<li>Technopoly: The Surrender of Culture to Technology<br><span class="subtag">turned me away from a blind faith in technology & gave me a framework to think about it</span></li>
+					<li>The End of Education<br><span class="subtag">developed perspective on issues with the existing education system</span></li>
+					<li>In Defense of a Liberal Education<br><span class="subtag">100% influenced me to study liberal arts</span></li>
+					<li>Sapiens: A Brief History of Humankind<br><span class="subtag">informed me on how humanity has developed thus far</span></li>
+					<li>Principles: Life and Work<br><span class="subtag">offered an invaluable framework for operating & thinking about my life & work</span></li>
+					<li>Homo Deus: A Brief History of Tomorrow<br><span class="subtag">painted a thought-provoking dystopian picture of the future under our "religion of technology"</span></li>
 				</ul>
 			</div>
 
@@ -137,7 +135,7 @@
 		</div>
 
 		<br>
-		<p id="footer" style="color: #eb4d4b; font-weight: bold; font-size: 20px;">❤️</p>
+		<p id="footer" style="color: #eb4d4b; font-weight: bold; font-size: 20px;">🤘</li></p>
 		<br>
 
 	</body>

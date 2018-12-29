@@ -70,17 +70,17 @@ a {
 
 #subtagline {
 	margin-top: 30px;
-	font-family: 'Avenir Next';
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 	font-size: 18px;
 	font-style: italic;
 }
 
 h2 {
-	font-family: 'Avenir Next', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 p {
-	font-family: 'Avenir Next', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 	font-size: 15px;
 }
 
@@ -98,6 +98,11 @@ p {
 	letter-spacing: 0.25px;
 }
 
+.subtag {
+	font-size: 12px;
+	margin-left: 5px;
+}
+
 .textbody li:before {
     font-family: 'FontAwesome';
     content: '';
@@ -112,15 +117,16 @@ p {
 }
 
 .textbody li {
-	font-family: 'Avenir Next', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 	font-size: 15px;
 	color: black;
 	line-height: 2;
+	font-weight: 1em;
 	margin-top: 7.5px;
 }
 
 #reading li {
-	font-family: 'Avenir Next';
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 	font-size: 15px;
 	color: black;
 	line-height: 2;
