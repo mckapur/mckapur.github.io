@@ -122,7 +122,7 @@
 					  	<li>gave another talk at Geekcamp in 2015 on creating <a class="tag" href="https://docs.google.com/presentation/d/1hXe1wemi605l0-27d4KMqOPaQraz_GUpz5svF61DFBo/edit?usp=sharing">virtual self-driving cars</a></li>
 				  	</ul>
 				  </li>
-				  <li>won stuff  &nbsp;🏆
+				  <li>won awards  &nbsp;🏆
 					  <ul>
 					  	<li>a scholarship to attend Apple’s WWDC 2013 at 14 y/o: built an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about myself</li>
 					  	<li>a scholarship to attend Facebook’s F8 2015</li>
