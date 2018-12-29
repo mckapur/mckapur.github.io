@@ -75,19 +75,19 @@
 				</ul>
 			</div>
 
-			<p class="header">_READINGS THAT SHAPED ME_ 📙</p>
+			<p class="header">_READINGS THAT SHAPED MY LIFE & WHY_ 📙</p>
 			<div class="textbody" id="reading">
 				<ul>
-					<li>Industrial Society and Its Future</li>
-					<li>Punk Rock: An Oral History</li>
-					<li>What Is Anarchism? An Introduction</li>
-					<li>Technopoly: The Surrender of Culture to Technology</li>
-					<li>Encountering Naturalism: A Worldview and Its Uses</li>
-					<li>The End of Education</li>
-					<li>In Defense of a Liberal Education</li>
-					<li>Sapiens: A Brief History of Humankind</li>
-					<li>Homo Deus: A Brief History of Tomorrow</li>
-					<li>Principles: Life and Work</li>
+					<li><u>Industrial Society and Its Future</u> — catalyst for my negative outlook on modern society</li>
+					<li><u>Encountering Naturalism: A Worldview and Its Uses</u> — catalyst for my moral philosophy; how I view others & myself</li>
+					<li><u>Punk Rock: An Oral History</u> — made me realize the power of ideas (over $$$) for change</li>
+					<li><u>What Is Anarchism? An Introduction</u> — catalyst for my personal political philosophy</li>
+					<li><u>Technopoly: The Surrender of Culture to Technology</u> — turned me away from a blind-faith in technology & gave me a framework to think about it</li>
+					<li><u>The End of Education</u> — developed perspective on issues with the existing education system</li>
+					<li><u>In Defense of a Liberal Education</u> — 100% influenced me to study liberal arts</li>
+					<li><u>Sapiens: A Brief History of Humankind</u> — informed me on how humanity has developed thus far</li>
+					<li><u>Principles: Life and Work</u> — offered an invaluable framework for operating & thinking about my life & work</li>
+					<li><u>Homo Deus: A Brief History of Tomorrow</u> — painted a thought-provoking dystopian picture of the future under the "religion of technology"</li>
 				</ul>
 			</div>
 
