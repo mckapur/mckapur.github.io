@@ -87,8 +87,8 @@ p {
 }
 
 .textbody li:before {
-    font-family: 'FontAwesome';
-    content: '';
+	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    content: '→';
     font-size: 10px;
     color: #95a5a6;
     margin-left: -20px;
