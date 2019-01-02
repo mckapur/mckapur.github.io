@@ -67,7 +67,7 @@
 			<p class="header">_RIGHT NOW, I'M_</p>
 			<div class="textbody">
 				<ul>
-				  <li>working on punk house. 🚀</li>
+				  <li>building out punk house. 🚀</li>
 				  <li>studying liberal arts at Stanford University 🎄<br><span class="subtag">American Studies major: concentration on counterculture</span><br><span class="subtag">Sociology minor: Poverty, Inequality, and Policy</span></li>
 				  <li>working on my first EP  &nbsp;🎶</li>
 				</ul>
