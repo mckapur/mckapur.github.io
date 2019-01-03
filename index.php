@@ -50,8 +50,9 @@
 				<ul>
 				  <li>making things</li>
   				  <li>radical individualism</li>
-				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">punk</a> music, ideals, culture 🤘</li>
-				  <li>having fun!<br><span class="subtag">whether that's jamming, singing, skateboarding, reading, writing, biking, exploring the bay area, or taking trains.</span></li>
+				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">punk rock</a> ideals, culture, history 🤘</li>
+				  <li>listening to <a class="tag" href="https://open.spotify.com/user/1178095932/playlist/6vUgIKzx6edSfzAQ7CMSXR?si=1OFjCdn7QbiOgfTkniVK5g">music</a> (I listened to 120,000 hours in 2018!)</li>
+				  <li>having fun!<br><span class="subtag">whether that's jamming, singing, skateboarding, reading, writing, biking, going to concerts, or exploring the bay area.</span></li>
 				</ul>
 			</div>
 
