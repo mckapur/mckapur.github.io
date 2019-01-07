@@ -70,7 +70,7 @@
 				<ul>
 				  <li>building out punk house. 🚀</li>
 				  <li>studying liberal arts at Stanford University 🎄<br><span class="subtag">American Studies major: concentration on counterculture</span><br><span class="subtag">Sociology minor: Poverty, Inequality, and Policy</span></li>
-				  <li>working on my first EP  &nbsp;🎶</li>
+				  <li>writing my first album  &nbsp;🎶</li>
 				</ul>
 			</div>
 
