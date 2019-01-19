@@ -98,7 +98,7 @@
 				  		<li><a class="tag" href="https://www.dmt.fyi">DMT.FYI</a>: a fun educational web guide for the psychedelic drug DMT</li>
 				  		<li><a class="tag" href="https://CryptoBets.cc">CryptoBets</a>: a decentralized blockchain betting platform, <a class="tag" href="https://CryptoBowl.co">transacted</a> ~$20k the Super Bowl & ~$15k for the FIFA World Cup Final.</li>
 				  		<li><a class="tag" href="http://GetContra.com">Contra</a>: a youth debate tool featured in Apple's Best New Apps and 20 Under 20 promotions.</li>
-				  		<li><a class="tag" href="https://itunes.apple.com/us/app/travelog-travel-info-you-need-fast/id577449648?mt=8">Travelog</a>: a businessman's travel tool, featured in Apple's 20 Under 20 promotion.</li>
+				  		<li><a class="tag" href="https://appadvice.com/app/travelog-travel-info-you-need-fast/577449648">Travelog</a>: a businessman's travel tool, featured in Apple's 20 Under 20 promotion.</li>
 				  		<li>an app for <a class="tag" href="http://ibo.org">IBO's</a> 2012 conf; awarded a Certificate of Appreciation</li>
 					  	<li>coded for <a class="tag" href="http://grab.com">Grab</a>, <a class="tag" href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a>, <a class="tag" href="https://www.singpost.com/">SingPost</a>, and my own freelance clients</li>
 				  		<li>random fun weekend hacks on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub</a></li>
