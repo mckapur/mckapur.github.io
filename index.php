@@ -96,10 +96,10 @@
 					<li><a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">performing</a> my fav song Jesus of Suburbia by Green Day to 400+ people  🎸</li>
 					<li><a class="tag" href="https://imgur.com/a/Y58kmWH">losing ~65 lbs</a> on the Keto diet in 2017  🍖</li>
 			  		<li><a class="tag" href="http://GetContra.com">Contra</a>: a debate tool featured in Apple's Best New Apps and 20 Under 20 promotions.</li>
+					<li>the blog <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>: 100k+ reads, referenced in A16Z's AI Playbook amongst research papers, books & university courses</li>
 			  		<li><a class="tag" href="https://appadvice.com/app/travelog-travel-info-you-need-fast/577449648">Travelog</a>: a businessman's travel tool, featured in Apple's 20 Under 20 promotion.</li>
 			  		<li>an app for <a class="tag" href="http://ibo.org">IBO's</a> 2012 conf; awarded a Certificate of Appreciation</li>
 			  		<li>random fun weekend hacks on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub</a></li>
-					<li>the blog <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>: 100k+ reads, referenced in A16Z's AI Playbook amongst research papers, books & university courses</li>
 					<li>a <a class="tag" href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini research paper</a> comparing machine learning optimization methods</li>
 					<li>starting a maker community in my high school, along with <a class="tag" href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a>: an all ages hackathon</li>
 				</ul>
