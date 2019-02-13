@@ -88,7 +88,7 @@
 				</ul>
 			</div>
 
-			<p class="header">_SOME OF MY PAST PROJECTS_</p>
+			<p class="header">_SOME PAST PROJECTS_</p>
 			<div class="textbody">
 			  	<ul class="sublist">
 			  		<li><a class="tag" href="https://www.dmt.fyi">DMT.FYI</a>: a fun educational web guide for the psychedelic drug DMT</li>
