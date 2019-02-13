@@ -88,45 +88,20 @@
 				</ul>
 			</div>
 
-			<p class="header">_IN THE PAST, I_</p>
+			<p class="header">_SOME OF MY PAST PROJECTS_</p>
 			<div class="textbody">
-				<ul>
-				  <li>made stuff  🛠️
-				  	<ul class="sublist">
-				  		<li><a class="tag" href="https://www.dmt.fyi">DMT.FYI</a>: a fun educational web guide for the psychedelic drug DMT</li>
-				  		<li><a class="tag" href="https://CryptoBets.cc">CryptoBets</a>: a decentralized blockchain betting platform, <a class="tag" href="https://CryptoBowl.co">transacted</a> ~$20k the Super Bowl & ~$15k for the FIFA World Cup Final.</li>
-				  		<li><a class="tag" href="http://GetContra.com">Contra</a>: a youth debate tool featured in Apple's Best New Apps and 20 Under 20 promotions.</li>
-				  		<li><a class="tag" href="https://appadvice.com/app/travelog-travel-info-you-need-fast/577449648">Travelog</a>: a businessman's travel tool, featured in Apple's 20 Under 20 promotion.</li>
-				  		<li>an app for <a class="tag" href="http://ibo.org">IBO's</a> 2012 conf; awarded a Certificate of Appreciation</li>
-					  	<li>coded for <a class="tag" href="http://grab.com">Grab</a>, <a class="tag" href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a>, <a class="tag" href="https://www.singpost.com/">SingPost</a>, and my own freelance clients</li>
-				  		<li>random fun weekend hacks on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub</a></li>
-				  	</ul>
-			  	</li>
-			  	<li>wrote stuff  🖊️
-			  		<ul class="sublist">
-					  	<li>articles for my blog <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>: 100k+ reads, referenced in A16Z's AI Playbook amongst research papers, books & university courses</li>
-					  	<li>a <a class="tag" href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini research paper</a> comparing machine learning optimization methods</li>
-					  	<li>a small <a class="tag" href="https://medium.com/@mckapur/wanna-use-node-js-to-build-stuff-6bec2e11bc6">101 guide</a> for a couple of my friends on building backend stuff</li>
-					  	<li>a short <a class="tag" href="https://medium.com/@mckapur/shipping-travelog-875914b05f8f">reflective piece</a> about my journey building Travelog</li>
-			  		</ul>
-			  	</li>
-			  	<li>did cool things  😎
-					  <ul class="sublist">
-					  	<li>performed my anthem Jesus of Suburbia by Green Day <a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">in front of</a> 400+ people  🎸</li>
-					  	<li><a class="tag" href="https://imgur.com/a/Y58kmWH">lost ~65 lbs</a> on the Keto diet in 2017  🍖</li>
-					  	<li>started a dev community in my high school, including <a class="tag" href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a>: an all ages hackathon</li>
-					  	<li>gave a talk at Geekcamp.SG in 2014 on being a <a class="tag" href="https://www.youtube.com/watch?v=DjBkkGRHaIM">kid app dev</a></li>
-					  	<li>gave another talk at Geekcamp in 2015 on creating <a class="tag" href="https://docs.google.com/presentation/d/1hXe1wemi605l0-27d4KMqOPaQraz_GUpz5svF61DFBo/edit?usp=sharing">virtual self-driving cars</a></li>
-				  	</ul>
-				  </li>
-				  <li>won awards  &nbsp;🏆
-					  <ul class="sublist">
-					  	<li>a scholarship to attend Apple WWDC '13 at 14 y/o for building an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app</a> about myself</li>
-					  	<li>a scholarship to attend Facebook’s F8 2015</li>
-					  	<li>the CS award every year at my high school</li>
-					  	<li>the grand prize at the <a class="tag" href="https://www.hackathon.com/event/newage-hackathon-20-24949401331">NewAge 2.0</a> mental health hackathon</li>
-				  	</ul>
-			  	</li>
+			  	<ul class="sublist">
+			  		<li><a class="tag" href="https://www.dmt.fyi">DMT.FYI</a>: a fun educational web guide for the psychedelic drug DMT</li>
+			  		<li><a class="tag" href="https://CryptoBets.cc">CryptoBets</a>: a decentralized blockchain betting platform, <a class="tag" href="https://CryptoBowl.co">transacted</a> ~$20k the Super Bowl & ~$15k for the FIFA World Cup Final.</li>
+					<li>performing my fav song Jesus of Suburbia by Green Day <a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">in front of</a> 400+ people  🎸</li>
+					<li><a class="tag" href="https://imgur.com/a/Y58kmWH">losing ~65 lbs</a> on the Keto diet in 2017  🍖</li>
+			  		<li><a class="tag" href="http://GetContra.com">Contra</a>: a youth debate tool featured in Apple's Best New Apps and 20 Under 20 promotions.</li>
+			  		<li><a class="tag" href="https://appadvice.com/app/travelog-travel-info-you-need-fast/577449648">Travelog</a>: a businessman's travel tool, featured in Apple's 20 Under 20 promotion.</li>
+			  		<li>an app for <a class="tag" href="http://ibo.org">IBO's</a> 2012 conf; awarded a Certificate of Appreciation</li>
+			  		<li>random fun weekend hacks on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub</a></li>
+					<li>the blog <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>: 100k+ reads, referenced in A16Z's AI Playbook amongst research papers, books & university courses</li>
+					<li>a <a class="tag" href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini research paper</a> comparing machine learning optimization methods</li>
+					<li>starting a maker community in my high school, along with <a class="tag" href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a>: an all ages hackathon</li>
 				</ul>
 			</div>
 		</div>
