@@ -72,6 +72,23 @@
 				</ul>
 			</div>
 
+
+			<p class="header">_MY FAVORITE READINGS_ 📙</p>
+			<div class="textbody" id="reading">
+				<ul>
+					<li>Encountering Naturalism: A Worldview and Its Uses</li>
+					<li>Punk Rock: An Oral History</li>
+					<li>What Is Anarchism? An Introduction</li>
+					<li>Technopoly: The Surrender of Culture to Technology</li>
+					<li>The End of Education</li>
+					<li>Industrial Society and Its Future</li>
+					<li>In Defense of a Liberal Education</li>
+					<li>Sapiens: A Brief History of Humankind</li>
+					<li>Principles: Life and Work</li>
+					<li>Homo Deus: A Brief History of Tomorrow</li>
+				</ul>
+			</div>
+
 			<p class="header">_SOME PAST PROJECTS_</p>
 			<div class="textbody">
 			  	<ul class="sublist">
@@ -86,22 +103,6 @@
 			  		<li>random fun weekend hacks on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub</a></li>
 					<li>a <a class="tag" href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini research paper</a> comparing machine learning optimization methods</li>
 					<li>starting a maker community in my high school, along with <a class="tag" href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a>: an all ages hackathon</li>
-				</ul>
-			</div>
-
-			<p class="header">_MY FAVORITE READINGS_ 📙</p>
-			<div class="textbody" id="reading">
-				<ul class="sublist">
-					<li>Industrial Society and Its Future</li>
-					<li>Encountering Naturalism: A Worldview and Its Uses</li>
-					<li>Punk Rock: An Oral History</li>
-					<li>What Is Anarchism? An Introduction</li>
-					<li>Technopoly: The Surrender of Culture to Technology</li>
-					<li>The End of Education</li>
-					<li>In Defense of a Liberal Education</li>
-					<li>Sapiens: A Brief History of Humankind</li>
-					<li>Principles: Life and Work</li>
-					<li>Homo Deus: A Brief History of Tomorrow</li>
 				</ul>
 			</div>
 		</div>
