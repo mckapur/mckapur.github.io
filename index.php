@@ -19,7 +19,7 @@
 	</head>
 	<body>
 		<div id="container">
-			<img src="propic.png" alt="Me!" width="250px">
+			<img src="propic.png" alt="Me!" width="150px">
 			<br>
 			<br>
 			<div class="textbody">
@@ -39,28 +39,27 @@
 			<p class="header">_ABOUT_</p>
 			<div class="textbody">
 				<p>I was born in Melbourne, did high school in Singapore, and now live in the Bay Area. 🇦🇺🇸🇬🇺🇸</p>
-				<p>Early on, I was infatuated with Green Day (I still am — I've got a Green Day tattoo!) To get my constant <i>American Idiot</i> fix I bought an iPod, initiating me into the Apple cult. One day I stumbled upon Xcode, an app you could use to... create other apps. From then on, I became student by day, iOS dev by night.</p>
-				<p>When I was 14, I won a scholarship to attend Apple's WWDC 2013. It was the most significant week of my life. I joined a global community of teen developers seeking to do great things, from which I have come close to the most ambitious young people I know. I am so grateful to Apple for these opportunities.</p>
-				<p>In high school, I made lots of things — notably software products, music covers, and long articles — most of the time with <a class="tag" href="http://lenny.io">Lenny Khazan</a>. I also took a two-year high school philosophy course. I now reflect upon these experiences as being absolutely pivotal for my current mindset/outlook on life, goals, and direction going forward.</p>
-				<p>In 2016, I was admitted to Stanford University. Since arriving, I've been influenced by a few students, alumni, and faculty who've offered invaluable advice for pursuing my goals, and who've shaped many of my perspectives. During freshman fall, I engaged in 4 months of reading and self-reflection. My aim was to take a step back and figure things out — personal values, long-term goals, narrative identity — from first principles. I may have failed a couple classes, but those were the most value-adding four months of my life.</p>
+				<p>Early on, I was infatuated with Green Day (I still am.) To get my constant <i>American Idiot</i> fix I bought an iPod, initiating me into the Apple cult. One day I stumbled upon Xcode, an app you could use to... create other apps. From then on, I became student by day, iOS dev by night.</p>
+				<p>When I was 14, I won a scholarship to attend Apple's WWDC 2013. It was the most significant week of my life. I joined a global community of teen developers making things, from which I have come close to some awesome people. I am so grateful to Apple for these opportunities.</p>
+				<p>In high school, I made random things — notably software products, music covers, and long articles — a lot of times with <a class="tag" href="http://lenny.io">Lenny Khazan</a>. I also took a two-year philosophy class in school that I think was the best choice I've ever made.</p>
+				<p>In 2016, I was admitted to Stanford University. I've been influenced by a few students, alumni, and faculty who've helped me figure things out. During freshman fall, I focused on just reading and thinking about what I want to do with myself. I may have failed a few classes, but it was so worth it.</p>
 			</div>
 
 			<p class="header">_I LOVE_</p>
 			<div class="textbody">
 				<ul>
-				  <li>making things</li>
-  				  <li>radical individualism</li>
+				  <li>working on projects</li>
 				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">punk</a> music, ideals, culture 🤘</li>
-				  <li>having fun!<br><span class="subtag">whether that's jamming, singing, skateboarding, reading, writing, biking, exploring the bay area, or taking trains.</span></li>
+				  <li>individualism</li>
 				</ul>
 			</div>
 
-			<p class="header">_I WANT TO_</p>
+			<p class="header">_I WANNA_</p>
 			<div class="textbody">
 				<ul>
-				  <li>contribute to problems in society, long-term: reinstating individualism</li>
-				  <li>become a rock star... for real 👨‍🎤</li>
-				  <li>live a life full of projects, experiments, and stories</li>
+				  <li>contribute to real problems, somehow</li>
+				  <li>be a rock star... for real 👨‍🎤</li>
+				  <li>always be workin' on projects</li>
 				</ul>
 			</div>
 
@@ -68,31 +67,31 @@
 			<div class="textbody">
 				<ul>
 				  <li>working on punk house. 🚀</li>
-				  <li>studying liberal arts at Stanford University 🎄<br><span class="subtag">American Studies major: concentration on counterculture</span></li>
+				  <li>studying American Studies at Stanford University 🎄<br></li>
 				  <li>working on my first EP  &nbsp;🎶</li>
 				</ul>
 			</div>
 
-			<p class="header">_READINGS THAT SHAPED ME_ 📙</p>
+			<p class="header">_MY FAVORITE READINGS_ 📙</p>
 			<div class="textbody" id="reading">
 				<ul>
-					<li>Industrial Society and Its Future<br><span class="subtag">catalyst for my critical outlook on modern society & thus life goals</span></li>
-					<li>Encountering Naturalism: A Worldview and Its Uses<br><span class="subtag">catalyst for my moral philosophy; how I view others & myself</span></li>
-					<li>Punk Rock: An Oral History<br><span class="subtag">made me realize the power of ideas (over $$$) for making change</span></li>
-					<li>What Is Anarchism? An Introduction<br><span class="subtag">catalyst for my personal political philosophy</span></li>
-					<li>Technopoly: The Surrender of Culture to Technology<br><span class="subtag">turned me away from a blind faith in technology & gave me a framework to think about it</span></li>
-					<li>The End of Education<br><span class="subtag">developed perspective on issues with the existing education system</span></li>
-					<li>In Defense of a Liberal Education<br><span class="subtag">100% influenced me to study liberal arts</span></li>
-					<li>Sapiens: A Brief History of Humankind<br><span class="subtag">informed me on how humanity has developed thus far</span></li>
-					<li>Principles: Life and Work<br><span class="subtag">offered an invaluable framework for operating & thinking about my life & work</span></li>
-					<li>Homo Deus: A Brief History of Tomorrow<br><span class="subtag">painted a thought-provoking dystopian picture of the future under our "religion of technology"</span></li>
+					<li>Industrial Society and Its Future</li>
+					<li>Encountering Naturalism: A Worldview and Its Uses</li>
+					<li>Punk Rock: An Oral History</li>
+					<li>What Is Anarchism? An Introduction</li>
+					<li>Technopoly: The Surrender of Culture to Technology</li>
+					<li>The End of Education</li>
+					<li>In Defense of a Liberal Education</li>
+					<li>Sapiens: A Brief History of Humankind</li>
+					<li>Principles: Life and Work</li>
+					<li>Homo Deus: A Brief History of Tomorrow></li>
 				</ul>
 			</div>
 
 			<p class="header">_IN THE PAST, I_</p>
 			<div class="textbody">
 				<ul>
-				  <li>built stuff  🛠️
+				  <li>made stuff  🛠️
 				  	<ul class="sublist">
 				  		<li><a class="tag" href="https://www.dmt.fyi">DMT.FYI</a>: a fun educational web guide for the psychedelic drug DMT</li>
 				  		<li><a class="tag" href="https://CryptoBets.cc">CryptoBets</a>: a decentralized blockchain betting platform, <a class="tag" href="https://CryptoBowl.co">transacted</a> ~$20k the Super Bowl & ~$15k for the FIFA World Cup Final.</li>
@@ -103,11 +102,9 @@
 				  		<li>random fun weekend hacks on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub</a></li>
 				  	</ul>
 			  	</li>
-			  	<li>wrote a lot  🖊️
+			  	<li>wrote stuff  🖊️
 			  		<ul class="sublist">
 					  	<li>articles for my blog <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>: 100k+ reads, referenced in A16Z's AI Playbook amongst research papers, books & university courses</li>
-					  	<li>a narrative identity <a class="tag" href="https://mckapur.quip.com/a97YA7st1HU7">document</a> that outlines my personal goals, values, and life direction</li>
-					  	<li>a very comprehensive personal <a class="tag" href="https://medium.com/@mckapur/how-i-got-into-stanford-594f2cf7fa96">primer</a> on Stanford admission, written for young developers</li>
 					  	<li>a <a class="tag" href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini research paper</a> comparing machine learning optimization methods</li>
 					  	<li>a small <a class="tag" href="https://medium.com/@mckapur/wanna-use-node-js-to-build-stuff-6bec2e11bc6">101 guide</a> for a couple of my friends on building backend stuff</li>
 					  	<li>a short <a class="tag" href="https://medium.com/@mckapur/shipping-travelog-875914b05f8f">reflective piece</a> about my journey building Travelog</li>
