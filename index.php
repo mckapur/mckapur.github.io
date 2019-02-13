@@ -93,9 +93,9 @@
 			  	<ul class="sublist">
 			  		<li><a class="tag" href="https://www.dmt.fyi">DMT.FYI</a>: a fun educational web guide for the psychedelic drug DMT</li>
 			  		<li><a class="tag" href="https://CryptoBets.cc">CryptoBets</a>: a decentralized blockchain betting platform, <a class="tag" href="https://CryptoBowl.co">transacted</a> ~$20k the Super Bowl & ~$15k for the FIFA World Cup Final.</li>
-					<li>performing my fav song Jesus of Suburbia by Green Day <a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">in front of</a> 400+ people  🎸</li>
+					<li><a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">performing</a> my fav song Jesus of Suburbia by Green Day to 400+ people  🎸</li>
 					<li><a class="tag" href="https://imgur.com/a/Y58kmWH">losing ~65 lbs</a> on the Keto diet in 2017  🍖</li>
-			  		<li><a class="tag" href="http://GetContra.com">Contra</a>: a youth debate tool featured in Apple's Best New Apps and 20 Under 20 promotions.</li>
+			  		<li><a class="tag" href="http://GetContra.com">Contra</a>: a debate tool featured in Apple's Best New Apps and 20 Under 20 promotions.</li>
 			  		<li><a class="tag" href="https://appadvice.com/app/travelog-travel-info-you-need-fast/577449648">Travelog</a>: a businessman's travel tool, featured in Apple's 20 Under 20 promotion.</li>
 			  		<li>an app for <a class="tag" href="http://ibo.org">IBO's</a> 2012 conf; awarded a Certificate of Appreciation</li>
 			  		<li>random fun weekend hacks on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub</a></li>
