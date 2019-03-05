@@ -48,7 +48,7 @@
 			<p class="header">_I LOVE_</p>
 			<div class="textbody">
 				<ul>
-				  <li>working on projects</li>
+				  <li>working on projects (mostly products, music, and writing)</li>
 				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=B-GPBo_2TfSkEcrPabrw3A">punk</a> music, ideals, culture 🤘</li>
 				  <li>individualism</li>
 				</ul>
