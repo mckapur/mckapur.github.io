@@ -99,8 +99,9 @@
 						<li><a class="tag" href="https://imgur.com/a/Y58kmWH">losing ~65 lbs</a> on the Keto diet in 2017, check out this <a class="tag" href="https://drive.google.com/file/d/1irmzLZIEVzWys8BsB78XZ_-vIP582HJc/view?usp=sharing">guide</a> I wrote on it!  🍖</li>
 						<li>the blog <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>: 100k+ reads, referenced in A16Z's AI Playbook amongst research papers, books & university courses</li>
 			  		<li><a class="tag" href="http://GetContra.com">Contra</a>: a debate tool featured in Apple's Best New Apps and 20 Under 20 promotions (down right now, but back up and rehauled soon).</li>
+						<li>a personal primer on <a href="https://medium.com/@mckapur/how-i-got-into-stanford-594f2cf7fa96">Stanford admissions</a> (I also have a lot of personal primers on creating apps, websites, backends, etc. so reach out to me if this is of interest to you)</li>
 			  		<li>random fun different weekend hacks and passion projs on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub</a></li>
-			  		<li><a class="tag" href="https://appadvice.com/app/travelog-travel-info-you-need-fast/577449648">Travelog</a>: a businessman's travel tool, featured in Apple's 20 Under 20 promotion.</li>
+			  		<li><a class="tag" href="https://appadvice.com/app/travelog-travel-info-you-need-fast/577449648">Travelog</a>: a businessman's travel tool, featured in Apple's 20 Under 20 promotion + wrote a <a href="https://medium.com/@mckapur/shipping-travelog-875914b05f8f">reflective piece</a> on my journey creating it.</li>
 			  		<li>an app for <a class="tag" href="http://ibo.org">IBO's</a> 2012 conf; awarded a Certificate of Appreciation by IBO's Director-General</li>
 			  		<li>an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app about myself</a> that got me a scholarship to Apple's WWDC 2013</li>
 						<li>starting a maker community in my high school, along with <a class="tag" href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a>: an all ages hackathon</li>
