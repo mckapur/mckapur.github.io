@@ -92,7 +92,6 @@
 			<p class="header">_SOME PAST PROJECTS_</p>
 			<div class="textbody">
 			  	<ul>
-			  		<li><a class="tag" href="http://feeds.fyi">Feeds</a>... coming soon</li>
 			  		<li><a class="tag" href="https://www.dmt.fyi">DMT.FYI</a>: a fun educational web guide for the psychedelic drug DMT</li>
 			  		<li><a class="tag" href="https://CryptoBets.cc">CryptoBets</a>: a decentralized blockchain betting platform, <a class="tag" href="https://CryptoBowl.co">transacted</a> ~$20k the Super Bowl & ~$15k for the FIFA World Cup Final.</li>
 						<li><a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">performing</a> my fav song Jesus of Suburbia by Green Day to 400+ people  🎸 (along with numerous Green Day covers!)</li>
