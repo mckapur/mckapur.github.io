@@ -94,7 +94,7 @@
 			  	<ul>
 			  		<li><a class="tag" href="https://www.dmt.fyi">DMT.FYI</a>: a fun educational web guide for the psychedelic drug DMT</li>
 			  		<li><a class="tag" href="https://CryptoBets.cc">CryptoBets</a>: a decentralized blockchain betting platform, <a class="tag" href="https://CryptoBowl.co">transacted</a> ~$20k the Super Bowl & ~$15k for the FIFA World Cup Final.</li>
-						<li><a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">performing</a> my fav song Jesus of Suburbia by Green Day to 400+ people  🎸 (along with numerous Green Day covers!)</li>
+						<li>in high school <a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">performing</a> my fav song Jesus of Suburbia by Green Day to 400+ people  🎸 (along with numerous Green Day covers!)</li>
 						<li><a class="tag" href="https://imgur.com/a/Y58kmWH">losing ~65 lbs</a> on the Keto diet in 2017, check out this <a class="tag" href="https://drive.google.com/file/d/1irmzLZIEVzWys8BsB78XZ_-vIP582HJc/view?usp=sharing">guide</a> I wrote on it!  🍖</li>
 						<li>the blog <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>: 100k+ reads, referenced in A16Z's AI Playbook amongst research papers, books & university courses</li>
 			  		<li><a class="tag" href="http://GetContra.com">Contra</a>: a debate tool featured in Apple's Best New Apps and 20 Under 20 promotions (down right now, but back up and rehauled soon).</li>
