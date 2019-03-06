@@ -104,7 +104,7 @@
 			  		<li>an app for <a class="tag" href="http://ibo.org">IBO's</a> 2012 conf; awarded a Certificate of Appreciation by IBO's Director-General</li>
 			  		<li>an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app about myself</a> that got me a scholarship to Apple's WWDC 2013</li>
 						<li>starting a maker community in my high school, along with <a class="tag" href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a>: an all ages hackathon</li>
-			  		<li>a digital postcard service for <a href="https://www.singpost.com">SingPost</a>, driver safety features for <a href="http://grab.com">Grab</a>, and features for <a href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a></li>
+			  		<li>a digital postcard service for <a href="https://www.singpost.com">SingPost</a>, driver safety features for <a href="http://grab.com">Grab</a>, and content editing tools for <a href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a></li>
 			  		<li>two talks at the <a href="http://geekcamp.sg">Geekcamp.SG</a> conference, <a href="https://www.youtube.com/watch?v=DjBkkGRHaIM">such as...</a></li>
 						<li>a <a class="tag" href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">mini research paper</a> comparing machine learning optimization methods</li>
 				</ul>
