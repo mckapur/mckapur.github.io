@@ -44,7 +44,7 @@
 			<div class="textbody">
 				<p>I was born in Melbourne, did high school in Singapore, and now live in the Bay Area. 🇦🇺🇸🇬🇺🇸</p>
 				<p>Early on, I was infatuated with Green Day (I still am.) To get my constant <i>American Idiot</i> fix I bought an iPod, initiating me into the Apple cult. One day I stumbled upon Xcode, an app you could use to... create other apps. From then on, I became student by day, iOS dev by night.</p>
-				<p>When I was 14, I won a scholarship to attend Apple's WWDC 2013. It was the most significant week of my life. I joined a global community of teen developers making things, from which I have come close to some awesome people. I am so grateful to Apple for these opportunities.</p>
+				<p>When I was 14, I won a scholarship to attend Apple's WWDC 2013. It was the most significant week of my life. I joined a global community of teen developers making things, from which I have come close to some of the most awesome people I know. I am so grateful to Apple for these opportunities.</p>
 				<p>In high school, I made random things — notably software products, music covers, and long articles — a lot of times with <a class="tag" href="http://lenny.io">Lenny Khazan</a>. I also took a two-year philosophy class in school that I think was the best choice I've ever made.</p>
 				<p>In 2016, I was admitted to Stanford University. I've been influenced by a few students, alumni, and faculty who've helped me figure things out. During freshman fall, I focused on just reading and thinking about what I want to do with myself. I may have failed a few classes, but it was so worth it.</p>
 			</div>
