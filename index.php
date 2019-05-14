@@ -52,7 +52,7 @@
 			<p class="header">_I LOVE_</p>
 			<div class="textbody">
 				<ul>
-				  <li>working on projects (mostly products, music, and writing)</li>
+				  <li>working on projects & making things (mostly products, music, writing)</li>
 				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=LYSKpIf_RTyY4SGLIFrMfg">punk</a> music, ideals, culture 🤘</li>
 				  <li>individualism</li>
 				</ul>
@@ -61,7 +61,7 @@
 			<p class="header">_I WANNA_</p>
 			<div class="textbody">
 				<ul>
-				  <li>contribute to real problems, somehow</li>
+				  <li>contribute to problems I care about</li>
 				  <li>be a rock star... for real 👨‍🎤</li>
 				  <li>always be workin' on projects, and only work for myself</li>
 				</ul>
@@ -70,7 +70,7 @@
 			<p class="header">_RIGHT NOW, I'M_</p>
 			<div class="textbody">
 				<ul>
-				  <li>working on punk house. 🚀</li>
+				  <li>working on punk house. 🚀 *more info soon*</li>
 				  <li>studying American Studies at Stanford University 🎄<br></li>
 				  <li>working on my first EP  &nbsp;🎶</li>
 				</ul>
@@ -93,17 +93,18 @@
 				</ul>
 			</div>
 
-			<p class="header">_SOME PAST PROJECTS_</p>
+			<p class="header">_SOME PAST/CURR PROJECTS_</p>
 			<div class="textbody">
 			  	<ul>
+			  		<li><a class="tag" href="https://beta.winno.app">Winno</a>: 21st Century News, built with <a class="tag" href="https://nickrub.in">Nick</a></li>
 			  		<li><a class="tag" href="https://www.dmt.fyi">DMT.FYI</a>: a fun educational web guide for the psychedelic drug DMT</li>
-			  		<li><a class="tag" href="https://CryptoBets.cc">CryptoBets</a>: a decentralized blockchain betting platform, <a class="tag" href="https://CryptoBowl.co">transacted</a> ~$20k the Super Bowl & ~$15k for the FIFA World Cup Final.</li>
+			  		<li><a class="tag" href="https://CryptoBets.cc">CryptoBets</a>: a decentralized blockchain betting platform, <a class="tag" href="https://CryptoBowl.co">transacted</a> ~$20k the Super Bowl & ~$15k for the FIFA World Cup Final.</li> <a class="tag" href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum">1</a> <a class="tag" href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum">2</a>
+						<li>the blog <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>: 100k+ reads, referenced in A16Z's AI Playbook amongst research papers, books & university courses (like Stanford!)</li>
 						<li>in high school <a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">performing</a> my fav song Jesus of Suburbia by Green Day to 400+ people  🎸 (along with numerous Green Day covers!)</li>
 						<li><a class="tag" href="https://imgur.com/a/Y58kmWH">losing ~65 lbs</a> on the Keto diet in 2017, check out this <a class="tag" href="https://drive.google.com/file/d/1irmzLZIEVzWys8BsB78XZ_-vIP582HJc/view?usp=sharing">guide</a> I wrote on it!  🍖</li>
-						<li>the blog <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>: 100k+ reads, referenced in A16Z's AI Playbook amongst research papers, books & university courses</li>
-			  		<li><a class="tag" href="http://GetContra.com">Contra</a>: a debate tool featured in Apple's Best New Apps and 20 Under 20 promotions (down right now, but back up and rehauled soon).</li>
-						<li>a personal primer on <a href="https://medium.com/@mckapur/how-i-got-into-stanford-594f2cf7fa96">Stanford admissions</a> (I also have a lot of personal primers on creating apps, websites, backends, etc. so reach out to me if this is of interest to you)</li>
+			  		<li><a class="tag" href="https://itunes.apple.com/us/app/contra-vote-debate-learn/id965626204?mt=8">Contra (v3 coming soon)</a>: a debate tool featured in Apple's Best New Apps and 20 Under 20 promotions</li>
 			  		<li>random fun different weekend hacks and passion projs on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub</a></li>
+						<li>a personal primer on <a href="https://medium.com/@mckapur/how-i-got-into-stanford-594f2cf7fa96">Stanford admissions</a> (I also have a lot of personal primers on creating apps, websites, backends, etc. so reach out to me if this is of interest to you)</li>
 			  		<li><a class="tag" href="https://appadvice.com/app/travelog-travel-info-you-need-fast/577449648">Travelog (no longer live)</a>: a businessman's travel tool, featured in Apple's 20 Under 20 promotion + wrote a <a href="https://medium.com/@mckapur/shipping-travelog-875914b05f8f">reflective piece</a> on my journey creating it.</li>
 			  		<li>an app for <a class="tag" href="http://ibo.org">IBO's</a> 2012 conf; awarded a Certificate of Appreciation by IBO's Director-General</li>
 			  		<li>an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app about myself</a> that got me a scholarship to Apple's WWDC 2013</li>
