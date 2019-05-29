@@ -71,8 +71,8 @@
 			<div class="textbody">
 				<ul>
 				  <li>working on punk house. 🚀 *more info soon*</li>
+                  <li>working on my first EP  &nbsp;🎶 <a href="https://www.instagram.com/fullvolumeonly/">*stay tuned*</a></li>
 				  <li>studying American Studies at Stanford University 🎄<br></li>
-				  <li>working on my first EP  &nbsp;🎶</li>
 				</ul>
 			</div>
 
