@@ -96,7 +96,7 @@
 			<p class="header">_SOME PAST/CURR PROJECTS_</p>
 			<div class="textbody">
 			  	<ul>
-			  		<li><a class="tag" href="https://beta.winno.app">Winno</a>: 21st Century News, built with <a class="tag" href="https://nickrub.in">Nick</a></li>
+			  		<li><a class="tag" href="https://winno.app">Winno</a>: 21st Century News, built with <a class="tag" href="https://nickrub.in">Nick</a></li>
 			  		<li><a class="tag" href="https://www.dmt.fyi">DMT.FYI</a>: a fun educational web guide for the psychedelic drug DMT</li>
 			  		<li><a class="tag" href="https://CryptoBets.cc">CryptoBets</a>: a decentralized blockchain betting platform, <a class="tag" href="https://CryptoBowl.co">transacted</a> ~$20k the Super Bowl & ~$15k for the FIFA World Cup Final. <a class="tag" href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum">1</a> <a class="tag" href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum">2</a></li>
 						<li>the blog <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a>: 250k+ reads, referenced in A16Z's AI Playbook amongst research papers, books & university courses (like Stanford!)</li>
