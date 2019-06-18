@@ -72,7 +72,7 @@
 				<ul>
 				  <li>🚀 punk house inc.</li>
           <li>🎶 <a href="https://www.instagram.com/fullvolumeonly/">Full Volume Only</a></li>
-				  <li>@ Stanford University 🎄<br></li>
+				  <li>🎄 Stanford University<br></li>
 				</ul>
 			</div>
 
