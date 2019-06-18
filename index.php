@@ -19,7 +19,7 @@
 	</head>
 	<body>
 		<div id="container">
-			<img src="propic.png" alt="Me!" width="200px">
+			<img src="propic.png" alt="That's me" width="200px">
 			<br>
 			<br>
 			<div class="textbody">
