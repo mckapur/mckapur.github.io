@@ -70,7 +70,7 @@
 			<p class="header">_RIGHT NOW...</p>
 			<div class="textbody">
 				<ul>
-				  <li>🚀 punk house inc.</li>
+				  <li>🚀 Punk House Inc.</li>
           <li>🎶 <a href="https://www.instagram.com/fullvolumeonly/">Full Volume Only</a></li>
 				  <li>🎄 Stanford University<br></li>
 				</ul>
