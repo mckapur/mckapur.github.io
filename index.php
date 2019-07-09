@@ -71,7 +71,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>🚀 <a href="https://www.punkhouse.co">Punk House.</a></li>
-          <li>🎶 <a href="https://www.instagram.com/fullvolumeonly/">Full Volume Only</a></li>
+          <li>🎶 <a href="https://open.spotify.com/artist/7z8S1uCUgYBYX2lTWx9udV?si=n4JVqhxEQDuVgR1jw4MUbQ">Full Volume Only</a></li>
 				  <li>🎄 Stanford University<br></li>
 				</ul>
 			</div>
