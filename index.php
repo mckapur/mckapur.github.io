@@ -42,7 +42,7 @@
 
 			<p class="header">_ABOUT_</p>
 			<div class="textbody">
-				<p>I was born in Melbourne, did high school in Singapore, and now live in the Bay Area. 🇦🇺🇸🇬🇺🇸</p>
+				<p>I was born in Melbourne, did high school in Singapore, and am at Stanford University. 🇦🇺🇸🇬🇺🇸</p>
 				<p>Early on, I was infatuated with Green Day (I still am.) To get my constant <i>American Idiot</i> fix I got an iPod, initiating me into the Apple cult. One day I stumbled upon Xcode, an app you could use to... create other apps. From then on, I became student by day, iOS dev by night.</p>
 				<p>When I was 14, I won a scholarship to attend Apple's WWDC 2013. It was the most significant week of my life. I joined a global community of teen developers making things, from which I have come close to some of the most awesome people I know. I am so grateful to Apple for these opportunities.</p>
 				<p>In high school, I made random things — notably software products, music covers, and long articles — a lot of times with <a class="tag" href="http://lenny.io">Lenny Khazan</a>. I also took a two-year philosophy class in school that I think was the best choice I've ever made.</p>
