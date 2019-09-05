@@ -52,9 +52,9 @@
 			<p class="header">_I LOVE_</p>
 			<div class="textbody">
 				<ul>
-                  <li>making things</li>
+          <li>making things</li>
 				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=LYSKpIf_RTyY4SGLIFrMfg">punk</a> music, ideals, culture 🤘</li>
-                  <li>writing</li>
+          <li>writing!</li>
 				</ul>
 			</div>
 
@@ -62,7 +62,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>always be creating good things</li>
-                  <li>contribute to problems I care about</li>
+          <li>contribute to problems I care about</li>
 				  <li>only work for myself, <a href="https://open.spotify.com/track/32rUsiLCvd1yZWr4UFUoiu?si=LlsHsXqpTgmxqi6VflVISw">stay free</a></li>
 				</ul>
 			</div>
@@ -95,8 +95,8 @@
 			<p class="header">_CURRENT & PAST PROJECTS_</p>
 			<div class="textbody">
 			  	<ul>
-            <li><a href="https://www.punkhouse.co">Punk House.</a>, a creator collective, coming soon</li>
-            <li><a href="http://www.fullvolumeonly.com">Full Volume Only</a>, DIY guitar music :)</li>
+            <li><a href="https://www.punkhouse.co">Punk House.</a>: a creator collective, coming soon</li>
+            <li><a href="http://www.fullvolumeonly.com">Full Volume Only</a>: DIY guitar music :)</li>
 			  		<li><a class="tag" href="https://winno.app">Winno</a>: 21st Century News, built with <a class="tag" href="https://nickrub.in">Nick</a></li>
 			  		<li><a class="tag" href="https://www.dmt.fyi">DMT.FYI</a>: a fun educational web guide for the psychedelic DMT</li>
 						<li>the AI publication <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a> (2016-2017): over 250k reads, referenced in A16Z's AI Playbook amongst research papers, books & university courses, including Stanford</li>
