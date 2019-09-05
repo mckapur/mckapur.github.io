@@ -45,7 +45,7 @@
 				<p>I was born in Melbourne, did high school in Singapore, and am now at Stanford University. 🇦🇺🇸🇬🇺🇸</p>
 				<p>Early on, I was infatuated with Green Day (I still am.) To get my constant <i>American Idiot</i> fix I got an iPod, initiating me into the Apple cult. One day I stumbled upon Xcode, an app you could use to... create other apps. From then on, I became student by day, iOS dev by night.</p>
 				<p>When I was 14, I won a scholarship to attend Apple's WWDC 2013. It was the most significant week of my life. I joined a global community of teen developers making things, from which I have come close to some of the most awesome people I know. I am so grateful to Apple for these opportunities.</p>
-				<p>In high school, I made random things — notably software products, music, and long articles — a lot of times with <a class="tag" href="http://lenny.io">Lenny Khazan</a>. I also took a two-year philosophy class in school that I think was the best choice I've ever made.</p>
+				<p>In high school, I made random things — notably software products, music covers, and long articles — a lot of times with <a class="tag" href="http://lenny.io">Lenny Khazan</a> and other friends. I also took a two-year philosophy class in school that I think was the best choice I've ever made.</p>
 				<p>In 2017, I started school at Stanford. Since then I've been influenced by a few students, alumni, and faculty who've helped me figure things out. During freshman fall, I focused on just reading, writing, and reflecting on what I want to do with my life. I may have failed a few classes, but it was so, so worth it.</p>
 			</div>
 
@@ -95,6 +95,8 @@
 			<p class="header">_CURRENT & PAST PROJECTS_</p>
 			<div class="textbody">
 			  	<ul>
+                    <li><a href="https://www.punkhouse.co">Punk House.</a>, a creator collective, coming soon</li>
+                    <li><a href="https://open.spotify.com/artist/7z8S1uCUgYBYX2lTWx9udV?si=n4JVqhxEQDuVgR1jw4MUbQ">Full Volume Only</a>, DIY guitar music :)</li>
 			  		<li><a class="tag" href="https://winno.app">Winno</a>: 21st Century News, built with <a class="tag" href="https://nickrub.in">Nick</a></li>
 			  		<li><a class="tag" href="https://www.dmt.fyi">DMT.FYI</a>: a fun educational web guide for the psychedelic DMT</li>
 						<li>the AI publication <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a> (2016-2017): over 250k reads, referenced in A16Z's AI Playbook amongst research papers, books & university courses, including Stanford</li>
