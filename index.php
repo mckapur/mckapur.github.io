@@ -71,7 +71,7 @@
 			<div class="textbody">
 				<ul>
 				  <li>🚀 <a href="https://www.punkhouse.co">Punk House.</a></li>
-          <li>🎶 <a href="https://open.spotify.com/artist/7z8S1uCUgYBYX2lTWx9udV?si=n4JVqhxEQDuVgR1jw4MUbQ">Full Volume Only</a></li>
+          <li>🎶 <a href="https://www.fullvolumeonly.com">Full Volume Only</a></li>
 				  <li>🎄 Stanford University (American Studies)<br></li>
 				</ul>
 			</div>
@@ -96,7 +96,7 @@
 			<div class="textbody">
 			  	<ul>
                     <li><a href="https://www.punkhouse.co">Punk House.</a>, a creator collective, coming soon</li>
-                    <li><a href="https://open.spotify.com/artist/7z8S1uCUgYBYX2lTWx9udV?si=n4JVqhxEQDuVgR1jw4MUbQ">Full Volume Only</a>, DIY guitar music :)</li>
+                    <li><a href="https://www.fullvolumeonly.com">Full Volume Only</a>, DIY guitar music :)</li>
 			  		<li><a class="tag" href="https://winno.app">Winno</a>: 21st Century News, built with <a class="tag" href="https://nickrub.in">Nick</a></li>
 			  		<li><a class="tag" href="https://www.dmt.fyi">DMT.FYI</a>: a fun educational web guide for the psychedelic DMT</li>
 						<li>the AI publication <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a> (2016-2017): over 250k reads, referenced in A16Z's AI Playbook amongst research papers, books & university courses, including Stanford</li>
