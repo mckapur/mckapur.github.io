@@ -61,8 +61,8 @@
 			<p class="header">_I WANNA_</p>
 			<div class="textbody">
 				<ul>
-				  <li>contribute to problems I care about</li>
-				  <li>always be making new things</li>
+				  <li>always be making good things</li>
+                  <li>contribute to problems I care about</li>
 				  <li>only work for myself, <a href="https://open.spotify.com/track/32rUsiLCvd1yZWr4UFUoiu?si=LlsHsXqpTgmxqi6VflVISw">stay free</a></li>
 				</ul>
 			</div>
