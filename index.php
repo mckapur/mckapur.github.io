@@ -28,8 +28,6 @@
 					<br>
 					<a href="https://www.instagram.com/mckapur/" style="color: #c13584" target="_blank">Instagram</a>
 					<br>
-					<a href="https://soundcloud.com/rohan-kapur-1" style="color: #ff7700" target="_blank">SoundCloud</a>
-					<br>
 					<a href="https://open.spotify.com/user/1178095932?si=mqPft6i2SnS62ggHg2MN0A" style="color: #1BB955" target="_blank">Spotify</a>
 					<br>
 					<a href="https://stackoverflow.com/users/1260708/mckapur" style="color: #f48024" target="_blank">StackOverflow</a>
