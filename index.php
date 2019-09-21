@@ -93,6 +93,7 @@
 			<p class="header">_CURRENT & PAST PROJECTS_</p>
 			<div class="textbody">
 			  	<ul>
+            <li><a href="https://en.wikipedia.org/wiki/E-2_visa">E-2 Visa</a>: 400 pages of visa application later... and I acquired my E-2 allowing me to operate my own organization in the US! :) Message me if you have any questions about E-2 / other US entrepreneur visas.</li>
             <li><a href="https://www.punkhouse.co">Punk House.</a>: a creator collective, coming soon</li>
             <li><a href="http://www.fullvolumeonly.com">Full Volume Only</a>: DIY guitar music :)</li>
 			  		<li><a class="tag" href="https://winno.app">Winno</a>: 21st Century News, built with <a class="tag" href="https://nickrub.in">Nick</a></li>
