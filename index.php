@@ -19,7 +19,7 @@
 	</head>
 	<body>
 		<div id="container">
-			<img src="propic" alt="That's me" width="200px">
+			<img src="propic.jpg" alt="That's me" width="200px">
 			<br>
 			<br>
 			<div class="textbody">
@@ -65,31 +65,6 @@
 				</ul>
 			</div>
 
-			<p class="header">_RIGHT NOW...</p>
-			<div class="textbody">
-				<ul>
-				  <li>🚀 <a href="https://www.punkhouse.co">Punk House.</a></li>
-          <li>🎶 <a href="http://www.fullvolumeonly.com">Full Volume Only</a></li>
-				  <li>🎄 Stanford University<br></li>
-				</ul>
-			</div>
-
-			<p class="header">_MY FAVORITE READINGS_ 📙</p>
-			<div class="textbody" id="reading">
-				<ul>
-					<li>Technopoly: The Surrender of Culture to Technology</li>
-					<li>Punk Rock: An Oral History</li>
-					<li>What Is Anarchism? An Introduction</li>
-					<li>The End of Education</li>
-					<li>Encountering Naturalism: A Worldview and Its Uses</li>
-					<li>Industrial Society and Its Future</li>
-					<li>In Defense of a Liberal Education</li>
-					<li>Sapiens: A Brief History of Humankind</li>
-					<li>Principles: Life and Work</li>
-					<li>Homo Deus: A Brief History of Tomorrow</li>
-				</ul>
-			</div>
-
 			<p class="header">_THINGS I'VE MADE_</p>
 			<div class="textbody">
 			  	<ul>
@@ -114,6 +89,22 @@
 			  		<li>a digital postcard service for <a href="https://www.singpost.com">SingPost</a>, driver safety features for <a href="http://grab.com">Grab</a>, and content editing tools for <a href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a></li>
 			  		<li>two talks at the <a href="http://geekcamp.sg">Geekcamp.SG</a> conference (<a href="https://www.youtube.com/watch?v=DjBkkGRHaIM">one</a> on iOS dev, one on virtual autonomous cars)</li>
 						<li>a <a class="tag" href="https://drive.google.com/file/d/1tW-JEzDV8of-jOetmlowgAO_eHDFBYGQ/view?usp=sharing">research paper</a> comparing machine learning optimization methods</li>
+				</ul>
+			</div>
+
+			<p class="header">_MY FAVORITE READINGS_ 📙</p>
+			<div class="textbody" id="reading">
+				<ul>
+					<li>Technopoly: The Surrender of Culture to Technology</li>
+					<li>Punk Rock: An Oral History</li>
+					<li>What Is Anarchism? An Introduction</li>
+					<li>The End of Education</li>
+					<li>Encountering Naturalism: A Worldview and Its Uses</li>
+					<li>Industrial Society and Its Future</li>
+					<li>In Defense of a Liberal Education</li>
+					<li>Sapiens: A Brief History of Humankind</li>
+					<li>Principles: Life and Work</li>
+					<li>Homo Deus: A Brief History of Tomorrow</li>
 				</ul>
 			</div>
 		</div>
