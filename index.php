@@ -90,7 +90,7 @@
 				</ul>
 			</div>
 
-			<p class="header">_THINGS I'VE DONE_</p>
+			<p class="header">_THINGS I'VE MADE_</p>
 			<div class="textbody">
 			  	<ul>
             <li><a href="https://stanfordguide.org/the-ultimate-guide-to-the-e-2-visa-for-international-student-founders-6725a5480d4e">The Ultimate Guide To The E-2 Visa For International Student Founders</a></li>
