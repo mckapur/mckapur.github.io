@@ -77,11 +77,11 @@
 			<p class="header">_MY FAVORITE READINGS_ 📙</p>
 			<div class="textbody" id="reading">
 				<ul>
-					<li>Encountering Naturalism: A Worldview and Its Uses</li>
+					<li>Technopoly: The Surrender of Culture to Technology</li>
 					<li>Punk Rock: An Oral History</li>
 					<li>What Is Anarchism? An Introduction</li>
-					<li>Technopoly: The Surrender of Culture to Technology</li>
 					<li>The End of Education</li>
+					<li>Encountering Naturalism: A Worldview and Its Uses</li>
 					<li>Industrial Society and Its Future</li>
 					<li>In Defense of a Liberal Education</li>
 					<li>Sapiens: A Brief History of Humankind</li>
