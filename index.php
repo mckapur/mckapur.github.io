@@ -70,7 +70,7 @@
 				<ul>
 				  <li>🚀 <a href="https://www.punkhouse.co">Punk House.</a></li>
           <li>🎶 <a href="http://www.fullvolumeonly.com">Full Volume Only</a></li>
-				  <li>🎄 Stanford University (American Studies)<br></li>
+				  <li>🎄 Stanford University<br></li>
 				</ul>
 			</div>
 
