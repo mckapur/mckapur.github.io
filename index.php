@@ -97,6 +97,7 @@
 				<ul>
 					<li>Technopoly: The Surrender of Culture to Technology</li>
 					<li>Punk Rock: An Oral History</li>
+					<li>The Wind-Up Bird Chronicle</li>
 					<li>What Is Anarchism? An Introduction</li>
 					<li>The End of Education</li>
 					<li>Encountering Naturalism: A Worldview and Its Uses</li>
