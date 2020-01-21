@@ -51,7 +51,7 @@
 			<div class="textbody">
 				<ul>
           <li>making things</li>
-				  <li><a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=LYSKpIf_RTyY4SGLIFrMfg">punk</a> music, ideals, culture 🤘</li>
+				  <li>playing music! <a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=LYSKpIf_RTyY4SGLIFrMfg">punk</a> especially :)</li>
           <li>writing! fiction, articles, guides...</li>
 				</ul>
 			</div>
