@@ -50,9 +50,9 @@
 			<p class="header">_I LOVE_</p>
 			<div class="textbody">
 				<ul>
-          <li>making things</li>
-				  <li>playing music! <a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=LYSKpIf_RTyY4SGLIFrMfg">punk</a> especially :)</li>
-          <li>writing: fiction, articles, guides...</li>
+          <li>making, building, creating things</li>
+				  <li>playing music. guitars + vocals. <a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=LYSKpIf_RTyY4SGLIFrMfg">punk</a> especially :)</li>
+          <li>writing: fiction, articles, guides, w/e!</li>
 				</ul>
 			</div>
 
