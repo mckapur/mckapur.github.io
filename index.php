@@ -61,7 +61,7 @@
 				<ul>
 				  <li>always be creating good things, always be jamming</li>
           <li>contribute to + learn about problems I care about</li>
-				  <li>work for myself & <a href="https://open.spotify.com/track/32rUsiLCvd1yZWr4UFUoiu?si=LlsHsXqpTgmxqi6VflVISw">stay free. mischief4eva</a></li>
+				  <li>work for myself & <a href="https://open.spotify.com/track/32rUsiLCvd1yZWr4UFUoiu?si=LlsHsXqpTgmxqi6VflVISw">stay free</a></li>
 				</ul>
 			</div>
 
