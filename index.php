@@ -22,6 +22,7 @@
 			<img src="propic.jpeg" alt="That's me" width="260px">
 			<br>
 			<br>
+			<p class="header">_GET IN TOUCH (FOR WORK OR TO TALK)_</p>
 			<div class="textbody">
 				<p>
 					<a href="https://www.instagram.com/mckapur/" style="color: #c13584" target="_blank">Instagram</a>
@@ -43,14 +44,14 @@
 				<p>I was born in Melbourne, did high school in Singapore, and am now on leave from Stanford University.<br>🌲🇦🇺🇸🇬🇺🇸</p>
 				<p>Early on, I was infatuated with Green Day. To get my constant <i>American Idiot</i> fix I got an iPod, initiating me into the Apple cult. One day I stumbled upon Xcode, an app you could use to... create other apps. From then on, I became student by day, iOS dev by night.</p>
 				<p>When I was 14, I won a scholarship to attend Apple's WWDC 2013. It was the most significant week of my life. I joined a global community of teen developers making things, from which I have come close to some of the most awesome people I know. I am so grateful to Apple for these opportunities.</p>
-				<p>In high school, I made random things — notably software products, music covers, and long articles — a lot of times with <a class="tag" href="http://lenny.io">Lenny Khazan</a> and other friends. I also took a two-year philosophy class in school that I think was the best choice I've ever made.</p>
+				<p>In high school, I worked on things — mostly software products, music covers, and long articles — a lot of times with <a class="tag" href="http://lenny.io">Lenny Khazan</a> and other friends. I also took a two-year philosophy class in school that I think was the best choice I've ever made.</p>
 				<p>In 2017, I started school at Stanford. Since then I've been influenced by a few students, alumni, and faculty who've helped me figure things out. During freshman fall, I focused on just reading, writing, and reflecting on what I want to do with my life. I may have failed a few classes, but it was so, so worth it.</p>
 			</div>
 
 			<p class="header">_I LOVE_</p>
 			<div class="textbody">
 				<ul>
-          <li>making, building, creating products: ideas, code & design!</li>
+          <li>making, designing, building, & creating products</li>
 				  <li>music: playing shows & making songs. vocals & guitars. sound engineering. <a class="tag" href="https://open.spotify.com/user/1178095932/playlist/3TQiiVqXiXh9MbgVxN8vxw?si=LYSKpIf_RTyY4SGLIFrMfg">punk</a> especially :)</li>
           <li>writing: fiction, articles, guides, essays, w/e!</li>
 				</ul>
@@ -59,9 +60,9 @@
 			<p class="header">_I WANNA_</p>
 			<div class="textbody">
 				<ul>
-				  <li>always be creating, always be performing</li>
-          <li>contribute to + learn about problems I care about</li>
-				  <li>work for myself & <a href="https://open.spotify.com/track/32rUsiLCvd1yZWr4UFUoiu?si=LlsHsXqpTgmxqi6VflVISw">stay free</a>. mischief forever :)</li>
+				  <li>always be creating stuff & playing shows :)</li>
+				  <li>work for myself & <a href="https://open.spotify.com/track/32rUsiLCvd1yZWr4UFUoiu?si=LlsHsXqpTgmxqi6VflVISw">stay free</a> forever!</li>
+					<li>contribute to + learn about things I care about</li>
 				</ul>
 			</div>
 
