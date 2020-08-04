@@ -22,7 +22,7 @@
 			<img src="propic.jpeg" alt="That's me" width="260px">
 			<br>
 			<br>
-			<p class="header">want to hire me? get in touch:</p>
+			<p class="header">wanna hire me? get in touch:</p>
 			<div class="textbody">
 				<p>
 					<a href="https://www.instagram.com/mckapur/" style="color: #c13584" target="_blank">Instagram</a>
