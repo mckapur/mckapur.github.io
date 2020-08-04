@@ -19,7 +19,7 @@
 	</head>
 	<body>
 		<div id="container">
-			<img src="propic.jpeg" alt="That's me" width="260px">
+			<img src="propic.jpeg" alt="That's me" width="220px">
 			<br>
 			<br>
 			<p class="header">wanna hire me? get in touch:</p>
