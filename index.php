@@ -39,7 +39,7 @@
 				</p>
 			</div>
 
-			<p class="header">_CREATING @ <a class="tag" href="https://www.punkhouse.co">PUNKHOUSE.CO</a>_</p>
+			<!-- <p class="header">_CREATING @ <a class="tag" href="https://www.punkhouse.co">PUNKHOUSE.CO</a>_</p> -->
 
 			<p class="header">_ABOUT_</p>
 			<div class="textbody">
