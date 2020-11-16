@@ -22,7 +22,6 @@
 			<img src="propic.jpeg" alt="That's me" height="295px">
 			<br>
 			<div class="textbody">
-				<p class="header">🇦🇺🇸🇬🇮🇳🇺🇸</p>
 				<p class="header">_currently @ <a class="tag" href="https://www.punkhouse.co">punkhouse.co</a> // on leave from Stanford_</p>
 
 				<p>
@@ -38,6 +37,8 @@
 					<br>
 					<a href="mailto:me@rohankapur.com" style="color: black" target="_blank">Email</a>
 				</p>
+
+				<p class="header">🇦🇺🇸🇬🇮🇳🇺🇸</p>
 			</div>
 			<br>
 			<img src="bg.jpeg" alt="That's me" height="215px">
