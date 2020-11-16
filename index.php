@@ -22,9 +22,8 @@
 			<img src="propic.jpeg" alt="That's me" height="295px">
 			<br>
 			<div class="textbody">
-				🇦🇺🇸🇬🇮🇳🇺🇸
-				<br>
-				<p class="header">_CREATING @ <a class="tag" href="https://www.punkhouse.co">PUNKHOUSE.CO</a> // on leave from Stanford_</p>
+				<p class="header">🇦🇺🇸🇬🇮🇳🇺🇸</p>
+				<p class="header">_currently @ <a class="tag" href="https://www.punkhouse.co">punkhouse.co</a> // on leave from Stanford_</p>
 
 				<p>
 					<a href="https://www.instagram.com/mckapur/" style="color: #c13584" target="_blank">Instagram</a>
