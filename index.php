@@ -22,7 +22,7 @@
 			<img src="propic.jpeg" alt="That's me" height="295px">
 			<br>
 			<div class="textbody">
-				<p class="header">_CREATING @ <a class="tag" href="https://www.punkhouse.co">PUNKHOUSE.CO</a> // on leave from Stanford Univ_</p>
+				<p class="header">_CREATING @ <a class="tag" href="https://www.punkhouse.co">PUNKHOUSE.CO</a> // on leave from Stanford_</p>
 
 				<p>
 					<a href="https://www.instagram.com/mckapur/" style="color: #c13584" target="_blank">Instagram</a>
@@ -56,12 +56,11 @@
 						<li>a <a class="tag" href="https://drive.google.com/file/d/1irmzLZIEVzWys8BsB78XZ_-vIP582HJc/view?usp=sharing">Keto guide</a> after losing ~65 lbs on the diet in 2017  🍖</li>
 						<li>in high school <a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">performing</a> my fav song Jesus of Suburbia by Green Day to 400+ people  🎸</li>
 			  		<li>open source stuff and weekend hacks on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub</a></li>
-						<li>a personal primer on <a href="https://medium.com/@mckapur/how-i-got-into-stanford-594f2cf7fa96">Stanford admissions</a> (I also have a lot of personal primers on creating apps, websites, backends, etc. so reach out to me if this is of interest to you)</li>
-						<li>spent my first year at Stanford reading and thinking about life + purpose, which culminated to this <a href="https://mckapur.quip.com/a97YA7st1HU7/Narrative-Identity">"Narrative Identity"</a> essay</li>
 			  		<li><a class="tag" href="https://appadvice.com/app/travelog-travel-info-you-need-fast/577449648">Travelog</a>: a businessman's travel tool (no longer live), featured in Apple's 20 Under 20 promotion + wrote a <a href="https://medium.com/@mckapur/shipping-travelog-875914b05f8f">reflective piece</a> on my journey creating it.</li>
 			  		<li>an app for <a class="tag" href="http://ibo.org">IBO's</a> 2012 conf; awarded a Certificate of Appreciation by IBO's Director-General</li>
 			  		<li>an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app about myself</a> that got me a scholarship to Apple's WWDC 2013</li>
 						<li>Hack Club: a maker community in my high school</li>
+						<li>a personal primer on <a href="https://medium.com/@mckapur/how-i-got-into-stanford-594f2cf7fa96">Stanford admissions</a> (I also have a lot of personal primers on creating apps, websites, backends, etc. so reach out to me if this is of interest to you)</li>
 						<li><a class="tag" href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a>: an all ages hackathon in Singapore</li>
 			  		<li>a digital postcard service for <a href="https://www.singpost.com">SingPost</a>, driver safety features for <a href="http://grab.com">Grab</a>, and content editing tools for <a href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a></li>
 			  		<li>two talks at the <a href="http://geekcamp.sg">Geekcamp.SG</a> conference (<a href="https://www.youtube.com/watch?v=DjBkkGRHaIM">one</a> on iOS dev, one on virtual autonomous cars)</li>
