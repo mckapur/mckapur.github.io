@@ -41,7 +41,7 @@
 			<br>
 			<img src="bg.jpeg" alt="That's me" height="215px">
 
-			<p class="header">_THINGS I DID/MADE_</p>
+			<p class="header">_COOL STUFF I DID/MADE_</p>
 			<div class="textbody">
 			  	<ul>
 						<li>Software for <a class="tag" href="https://playbackbone.com">Backbone</a> — next level play, now in your hands — on the founding team</li>
@@ -53,14 +53,14 @@
 						<li>the AI publication <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a> (2016-2017): over 250k reads, referenced in A16Z's AI Playbook amongst research papers, books & university courses, including Stanford</li>
 			  		<li><a class="tag" href="https://CryptoBets.cc">CryptoBets</a>: a decentralized blockchain betting platform, <a class="tag" href="https://CryptoBowl.co">transacted</a> ~$20k the Super Bowl & ~$15k for the FIFA World Cup Final. <a class="tag" href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum">1</a> <a class="tag" href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum">2</a></li>
 			  		<li><a class="tag" href="https://itunes.apple.com/us/app/contra-vote-debate-learn/id965626204?mt=8">Contra</a>: a debate tool (no longer live) featured in Apple's Best New Apps and 20 Under 20 promotions</li>
-						<li>a <a class="tag" href="https://drive.google.com/file/d/1irmzLZIEVzWys8BsB78XZ_-vIP582HJc/view?usp=sharing">Keto guide</a> after losing ~65 lbs on the diet in 2017  🍖</li>
-						<li>in high school <a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">performing</a> my fav song Jesus of Suburbia by Green Day to 400+ people  🎸</li>
+						<li>in high school <a class="tag" href="https://drive.google.com/file/d/0B_tD-Ps4EVdDNDkwSTdiWm1wWm8/view?usp=sharing">performing</a> my fav song Jesus of Suburbia by Green Day to 500 people with my best friends 🎸</li>
 			  		<li>open source stuff and weekend hacks on my <a class="tag" href="http://GitHub.com/MCKapur">GitHub</a></li>
 			  		<li><a class="tag" href="https://appadvice.com/app/travelog-travel-info-you-need-fast/577449648">Travelog</a>: a businessman's travel tool (no longer live), featured in Apple's 20 Under 20 promotion + wrote a <a href="https://medium.com/@mckapur/shipping-travelog-875914b05f8f">reflective piece</a> on my journey creating it.</li>
 			  		<li>an app for <a class="tag" href="http://ibo.org">IBO's</a> 2012 conf; awarded a Certificate of Appreciation by IBO's Director-General</li>
 			  		<li>an <a class="tag" href="https://github.com/MCKapur/WWDC-2013-Scholarship-App">app about myself</a> that got me a scholarship to Apple's WWDC 2013</li>
 						<li>Hack Club: a maker community in my high school</li>
 						<li>a personal primer on <a href="https://medium.com/@mckapur/how-i-got-into-stanford-594f2cf7fa96">Stanford admissions</a> (I also have a lot of personal primers on creating apps, websites, backends, etc. so reach out to me if this is of interest to you)</li>
+						<li>a <a class="tag" href="https://drive.google.com/file/d/1irmzLZIEVzWys8BsB78XZ_-vIP582HJc/view?usp=sharing">Keto guide</a> after losing ~65 lbs on the diet in 2017  🍖</li>
 						<li><a class="tag" href="https://www.youtube.com/watch?v=l4rslNqCbsY">IDEA Hacks</a>: an all ages hackathon in Singapore</li>
 			  		<li>a digital postcard service for <a href="https://www.singpost.com">SingPost</a>, driver safety features for <a href="http://grab.com">Grab</a>, and content editing tools for <a href="https://www.crunchbase.com/organization/eagerpanda">EagerPanda</a></li>
 			  		<li>two talks at the <a href="http://geekcamp.sg">Geekcamp.SG</a> conference (<a href="https://www.youtube.com/watch?v=DjBkkGRHaIM">one</a> on iOS dev, one on virtual autonomous cars)</li>
