@@ -26,6 +26,7 @@
 
 				<p>
 					🇦🇺🇸🇬🇮🇳🇺🇸
+					<br>
 					<a href="https://www.instagram.com/mckapur/" style="color: #c13584" target="_blank">Instagram</a>
 					<br>
 					<a href="http://twitter.com/mckapur" style="color: #1DA1F2" target="_blank">Twitter</a>
