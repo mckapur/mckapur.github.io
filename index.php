@@ -25,6 +25,7 @@
 				<p class="header">_currently @ <a class="tag" href="https://www.punkhouse.co">punkhouse.co</a> // on leave from Stanford_</p>
 
 				<p>
+					🇦🇺🇸🇬🇮🇳🇺🇸
 					<a href="https://www.instagram.com/mckapur/" style="color: #c13584" target="_blank">Instagram</a>
 					<br>
 					<a href="http://twitter.com/mckapur" style="color: #1DA1F2" target="_blank">Twitter</a>
@@ -37,8 +38,6 @@
 					<br>
 					<a href="mailto:me@rohankapur.com" style="color: black" target="_blank">Email</a>
 				</p>
-
-				<p class="header">🇦🇺🇸🇬🇮🇳🇺🇸</p>
 			</div>
 			<br>
 			<img src="bg.jpeg" alt="That's me" height="215px">
