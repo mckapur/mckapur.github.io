@@ -22,8 +22,7 @@
 			<img src="propic.jpeg" alt="That's me" height="295px">
 			<br>
 			<div class="textbody">
-				<p class="header">_CREATING @ <a class="tag" href="https://www.punkhouse.co">PUNKHOUSE.CO</a>_</p>
-				<p class="header">_on leave from Stanford University_</p>
+				<p class="header">_CREATING @ <a class="tag" href="https://www.punkhouse.co">PUNKHOUSE.CO</a> // on leave from Stanford Univ_</p>
 
 				<p>
 					<a href="https://www.instagram.com/mckapur/" style="color: #c13584" target="_blank">Instagram</a>
