@@ -47,10 +47,10 @@
 			<div class="textbody">
 			  	<ul>
 						<li>Software for <a class="tag" href="https://playbackbone.com">Backbone</a> — next level play, now in your hands — on the founding team</li>
-            <li>Visa primer: <a href="https://stanfordguide.org/the-ultimate-guide-to-the-e-2-visa-for-international-student-founders-6725a5480d4e">The Ultimate Guide To The E-2 Visa For International Student Founders</a></li>
-            <li><a href="http://www.fullvolumeonly.com">Full Volume Only</a>: playing shows & recording records 🎸</li>
-	          <li><a href="https://i.imgur.com/m64vOLK.jpg">a little DIY music studio in my old room</a> & <a href="https://imgur.com/5AK3T7j">a skate pedal board</a>. new room in the works :)</li>
 			  		<li><a class="tag" href="https://winno.app">Winno</a>: 21st Century News, built with <a class="tag" href="https://nickrub.in">Nick</a>; featured as "App Of The Day" twice by Apple</li>
+            <li>Visa primer: <a href="https://stanfordguide.org/the-ultimate-guide-to-the-e-2-visa-for-international-student-founders-6725a5480d4e">The Ultimate Guide To The E-2 Visa For International Student Founders</a></li>
+            <li>my band <a href="http://www.fullvolumeonly.com">Full Volume Only</a>: playing shows & recording records 🎸</li>
+	          <li><a href="https://i.imgur.com/m64vOLK.jpg">a little DIY music studio in my old room</a> & <a href="https://imgur.com/5AK3T7j">a skate pedal board</a>. new room in the works :)</li>
 			  		<li><a class="tag" href="https://www.dmt.fyi">DMT.FYI</a>: a fun educational web guide for the psychedelic DMT</li>
 						<li>the AI publication <a class="tag" href="http://AYearOfAI.com">AYearOfAI.com</a> (2016-2017): over 250k reads, referenced in A16Z's AI Playbook amongst research papers, books & university courses, including Stanford</li>
 			  		<li><a class="tag" href="https://CryptoBets.cc">CryptoBets</a>: a decentralized blockchain betting platform, <a class="tag" href="https://CryptoBowl.co">transacted</a> ~$20k the Super Bowl & ~$15k for the FIFA World Cup Final. <a class="tag" href="https://www.ccn.com/you-can-now-bet-on-the-superbowl-in-etherum">1</a> <a class="tag" href="https://www.ccn.com/betting-on-the-world-cup-final-with-ethereum">2</a></li>
