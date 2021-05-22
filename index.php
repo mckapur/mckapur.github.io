@@ -22,20 +22,16 @@
 			<img src="propic.jpeg" alt="That's me" height="295px">
 			<br>
 			<div class="textbody">
-				<p class="header">_currently @ <a class="tag" href="https://www.punkhouse.co">punkhouse.co</a> // on leave from Stanford_</p>
+				<p class="header">_currently @ <a class="tag" href="https://www.punkhouse.co">punkhouse.co</a> in SF // dropped out @ Stanford_</p>
 
 				<p>
-					🇦🇺🇸🇬🇮🇳🇺🇸
+					🇦🇺🇺🇸🇮🇳🇸🇬
 					<br>
 					<a href="https://www.instagram.com/mckapur/" style="color: #c13584" target="_blank">Instagram</a>
-					<br>
-					<a href="http://twitter.com/mckapur" style="color: #1DA1F2" target="_blank">Twitter</a>
 					<br>
 					<a href="http://github.com/mckapur" style="color: #2ecc71" target="_blank">GitHub</a>
 					<br>
 					<a href="https://open.spotify.com/user/1178095932?si=mqPft6i2SnS62ggHg2MN0A" style="color: #1BB955" target="_blank">Spotify</a>
-					<br>
-					<a href="https://stackoverflow.com/users/1260708/mckapur" style="color: #f48024" target="_blank">StackOverflow</a>
 					<br>
 					<a href="mailto:me@rohankapur.com" style="color: black" target="_blank">Email</a>
 				</p>
