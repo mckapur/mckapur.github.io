@@ -22,14 +22,14 @@
 			<img src="propic.jpeg" alt="That's me" height="295px">
 			<br>
 			<div class="textbody">
-				<p class="header">_working on <a class="tag" href="https://www.punkhouse.co">punkhouse.co</a> // <a class="tag" href="http://www.fullvolumeonly.com">fullvolumeonly.com</a> // @ SF // Stanford '21 (dropped out)_</p>
+				<p class="header">_<a class="tag" href="https://www.punkhouse.co">punkhouse.co</a> // <a class="tag" href="http://www.fullvolumeonly.com">fullvolumeonly.com</a> // @ SF // Stanford '21 (dropped out)_</p>
 
 				<p>
 					🇦🇺🇺🇸🇮🇳🇸🇬
 					<br>
 					<a href="https://www.instagram.com/mckapur/" style="color: #c13584" target="_blank">Instagram</a>
 					<br>
-					<a href="https://www.twitter.com/mckapur/" style="color: ##3498db" target="_blank">Twitter</a>
+					<a href="https://www.twitter.com/mckapur/" style="color: #3498db" target="_blank">Twitter</a>
 					<br>
 					<a href="http://github.com/mckapur" style="color: #2ecc71" target="_blank">GitHub</a>
 					<br>
