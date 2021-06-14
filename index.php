@@ -22,7 +22,7 @@
 			<img src="propic.jpeg" alt="That's me" height="295px">
 			<br>
 			<div class="textbody">
-				<p class="header">_@ <a class="tag" href="https://www.punkhouse.co">punkhouse.co</a> // <a class="tag" href="http://www.fullvolumeonly.com">fullvolumeonly.com</a> // in SF // dropped out @ Stanford_</p>
+				<p class="header">_working on <a class="tag" href="https://www.punkhouse.co">punkhouse.co</a> // <a class="tag" href="http://www.fullvolumeonly.com">fullvolumeonly.com</a> // @ SF // Stanford '21 (dropped out)_</p>
 
 				<p>
 					🇦🇺🇺🇸🇮🇳🇸🇬
