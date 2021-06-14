@@ -29,6 +29,8 @@
 					<br>
 					<a href="https://www.instagram.com/mckapur/" style="color: #c13584" target="_blank">Instagram</a>
 					<br>
+					<a href="https://www.twitter.com/mckapur/" style="color: ##3498db" target="_blank">Twitter</a>
+					<br>
 					<a href="http://github.com/mckapur" style="color: #2ecc71" target="_blank">GitHub</a>
 					<br>
 					<a href="https://open.spotify.com/user/1178095932?si=mqPft6i2SnS62ggHg2MN0A" style="color: #1BB955" target="_blank">Spotify</a>
