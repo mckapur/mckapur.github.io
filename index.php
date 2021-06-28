@@ -44,7 +44,7 @@
 			<p class="header">_COOL STUFF I DID/MADE_</p>
 			<div class="textbody">
 			  	<ul>
-						<li>the software for <a class="tag" href="https://playbackbone.com">Backbone</a> on the founding team: featured on Forbes, The Verge [9/10], TechCrunch, WIRED, etc. backed by Mr. Beast, Nadeshot, Marshmello, Ashton Kutcher / Guy O'Seary, Ludlow Ventures, and <a href="http://instagram.com/backbone">much more...</a></li>
+						<li>the software for <a class="tag" href="https://playbackbone.com">Backbone</a> on the founding team: partnered with Xbox (June 2021), featured on Forbes, The Verge [9/10], TechCrunch, WIRED, etc. backed by Mr. Beast, Nadeshot, Marshmello, Ashton Kutcher / Guy O'Seary, Ludlow Ventures, and <a href="http://instagram.com/backbone">much more...</a></li>
 			  		<li>co-created the <a class="tag" href="https://winno.app">Winno</a> app, featured as "App Of The Day" twice, and <a href="https://apps.apple.com/us/story/id1516334642">"Stand Up to Racism"</a> by Apple</li>
             <li>a visa primer: <a href="https://stanfordguide.org/the-ultimate-guide-to-the-e-2-visa-for-international-student-founders-6725a5480d4e">The Ultimate Guide To The E-2 Visa For International Student Founders</a></li>
             <li>my band <a href="http://www.fullvolumeonly.com">Full Volume Only</a>: playing shows & recording records 🎸</li>
